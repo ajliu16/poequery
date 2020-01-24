@@ -1,0 +1,1792 @@
+
+	Three Faces in the Dark
+Divination Card
+3x Chaos Orb
+The Grain Gate[L57]
+The Refinery[L63]
+The Imperial Fields[L58]
+Castle Ruins Map
+The Marketplace[L26]
+Arsenal Map
+Factory Map
+
+	The Doctor
+Divination Card
+Headhunter
+Spider Forest Map
+Burial Chambers Map
+
+	The Hermit
+Divination Card
+Lifesprig
+The Broken Bridge[L16]
+The Causeway[L54]
+The Vaal City[L54]
+The Crossroads[L15]
+The Fellshrine Ruins[L16]
+The Ashen Fields[L53]
+
+	Lantador's Lost Love
+Divination Card
+Two-Stone Ring
+The Karui Fortress[L46]
+The Tidal Island[L3]
+The Coast[L2]
+The Cavern of Anger[L13]
+The Beacon[L49]
+The Brine King's Reef[L50]
+Prisoner's Gate[L10]
+The Twilight Strand[L1]
+The Wetlands[L19]
+The Ridge[L46]
+The Western Forest[L17]
+The Southern Forest[L13]
+The Mud Flats[L4]
+Shavronne's Tower[L47]
+The Lower Prison[L8]
+The Riverways[L15]
+
+	The Metalsmith's Gift
+Divination Card
+Prismatic Ring
+The Fetid Pool[L5]
+The Karui Fortress[L46]
+The Mud Flats[L4]
+
+	The Battle Born
+Divination Card
+Axe
+Kaom's Dream[L37]
+Kaom's Stronghold[L38]
+Volcano Map
+
+	The Gladiator
+Divination Card
+Nightmare Bascinet
+Daresso's Dream[L37]
+Colosseum Map
+The Grand Arena[L38]
+Arena Map
+
+	The Scholar
+Divination Card
+40x Scroll of Wisdom
+Academy Map
+Museum Map
+Scriptorium Map
+The Library[L30]
+The Archives[L31]
+
+	The Brittle Emperor
+Divination Card
+Voll's Devotion
+Corrupted
+The Brittle Emperor
+Voll, Emperor of Purity
+
+	The Poet
+Divination Card
+Blood of Corruption
+Corrupted
+The Marketplace[L26]
+The Quay[L57]
+
+	The Carrion Crow
+Divination Card
+Life Armour
+The Western Forest[L17]
+The City of Sarn[L23]
+The Ebony Barracks[L29]
+The Battlefront[L27]
+The Aqueduct[L33]
+The Ascent[L40]
+The Grand Promenade[L56]
+The Blood Aqueduct[L61]
+Colonnade Map[T13]
+Courtyard Map[T5]
+Promenade Map[T6]
+Ramparts Map[T2]
+
+	Hope
+Divination Card
+Prismatic Ring
+Corrupted
+Beach Map[T4]
+Dungeon Map[T2]
+Lookout Map[T4]
+
+	The Fiend
+Divination Card
+Headhunter
+Corrupted
+The Putrid Cloister
+Shrine Map[T14]
+
+	Birth of the Three
+Divination Card
+The Goddess Bound
+The Twilight Strand[L1]
+Hillock
+
+	Vinia's Token
+Divination Card
+10x Orb of Regret
+The Crematorium[L25]
+Overgrown Shrine Map[T6]
+Shrine Map[T14]
+
+	The Summoner
+Divination Card
+Superior Minion Gem
+Quality: +20%
+Cells Map[T9]
+Crypt
+The Upper Prison[L9]
+Tower Map[T13]
+The Chamber of Sins Level 1[L15]
+The Catacombs[L27]
+Acton's Nightmare
+The Fetid Pool[L5]
+Necropolis Map[T6]
+The Coward's Trial
+The Crypt Level 2[L18]
+Dungeon Map[T2]
+The Lower Prison[L8]
+Catacombs
+The Chamber of Sins Level 2[L16]
+Shavronne's Tower[L47]
+
+	The Cataclysm
+Divination Card
+Level 21 Spell Gem
+Corrupted
+Corrupted areas
+
+	The Hunger
+Divination Card
+Taste of Hate
+The Belly of the Beast Level 1[L38]
+The Belly of the Beast Level 2[L39]
+The Harvest
+The Rotting Core[L64]
+Carcass Map[T12]
+Phantasmagoria Map[T8]
+
+	The Hoarder
+Divination Card
+Exalted Orb
+The Belly of the Beast Level 1[L38]
+The Belly of the Beast Level 2[L39]
+The Harvest
+The Rotting Core[L64]
+Vault Map[T6]
+
+	The Drunken Aristocrat
+Divination Card
+Divination Distillate
+Villa Map[T9]
+
+	The Sun
+Divination Card
+Rise of the Phoenix
+The Solaris Temple Level 1[L27]
+The Solaris Temple Level 2[L28]
+
+	The Warden
+Divination Card
+Amulet
+Corrupted
+The Upper Prison[L9]
+The Lower Prison[L8]
+The Slave Pens[L41]
+Shavronne's Tower[L47]
+Cage Map[T5]
+Dungeon Map[T2]
+Pen Map[T5]
+Tower Map[T13]
+
+	The Scarred Meadow
+Divination Card
+Wake of Destruction
+The Old Fields[L14]
+Ashen Wood Map[T3]
+Fields Map[T7]
+Peninsula Map[T2]
+
+	The Dark Mage
+Divination Card
+Six-Link Staff
+Item Level: 55
+The Chamber of Sins Level 2[L16]
+Overgrown Ruin Map[T10]
+
+	The Gemcutter
+Divination Card
+Gemcutter's Prism
+Gemcutter's Strongbox
+
+	The Gambler
+Divination Card
+Divination Card
+Any Map area
+
+	The Lover
+Divination Card
+Jewellery
+Item Level: 79
+Maelström of Chaos
+Mineral Pools Map[T7]
+Underground Sea Map[T4]
+
+	Chaotic Disposition
+Divination Card
+5x Chaos Orb
+Poorjoy's Asylum
+
+	The Road to Power
+Divination Card
+Runic One-Hand Weapon
+Item Level: 100
+Castle Ruins Map[T9]
+
+	The Avenger
+Divination Card
+Mjölner
+Corrupted
+Primordial Blocks Map[T14]
+
+	Emperor's Luck
+Divination Card
+5x Currency
+The Imperial Gardens[L30]
+The High Gardens[L58]
+Courtyard Map[T5]
+Orchard Map[T8]
+Terrace Map[T12]
+
+	Time-Lost Relic
+Divination Card
+League-Specific Item
+Excavation Map[T2]
+
+	Lucky Connections
+Divination Card
+20x Orb of Fusing
+The Docks[L29]
+The Quay[L57]
+Port Map[T4]
+Shipyard Map[T13]
+Wharf Map[T10]
+
+	The Feast
+Divination Card
+Romira's Banquet
+Corrupted
+The Northern Forest[L21]
+The Sewers[L26]
+The Toxic Conduits[L56]
+Lair of the Hydra Map[T16]
+Toxic Sewer Map[T8]
+Waste Pool Map[T15]
+
+	Rain of Chaos
+Divination Card
+Chaos Orb
+The Imperial Fields[L58]
+The Crossroads[L15]
+Castle Ruins Map[T9]
+
+	The Watcher
+Divination Card
+Crown of Eyes
+Grotto Map[T5]
+
+	The Incantation
+Divination Card
+The Whispering Ice
+Spider Forest Map[T7]
+The Western Forest[L17]
+Burial Chambers Map[T6]
+
+	Coveted Possession
+Divination Card
+5x Regal Orb
+The Catacombs[L27]
+The Ossuary[L44]
+Bone Crypt Map[T7]
+
+	The King's Heart
+Divination Card
+Kaom's Heart
+Caldera Map[T14]
+Volcano Map[T8]
+
+	Abandoned Wealth
+Divination Card
+3x Exalted Orb
+Arsenal Map[T11]
+Mao Kun
+Precinct Map[T12]
+
+	The Wind
+Divination Card
+Windripper
+Atoll Map[T3]
+Jungle Valley Map[T3]
+
+	The Pact
+Divination Card
+Pledge of Hands
+The Quay[L57]
+
+	Gemcutter's Promise
+Divination Card
+Superior Gem
+Quality: +20%
+The Ebony Barracks[L29]
+The Lunaris Concourse[L58]
+Colonnade Map[T13]
+
+	The Celestial Justicar
+Divination Card
+Six-Link Astral Plate
+Crypt
+Cursed Crypt Map[T1]
+
+	The Chains that Bind
+Divination Card
+Six-Link Body Armour
+Cage Map[T5]
+Lava Chamber Map[T8]
+Pen Map[T5]
+Pit Map[T6]
+
+	The Artist
+Divination Card
+Level 4 Enhance
+Corrupted
+Overgrown Ruin Map[T10]
+Overgrown Shrine Map[T6]
+
+	The Inventor
+Divination Card
+10x Vaal Orb
+The Temple of Decay Level 1[L54]
+The Temple of Decay Level 2[L55]
+Maze Map[T3]
+Vaal Pyramid Map[T9]
+
+	The Pack Leader
+Divination Card
+Alpha's Howl
+Ashen Wood Map[T3]
+Dark Forest Map[T15]
+Jungle Valley Map[T3]
+Lair Map[T6]
+Tropical Island Map[T9]
+
+	Jack in the Box
+Divination Card
+Item
+The Sarn Ramparts[L55]
+The Imperial Fields[L58]
+The Harbour Bridge[L60]
+The Grand Promenade[L56]
+The Lunaris Concourse[L58]
+The Quay[L57]
+The Grain Gate[L57]
+Arsenal Map[T11]
+Ghetto Map[T7]
+Port Map[T4]
+Promenade Map[T6]
+
+	The Union
+Divination Card
+10x Gemcutter's Prism
+Cemetery Map[T8]
+Graveyard Map[T5]
+
+	The Queen
+Divination Card
+Atziri's Acuity
+Vaults of Atziri
+
+	Humility
+Divination Card
+Tabula Rasa
+The Aqueduct[L33]
+The Blood Aqueduct[L61]
+Channel Map[T3]
+Waterways Map[T8]
+
+	The Explorer
+Divination Card
+Map
+Corrupted
+The Dread Thicket[L21]
+Thicket Map[T5]
+
+	The Spoiled Prince
+Divination Card
+Dictator's Prophecy Wand
+Item Level: 100
+Vaal Pyramid Map[T9]
+
+	The Betrayal
+Divination Card
+Maligaro's Virtuosity
+The Northern Forest[L21]
+The Southern Forest[L13]
+The Riverways[L15]
+Burial Chambers Map
+Mesa Map[T10]
+Spider Forest Map[T7]
+Strand Map[T2]
+Fungal Hollow Map
+
+	The Flora's Gift
+Divination Card
+Five-Link Staff
+Item Level: 66
+Jungle Valley Map[T3]
+Tropical Island Map[T9]
+
+	The Siren
+Divination Card
+The Whispering Ice
+Corrupted
+The Cavern of Anger[L13]
+The Brine King's Reef[L50]
+Maelström of Chaos
+
+	The One With All
+Divination Card
+Le Heup of All
+Corrupted
+The Tidal Island[L3]
+Oba's Cursed Trove
+
+	The Last One Standing
+Divination Card
+Atziri's Disfavour
+Hall of Grandmasters
+
+	Doedre's Madness
+Divination Card
+Doedre Item
+The Harvest
+Doedre's Cesspool[L56]
+Doedre Darktongue
+Doedre the Vile
+Erythrophagia
+Prodigy of Hexes
+
+	The Encroaching Darkness
+Divination Card
+Map
+Corrupted
+Museum Map[T9]
+Crematorium
+Thicket Map[T5]
+Spider Forest Map[T7]
+Racecourse Map[T14]
+Bog Map[T11]
+Catacombs
+Mud Geyser Map[T7]
+Scriptorium Map[T10]
+
+	The Wrath
+Divination Card
+10x Chaos Orb
+The Cathedral Rooftop[L45]
+The Canals[L66]
+The Feeding Trough[L67]
+The Cavern of Anger[L13]
+Belfry Map[T14]
+Lava Lake Map[T15]
+
+	The King's Blade
+Divination Card
+{Bloodthirsty Eternal Sword
+Item Level: 66}
+Daresso's Dream[L37]
+Pit Map[T6]
+
+	The Trial
+Divination Card
+Map
+Map Tier: 15
+Corrupted
+Tier 7-11 Map
+
+	The Gentleman
+Divination Card
+Sword
+Corrupted
+The Slums[L24]
+The Sarn Ramparts[L55]
+The Grain Gate[L57]
+Ghetto Map[T7]
+
+	House of Mirrors
+Divination Card
+Mirror of Kalandra
+The Alluring Abyss
+The Eternal Labyrinth
+Diviner's Strongbox
+
+	Wealth and Power
+Divination Card
+Level 4 Enlighten
+Corrupted
+The Lunaris Temple Level 2[L30]
+
+	The Catalyst
+Divination Card
+Vaal Orb
+The Vaal City[L54]
+The Temple of Decay Level 1[L54]
+The Temple of Decay Level 2[L55]
+Ancient City Map[T5]
+Maze Map[T3]
+Vaal Pyramid Map[T9]
+Vaults of Atziri
+Vaal Temple Map[T16]
+
+	The Vast
+Divination Card
+Song of the Sirens
+Coral Ruins Map[T9]
+
+	Gift of the Gemling Queen
+Divination Card
+Level 20 Support Gem
+The Tunnel[L62]
+The Quarry[L63]
+Crystal Ore Map[T12]
+Dig Map[T11]
+Excavation Map[T2]
+
+	The Dragon's Heart
+Divination Card
+Level 4 Empower
+Corrupted
+Pit of the Chimera Map[T16]
+The Putrid Cloister
+
+	The Fox
+Divination Card
+Level 20 Gem
+The Western Forest[L17]
+The Vaal City[L54]
+The Crossroads[L15]
+The Fellshrine Ruins[L16]
+Barrows Map[T3]
+Sunken City Map[T12]
+
+	The Doppelganger
+Divination Card
+Superior Mirror Arrow
+Quality: +20%
+The Crossroads[L15]
+Whakawairua Tuahu
+
+	The Survivalist
+Divination Card
+7x Orb of Alchemy
+The Wetlands[L19]
+Mineral Pools Map[T7]
+Underground Sea Map[T4]
+
+	Death
+Divination Card
+Mon'tregul's Grasp
+The Karui Fortress[L46]
+Bog Map[T11]
+Flooded Mine Map[T4]
+Marshes Map[T5]
+Mud Geyser Map[T7]
+
+	Grave Knowledge
+Divination Card
+Summon Raging Spirit
+Quality: +20%
+Bone Crypt Map
+Cursed Crypt Map
+Olmec's Sanctum
+
+	The Jester
+Divination Card
+{Merciless One-Hand Weapon
+Item Level: 100}
+Villa Map[T9]
+
+	The Mercenary
+Divination Card
+Shield
+Corrupted
+The Broken Bridge[L16]
+Castle Ruins Map[T9]
+
+	The Inoculated
+Divination Card
+Seraphim's Armour
+WorldAreas#Acid Lakes
+Primordial Pool Map[T6]
+
+	Loyalty
+Divination Card
+3x Orb of Fusing
+The Den[L15]
+Barrows Map[T3]
+Grotto Map[T5]
+Lair Map[T6]
+
+	Pride Before the Fall
+Divination Card
+Kaom's Heart
+Corrupted
+The Coast[L2]
+The Tidal Island[L3]
+The Mud Flats[L4]
+The Karui Fortress[L46]
+Caldera Map[T14]
+Lava Lake Map[T15]
+Marshes Map[T5]
+Volcano Map[T8]
+
+	Audacity
+Divination Card
+Doryani's Fist
+Corrupted
+The Apex of Sacrifice
+
+	Assassin's Favour
+Divination Card
+Dagger
+The Marketplace[L26]
+The Quay[L57]
+Alleyways Map[T1]
+Arcade Map[T4]
+Bazaar Map[T7]
+Park Map[T13]
+
+	Hunter's Resolve
+Divination Card
+Bow
+The Riverways[L15]
+Fungal Hollow Map
+
+	Scholar of the Seas
+Divination Card
+Mao Kun
+Coves Map[T11]
+The Brine King's Reef[L50]
+Reef Map[T12]
+
+	The Conduit
+Divination Card
+Doryani's Fist
+The Upper Sceptre of God[L33]
+Palace Map[T11]
+Residence Map[T6]
+God's Chosen
+The High Templar
+
+	The Tower
+Divination Card
+Staff
+Tower Map[T13]
+The Sceptre of God[L32]
+Residence Map[T6]
+The Upper Sceptre of God[L33]
+
+	The Twins
+Divination Card
+Gemini Claw of Celebration
+Item Level: 83
+Ivory Temple Map[T14]
+Moon Temple Map[T10]
+
+	Anarchy's Price
+Divination Card
+Voltaxic Rift
+Corrupted
+Rogue Exiles
+
+	The Lich
+Divination Card
+Midnight Bargain
+Corrupted
+The Upper Prison[L9]
+Bone Crypt Map[T7]
+Sawbones
+Xixic, High Necromancer
+
+	The Thaumaturgist
+Divination Card
+Shavronne's Revelation
+Corrupted
+Shrine Map[T14]
+
+	The Aesthete
+Divination Card
+Shavronne Item
+The Harvest
+Core Map[T15]
+Scriptorium Map[T10]
+Tower Map[T13]
+WorldAreas#Tribunal
+Prodigy of Darkness
+Shavronne of Umbra
+
+	The Enlightened
+Divination Card
+Level 3 Enlighten
+Ashen Wood Map[T3]
+
+	Hunter's Reward
+Divination Card
+The Taming
+Grotto Map[T5]
+Underground River Map[T9]
+
+	The Fletcher
+Divination Card
+Drillneck
+Corrupted
+The Climb[L7]
+Ironpoint the Forsaken
+Lieutenant of the Bow
+Steelpoint the Avenger
+
+	The Surveyor
+Divination Card
+Map
+Map Tier: 14
+Core Map[T15]
+Malformation Map[T12]
+Phantasmagoria Map[T8]
+
+	Bowyer's Dream
+Divination Card
+Six-Link Harbinger Bow
+Item Level: 91
+Lord of the Ashen Arrow
+
+	The Surgeon
+Divination Card
+Surgeon's Flask
+The Chamber of Sins Level 1[L15]
+The Chamber of Sins Level 2[L16]
+Overgrown Ruin Map[T10]
+Overgrown Shrine Map[T6]
+
+	Volatile Power
+Divination Card
+Superior Vaal Gem
+Quality: +20%
+Corrupted
+Excavation Map[T2]
+The Mines Level 1[L34]
+Quarry
+Crystal Ore Map[T12]
+The Tunnel[L62]
+The Crystal Veins[L36]
+The Mines Level 2[L35]
+Geode Map[T6]
+
+	Last Hope
+Divination Card
+Mortal Hope
+Vaal Temple Map[T16]
+
+	Hubris
+Divination Card
+Ring
+The Library[L30]
+The Hedge Maze
+Jeweller's Strongbox
+
+	Blind Venture
+Divination Card
+Ring
+Corrupted
+The Reliquary[L44]
+Museum Map[T9]
+Relic Chambers Map[T10]
+
+	Merciless Armament
+Divination Card
+{Merciless Two-Hand Weapon
+Item Level: 100}
+Armoury Map[T4]
+Colonnade Map[T13]
+
+	The Cartographer
+Divination Card
+10x Cartographer's Chisel
+Cartographer's Strongbox
+
+	The Warlord
+Divination Card
+Six-Link Coronal Maul
+Item Level: 83
+Arsenal Map[T11]
+
+	The Demoness
+Divination Card
+Death's Hand
+The Northern Forest[L21]
+
+	The Traitor
+Divination Card
+Wand
+Corrupted
+The Battlefront[L27]
+The Sarn Ramparts[L55]
+Promenade Map[T6]
+Ramparts Map[T2]
+
+	The Offering
+Divination Card
+Shavronne's Wrappings
+The Rotting Core[L64]
+Tower Map[T13]
+WorldAreas#Tribunal
+Gisale, Thought Thief
+Prodigy of Darkness
+Shavronne, Unbound
+
+	Lost Worlds
+Divination Card
+Map
+Map Tier: 15
+Level 4+ Zana
+
+	The Lord in Black
+Divination Card
+Ring of Bameth
+Item Level: 83
+Bameth, Shifting Darkness
+
+	A Mother's Parting Gift
+Divination Card
+Fertile Mind
+The High Gardens[L58]
+The Imperial Gardens[L30]
+
+	The Body
+Divination Card
+Body Armour
+Armourer's Strongbox
+
+	Turn the Other Cheek
+Divination Card
+Pacifism
+Corrupted
+The Library[L30]
+
+	Glimmer of Hope
+Divination Card
+Gold Ring
+Crystal Ore Map[T12]
+Underground River Map[T9]
+Underground Sea Map[T4]
+
+	The Ethereal
+Divination Card
+Six-Link Vaal Regalia
+The Apex of Sacrifice
+
+	Prosperity
+Divination Card
+Perandus' Gold Ring
+The Tidal Island[L3]
+Shore Map[T7]
+
+	The Sigil
+Divination Card
+Unassailable Amulet
+Overgrown Shrine Map[T6]
+
+	The Dapper Prodigy
+Divination Card
+Six-Link Body Armour
+Item Level: 100
+Residence Map[T6]
+
+	The Rabid Rhoa
+Divination Card
+Malicious Gemini Claw
+Item Level: 83
+Arid Lake Map[T3]
+Drought-Maddened Rhoa
+
+	The Soul
+Divination Card
+Soul Taker
+Overgrown Shrine Map[T6]
+WorldAreas#Tribunal
+
+	The Lion
+Divination Card
+Lioneye Item
+WorldAreas#Gorge
+
+	The Dragon
+Divination Card
+Coruscating Elixir
+Dark Forest Map[T15]
+
+	Rats
+Divination Card
+Rat's Nest
+The Imperial Fields[L58]
+The Grain Gate[L57]
+Factory Map[T10]
+
+	The Risk
+Divination Card
+Ventor's Gamble
+Diviner's Strongbox
+Izaro's Treasure
+
+	Tranquillity
+Divination Card
+Voltaxic Rift
+The Ashen Fields[L53]
+Fields Map[T7]
+
+	Her Mask
+Divination Card
+Sacrifice Fragment
+Low-tier 1-6 map areas
+
+	Treasure Hunter
+Divination Card
+Vaults of Atziri
+Corrupted
+Underground Sea Map[T4]
+
+	Earth Drinker
+Divination Card
+Granite Flask
+The Vastiri Desert[L61]
+The Oasis[L61]
+The Foothills[L62]
+Desert Map[T3]
+Dunes Map[T8]
+
+	The Wolf's Shadow
+Divination Card
+Hyaon's Fury
+Underground River Map[T9]
+Caer Blaidd, Wolfpack's Den
+Lair Map[T6]
+
+	The Arena Champion
+Divination Card
+Colosseum Map
+Arena Map[T11]
+Pit Map[T6]
+
+	The Sephirot
+Divination Card
+10x Divine Orb
+The Upper Sceptre of God[L33]
+God's Chosen
+
+	The Visionary
+Divination Card
+Lioneye's Vision
+The Grand Arena[L38]
+Colosseum Map[T13]
+
+	Thunderous Skies
+Divination Card
+Storm Cloud
+Strand Map[T2]
+Courtyard Map[T5]
+The Twilight Strand[L1]
+Tower Map[T13]
+
+	Dying Anguish
+Divination Card
+Superior Level 19 Gem
+Quality: +19%
+The Harbour Bridge[L60]
+The Bath House[L57]
+The Lunaris Concourse[L58]
+The Quay[L57]
+The Grain Gate[L57]
+Colonnade Map[T13]
+Ghetto Map[T7]
+Port Map[T4]
+Precinct Map[T12]
+Promenade Map[T6]
+
+	The Immortal
+Divination Card
+House of Mirrors
+Hall of Grandmasters
+
+	The Throne
+Divination Card
+Kaom's Roots
+Corrupted
+Lair of the Hydra Map[T16]
+Toxic Sewer Map[T8]
+
+	Boundless Realms
+Divination Card
+Map
+The Solaris Temple Level 2[L28]
+Ivory Temple Map[T14]
+Temple Map[T9]
+
+	The Devastator
+Divination Card
+Atziri's Disfavour
+Corrupted
+
+	Destined to Crumble
+Divination Card
+Body Armour
+Item Level: 100
+Academy Map[T7]
+Museum Map[T9]
+Scriptorium Map[T10]
+
+	Shard of Fate
+Divination Card
+Vivid Jewel
+The Chamber of Sins Level 2[L16]
+Museum Map[T9]
+Overgrown Ruin Map[T10]
+Overgrown Shrine Map[T6]
+
+	Heterochromia
+Divination Card
+Two-Stone Ring
+Estuary Map[T7]
+
+	Rain Tempter
+Divination Card
+Strand Map
+Item Level: 73
+Grotto Map[T5]
+
+	The Void
+Divination Card
+
+	The Tyrant
+Divination Card
+Merciless Weapon
+Item Level: 100
+Precinct Map[T12]
+
+	The Web
+Divination Card
+Weapon of Crafting
+The Weaver's Chambers[L18]
+Arachnid Nest Map[T10]
+Arachnid Tomb Map[T8]
+Spider Lair Map[T3]
+
+	The Harvester
+Divination Card
+The Harvest
+Castle Ruins Map[T9]
+
+	The Lunaris Priestess
+Divination Card
+Sire of Shards
+The Lunaris Temple Level 2[L30]
+Shrine Map[T14]
+
+	Emperor of Purity
+Divination Card
+Six-Link Holy Chainmail
+Item Level: 60
+The Western Forest[L17]
+The Chamber of Sins Level 1[L15]
+Overgrown Ruin Map[T10]
+Fungal Hollow Map
+
+	The Cursed King
+Divination Card
+Rigwald's Curse
+Caer Blaidd, Wolfpack's Den
+
+	The Stormcaller
+Divination Card
+Agnerod Staff
+Primordial Blocks Map[T14]
+
+	Lysah's Respite
+Divination Card
+Agate Amulet
+Corrupted
+Maelström of Chaos
+Mineral Pools Map[T7]
+Underground Sea Map[T4]
+
+	Cartographer's Delight
+Divination Card
+Map
+Map Tier: 5
+The Harbour Bridge[L60]
+The Foothills[L62]
+
+	Lucky Deck
+Divination Card
+10x Stacked Deck
+Ramparts Map[T2]
+
+	Light and Truth
+Divination Card
+Crystal Sceptre
+The Upper Sceptre of God[L33]
+Residence Map[T6]
+Villa Map[T9]
+
+	Luck of the Vaal
+Divination Card
+Vaal Gauntlets
+Corrupted
+
+	The Endurance
+Divination Card
+Vivid Crimson Jewel
+The Mines Level 1[L34]
+The Mines Level 2[L35]
+The Crystal Veins[L36]
+The Tunnel[L62]
+Excavation Map[T2]
+Geode Map[T6]
+
+	The Penitent
+Divination Card
+Unset Ring
+Cells Map[T9]
+
+	The Wolf
+Divination Card
+Rigwald Item
+Flooded Mine Map[T4]
+
+	Dialla's Subjugation
+Divination Card
+{Superior Support Gem
+Quality: +23%
+Corrupted}
+Ivory Temple Map[T14]
+Temple Map[T9]
+
+	The Calling
+Divination Card
+Beyond Item
+Beyond demons
+
+	The Valkyrie
+Divination Card
+Nemesis Item
+Rogue exiles
+
+	The Formless Sea
+Divination Card
+Varunastra
+Reef Map[T12]
+
+	The Oath
+Divination Card
+Death's Oath
+Core Map[T15]
+Malformation Map[T12]
+Phantasmagoria Map[T8]
+The Belly of the Beast[L63]
+
+	The Scavenger
+Divination Card
+Carcass Jack
+The Aqueduct[L33]
+Underground River Map[T9]
+It That Fell
+The Winged Death
+
+	Mawr Blaidd
+Divination Card
+Eyes of the Greatwolf
+Dark Forest Map[T15]
+
+	The Porcupine
+Divination Card
+Six-Link Short Bow
+Item Level: 50
+The High Gardens[L58]
+Gardens Map[T13]
+Plaza Map[T14]
+Terrace Map[T12]
+
+	The Coming Storm
+Divination Card
+Lightning Coil
+Colonnade Map[T13]
+Graveyard Map[T5]
+Infested Valley Map[T11]
+Leyline Map[T3]
+Shipyard Map[T13]
+Villa Map[T9]
+Whart
+
+	The Polymath
+Divination Card
+Astramentis
+The Reliquary[L44]
+Relic Chambers Map[T10]
+
+	The Wolverine
+Divination Card
+Claw
+Corrupted
+The Prisoner's Gate
+WorldAreas#Gorge
+Summit Map[T13]
+
+	Mitts
+Divination Card
+Gloves
+The Ascent[L40]
+The Solaris Temple Level 1[L27]
+The Solaris Temple 2
+Iceberg Map[T1]
+Summit Map[T13]
+
+	The Wretched
+Divination Card
+Belt
+Bone Crypt Map[T7]
+Cells Map[T9]
+The Coward's Trial
+Dungeon Map[T2]
+Necropolis Map[T6]
+Overgrown Ruin Map[T10]
+Action's Nightmare
+Forge of the Phoenix Map[T16]
+Primordial Blocks Map[T14]
+Tower Map[T13]
+
+	The Wolven King's Bite
+Divination Card
+Rigwald's Quills
+Dark Forest Map[T15]
+Lair Map[T6]
+
+	The Standoff
+Divination Card
+Rustic Sash
+The Torched Courts[L44]
+Bone Crypt Map[T7]
+Lava Chamber Map[T8]
+Forge of the Phoenix Map[T16]
+
+	The Forsaken
+Divination Card
+Umbilicus Immortalis
+Bone Crypt Map[T7]
+Omlec's Sanctum
+
+	The Garish Power
+Divination Card
+Jewel
+The Chamber of Sins Level 1[L15]
+The Chamber of Sins Level 2[L16]
+
+	Lingering Remnants
+Divination Card
+Vaal Temple Map
+Item Level: 83
+Corrupted
+Tier 11-16 maps
+
+	The Spark and the Flame
+Divination Card
+Berek's Respite
+Atoll Map[T3]
+Maelström of Chaos
+
+	The Saint's Treasure
+Divination Card
+2x Exalted Orb
+Alleyways Map
+Arcade Map
+Arsenal Map
+Bazaar Map
+Ghetto Map
+Port Map
+Precinct Map
+The Grain Gate[L57]
+The Imperial Fields[L58]
+The Marketplace[L26]
+The Slums[L24]
+
+	Call to the First Ones
+Divination Card
+Tier 1 Talisman
+Corrupted
+Infested Valley Map[T11]
+
+	The Valley of Steel Boxes
+Divination Card
+Monstrous Treasure
+Strongbox
+
+	Might is Right
+Divination Card
+Trypanon
+The Reliquary[L44]
+The Ossuary[L44]
+Mausoleum Map[T4]
+Relic Chambers Map[T10]
+Sepulchre Map[T6]
+
+	The Opulent
+Divination Card
+Ring
+Item Level: 100
+Chateau Map[T10]
+Conservatory Map[T8]
+Crimson Temple Map[T13]
+Ivory Temple Map[T14]
+Laboratory Map[T9]
+Relic Chambers Map[T10]
+Residence Map[T6]
+Temple Map[T9]
+Vaults of Atziri
+Vault Map[T6]
+Villa Map[T9]
+
+	Struck by Lightning
+Divination Card
+Electrocuting Jewellery
+Item Level: 76
+Cemetery Map[T8]
+Courtyard Map[T5]
+Graveyard Map[T5]
+Infested Valley Map
+Leyline Map
+Promenade Map
+Shipyard Map
+Tower Map
+Wharf Map
+
+	Atziri's Arsenal
+Divination Card
+Weapon
+Corrupted
+Vaults of Atziri
+
+	The Ruthless Ceinture
+Divination Card
+Meginord's Girdle
+Corrupted
+The Foothills[L62]
+Dig Map[T11]
+Maze of the Minotaur Map[T16]
+Summit Map[T13]
+
+	No Traces
+Divination Card
+30x Orb of Scouring
+The Ossuary[L44]
+Mausoleum Map[T4]
+Sepulchre Map[T6]
+
+	The Realm
+Divination Card
+Superior Portal
+Breach
+
+	The Eye of the Dragon
+Divination Card
+Jewel
+Corrupted
+The Boiling Lake[L62]
+Marshes Map[T5]
+Sulphur Vents[L4]
+
+	The Blazing Fire
+Divination Card
+Chin Sol
+The Ruined Square[L44]
+The Torched Courts[L44]
+Alleyways Map[T1]
+Haunted Mansion Map[T2]
+Siege Map[T13]
+
+	Left to Fate
+Divination Card
+Map
+Map Tier: 16
+Unidentified Corrupted
+The Pale Court
+
+	Rebirth
+Divination Card
+Charan's Sword
+The Slave Pens[L41]
+The Ruined Square[L44]
+The Reliquary[L44]
+The Broken Bridge[L16]
+The Crypt[L51]
+The Ashen Fields[L53]
+The Blood Aqueduct[L61]
+The Vastiri Desert[L61]
+
+	The Insatiable
+Divination Card
+The Harvest
+Corrupted
+Carcass Map[T12]
+
+	The Obscured
+Divination Card
+Breachstone
+Abyss
+
+	The Iron Bard
+Divination Card
+Trash to Treasure
+The Vinktar Square
+
+	Forbidden Power
+Divination Card
+Balefire
+Corrupted
+The Solaris Temple
+The Harbour Bridge[L60]
+
+	The Breach
+Divination Card
+Breach Item
+Null Portals
+
+	The Dreamer
+Divination Card
+Chayula Item
+Agents of the Void
+
+	The World Eater
+Divination Card
+Starforge
+Abaxoth, the End of All That Is
+
+	The Deceiver
+Divination Card
+Belt of the Deceiver
+Corrupted
+The Grand Arena[L38]
+Arena Map[T11]
+Colosseum Map[T13]
+
+	Blessing of God
+Divination Card
+Elreon's Jewellery
+Item Level: 85
+Elreon missions
+
+	The Puzzle
+Divination Card
+5x Breachstone Splinter
+Beyond demons
+
+	The Witch
+Divination Card
+Kiara's Determination
+Burial Chambers Map[T6]
+Spider Forest Map[T7]
+
+	Immortal Resolve
+Divination Card
+Fated Connections
+Carcass Map[T12]
+Vault Map[T6]
+
+	The Jeweller's Boon
+Divination Card
+The Jeweller's Touch
+Crystal Ore Map[T12]
+
+	The Darkest Dream
+Divination Card
+Severed in Sleep
+Corrupted
+Whakawairua Tuahu
+
+	The Master
+Divination Card
+Bisco's Collar
+Pen Map[T5]
+Arwyn, the Houndmaster
+
+	The Fathomless Depths
+Divination Card
+Lightpoacher
+Flooded Mine Map[T4]
+The Cavern of Anger[L13]
+Underground Sea Map[T4]
+
+	The Undaunted
+Divination Card
+Nemesis Item
+Corrupted
+Basilica Map[T11]
+Courthouse Map[T12]
+Precinct Map[T12]
+
+	The Admirer
+Divination Card
+Atziri Item
+Ancient City Map[T5]
+
+	The Sword King's Salute
+Divination Card
+Daresso's Salute
+
+	The Army of Blood
+Divination Card
+Bloodbond
+Shrine Map[T14]
+
+	The Celestial Stone
+Divination Card
+Opal Ring
+Item Level: 100
+Shaper Item
+Basilica Map[T11]
+Lair of the Hydra Map[T16]
+Terrace Map[T12]
+
+	Perfection
+Divination Card
+Jewellery
+Item Level: 100
+Shaper Item
+Guardian of the Minotaur
+Guardian of the Chimera
+Guardian of the Hydra
+Guardian of the Phoenix
+
+	The Dreamland
+Divination Card
+Poorjoy's Asylum
+Cartographer's Strongbox
+
+	Harmony of Souls
+Divination Card
+9x Shrieking Essence
+Doedre, Darksoul
+Maligaro, The Broken
+Shavronne, Unbound
+Maligaro the Mutilator
+Doedre the Defiler
+Shavronne the Sickening
+
+	The Samurai's Eye
+Divination Card
+Watcher's Eye
+Abyssal Depths[L4]
+
+	The Hale Heart
+Divination Card
+Item
+Item Level: 100
+Elder Item
+T13+ Elder Guardians
+
+	The Mayor
+Divination Card
+The Perandus Manor
+Ivory Temple Map[T14]
+Armourer's Strongbox
+
+	The Undisputed
+Divination Card
+Merciless Vaal Axe
+Item Level: 100
+Elder Item
+Chayula, Who Dreamt
+
+	The Rite of Elements
+Divination Card
+Level 21 Golem Gem
+Corrupted
+Courthouse Map[T12]
+Flooded Mine Map[T4]
+Vault Map[T6]
+Wharf Map[T10]
+
+	Three Voices
+Divination Card
+3x Essence
+City Square Map[T4]
+Courthouse Map[T12]
+Courtyard Map[T5]
+Graveyard Map[T5]
+Racecourse Map[T14]
+
+	The Professor
+Divination Card
+The Putrid Cloister
+Laboratory Map[T9]
+
+	The Beast
+Divination Card
+Belly of the Beast
+The Belly of the Beast[L63]
+The Belly of the Beast Level 1[L38]
+The Belly of the Beast Level 2[L39]
+
+	The Innocent
+Divination Card
+40x Orb of Regret
+
+	The Wilted Rose
+Divination Card
+Level 21 Aura Gem
+Corrupted
+
+	The Endless Darkness
+Divination Card
+Voidforge
+
+	Beauty Through Death
+Divination Card
+Queen's Sacrifice
+
+	The Price of Protection
+Divination Card
+Elder Chateau Map
+Map Tier: 16
+Invasion bosses
+
+	Boon of the First Ones
+Divination Card
+Bestiary Item
+Pit of the Chimera Map
+
+	The Twilight Moon
+Divination Card
+The Twilight Temple
+
+	The Cacophony
+Divination Card
+3x Deafening Essence
+Excavation Map
+Mineral Pools Map
+Sepulchre Map
+
+	The Sacrifice
+Divination Card
+Six-Link Sacrificial Garb
+Item Level: 100
+
+	A Dab of Ink
+Divination Card
+The Poet's Pen
+The Library[L30]
+Museum Map
+
+	The Nurse
+Divination Card
+The Doctor
+Shavronne's Tower[L47]
+
+	The Master Artisan
+Divination Card
+20x Quality Currency
+
+	The Life Thief
+Divination Card
+Zerphi's Heart
+
+	The Seeker
+Divination Card
+3x Orb of Annulment
+The Temple of Atzoatl
+
+	The Messenger
+Divination Card
+Harbinger Fragment
+Crystal Ore Map
+
+	The Mad King
+Divination Card
+The King's Path
+
+	Boon of Justice
+Divination Card
+Offering to the Goddess
+Chateau Map
+Orchard Map
+Plaza Map
+
+	The Journey
+Divination Card
+Harbinger's Orb
+Lighthouse Map
+
+	Arrogance of the Vaal
+Divination Card
+Item
+Two-Implicit
+Corrupted
+Sunken City Map
+Ancient City Map
+
+	The Landing
+Divination Card
+The Beachhead
+Map Tier: 15
+Corrupted
+Whakawairua Tuahu
+
+	The Mountain
+Divination Card
+Jewel
+
+	Seven Years Bad Luck
+Divination Card
+Mirror Shard
+Defiled Cathedral Map[T15]
+
+	The Golden Era
+Divination Card
+Flaring Eclipse Staff
+Item Level: 100
+
+	Monochrome
+Divination Card
+10x Cartographer's Sextant
+Maelström of Chaos
+Oba's Cursed Trove
+Poorjoy's Asylum
+
+	Dark Temptation
+Divination Card
+Obliteration
+
+	Alone in the Darkness
+Divination Card
+Delve Item
+
+	Sambodhi's Vow
+Divination Card
+Mortal Fragment
+Immortal Syndicate
+
+	The Lord of Celebration
+Divination Card
+Sceptre of Celebration
+Shaper Item

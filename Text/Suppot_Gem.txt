@@ -1,0 +1,1295 @@
+Added Cold Damage Support
+Cold, Support
+Icon: C
+Mana Multiplier: 130%
+Requires Level 8
+Supports any skill that hits enemies.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Cold Damage
+Supported Skills have (4-169) to (6-254) added Cold Damage
+
+Additional Accuracy Support
+Attack, Support
+Icon: a
+Requires Level 8
+Supports attack skills.
+Per 1% Quality:
+Supported Skills have 1% increased Accuracy Rating
+Supported Skills have +(74-1034) to Accuracy Rating
+
+Advanced Traps Support
+Trap, Support
+Icon: R
+Mana Multiplier: 120%
+Requires Level 31
+Supports skills which throw traps.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Trap Damage
+Supported Skills have (15-25)% increased Cooldown Recovery Speed for throwing Traps
+Supported Skills have (10-29)% increased Skill Effect Duration
+Supported Skills have (15-34)% increased Trap Throwing Speed
+
+Blind Support
+Support
+Icon: x
+Requires Level 8
+Supports any skill that hits enemies.
+Per 1% Quality:
+Supported Skills have 1% increased Blinding duration
+Supported Skills have 10% chance to Blind enemies on hit
+Supported Skills have (0-38)% increased Blinding duration
+
+Block Chance Reduction Support
+Support, Duration
+Icon: B
+Requires Level 18
+Supports any skill that hits enemies.
+Per 1% Quality:
+Supported Skills have 0.25% reduced Enemy Block Chance
+Enemies have -(10-20)% chance to Block Attack or Spell Damage from Supported Skills
+Enemies have -(20-29)% chance to Dodge Attack or Spell Hits from Supported Skills
+Inflict Overpowered for 4 seconds when Blocked
+Overpowered applies -5% chance to Block Attack and Spell Damage
+
+Cast On Critical Strike Support
+Support, Spell, Trigger
+Icon: &
+Mana Multiplier: 140%
+Can Store 1 Use(s)
+Cooldown Time: 0.15 sec
+Requires Level 38
+Must support both an attack skill and a spell skill to work. The attack skill will trigger a spell when it critically strikes an enemy. Cannot support totems, traps, or mines. Vaal skills, channelling skills, and skills that reserve mana cannot be triggered.
+Per 1% Quality:
+Supported Skills have 1% increased Critical Strike Chance
+Supported Attacks will Trigger a Supported Spell when you Crit an Enemy
+Supported Skills deal (20-39)% more Spell Damage
+You cannot Cast Supported Triggerable Spells directly
+
+Cast on Death Support
+Support, Spell, Trigger
+Icon: !
+Requires Level 38
+Each supported spell skill will be triggered when you die. Cannot support skills used by totems, traps, or mines. Vaal skills, channelling skills, and skills that reserve mana cannot be triggered.
+Per 1% Quality:
+Supported Skills have 3% increased Area of Effect while Dead
+100% chance to Trigger Supported Non-Minion Spells on Death
+You cannot Cast Supported Triggerable Spells directly
+(0-304)% more Damage while Dead
+
+Chain Support
+Support, Chaining, Projectile
+Icon: c
+Mana Multiplier: 150%
+Requires Level 38
+Supports projectile skills, and any other skills that chain.
+Per 1% Quality:
+Supported Skills have 1% increased Projectile Speed
+Supported Skills Chain +2 times
+Supported Skills deal (30-11)% less Damage with Hits
+
+Chance to Flee Support
+Support
+Icon: z
+Requires Level 8
+Supports any skill that hits enemies.
+Per 1% Quality:
+Supported Skills have 1% chance to Cause Monsters to Flee
+Supported Skills have (25-44)% chance to Cause Monsters to Flee
+
+Charged Traps Support
+Support, Trap
+Icon: F
+Mana Multiplier: 130%
+Requires Level 31
+Supports skills which throw traps.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Trap Damage
+Supported Skills have (20-30)% chance to gain a Power Charge when your Trap is triggered by an Enemy
+Supported Skills have (20-30)% chance to gain a Frenzy Charge when your Trap is triggered by an Enemy
+Supported Skills have 6% increased Trap Throwing Speed per Frenzy Charge
+Supported Skills have +12% to Critical Strike Multiplier per Power Charge when used by Traps
+
+Cluster Traps Support
+Trap, Support
+Icon: L
+Mana Multiplier: 150%
+Requires Level 38
+Supports traps skills, making them throw extra traps randomly around the targeted location.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Trap Damage
+Supported Skills throw up to 2 additional Traps
+Supported Skills can have up to 5 additional Traps placed at a time
+Supported Skills deal (55-36)% less Damage
+
+Cold Penetration Support
+Cold, Support
+Icon: V
+Mana Multiplier: 140%
+Requires Level 31
+Supports any skill that hits enemies, making those hits penetrate enemy cold resistance.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Cold Damage
+Supported Skills Penetrate (18-37)% Cold Resistance
+
+Culling Strike Support
+Support
+Icon: X
+Mana Multiplier: 110%
+Requires Level 18
+Supports any skill that hits enemies. If enemies are left below 10% of maximum life after being hit by these skills, they will be killed.
+Per 1% Quality:
+Supported Skills have 0.5% increased Attack Speed
+Supported Skills have 0.5% increased Cast Speed
+Kill Enemies that have 10% Life or lower when Hit by Supported Skills
+Supported Skills deal (0-38)% increased Damage
+
+Deadly Ailments Support
+Support
+Icon: i
+Mana Multiplier: 130%
+Requires Level 18
+Supports any skill that hits enemies.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Damage over Time
+Supported Skills deal (45-64)% more Damage with Ailments
+Supported Skills deal 10% less Damage with Hits
+
+Enhance Support
+Support
+Icon: +
+Mana Multiplier: 115%
+Supports any skill gem. Once this gem reaches level 2 or above, will raise the quality of supported gems. Cannot support skills that don't come from gems.
+Per 1% Quality:
+This Gem gains 5% increased Experience
++(0-16)% to Quality of Supported Active Skill Gems
+
+Faster Attacks Support
+Attack, Support
+Icon: A
+Mana Multiplier: 115%
+Requires Level 18
+Supports attack skills.
+Per 1% Quality:
+Supported Skills have 0.5% increased Attack Speed
+Supported Skills have (25-44)% increased Attack Speed
+
+Faster Projectiles Support
+Support, Projectile
+Icon: j
+Mana Multiplier: 110%
+Requires Level 31
+Supports projectile skills.
+Per 1% Quality:
+Supported Skills have 0.5% increased Attack Speed
+Supported Skills have 0.5% increased Cast Speed
+Supported Skills have (50-69)% increased Projectile Speed
+Supported Skills deal (20-29)% increased Projectile Damage
+
+Fork Support
+Support, Projectile
+Icon: Y
+Mana Multiplier: 130%
+Requires Level 31
+Supports projectile skills, making their projectiles fork into two projectiles the first time they hit an enemy and don't pierce it.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Projectile Damage
+Supported Skills deal (-10-9)% more Projectile Damage
+Supported Skills Fork
+
+Greater Multiple Projectiles Support
+Support, Projectile
+Icon: P
+Mana Multiplier: 165%
+Requires Level 38
+Supports projectile skills.
+Per 1% Quality:
+Supported Skills have 0.5% increased Attack Speed
+Supported Skills have 0.5% increased Cast Speed
+Supported Skills fire 4 additional Projectiles
+Supported Skills deal (35-26)% less Projectile Damage
+
+Hypothermia Support
+Cold, Support
+Icon: D
+Mana Multiplier: 120%
+Requires Level 31
+Supports any skill that deals damage.
+Per 1% Quality:
+Supported Skills have 1.5% increased Chill Duration on Enemies
+Supported Skills deal (20-39)% more Damage with Hits and Ailments against Chilled Enemies
+Supported Skills have 10% chance to Freeze Enemies which are Chilled
+Supported Skills have 20% increased Effect of Chill on Enemies
+Supported Skills deal (20-39)% more Cold Damage Over Time
+
+Ice Bite Support
+Cold, Support
+Icon: K
+Mana Multiplier: 130%
+Requires Level 31
+Supports any skill you use to hit enemies yourself. Cannot support skills used by totems, traps, or mines.
+Per 1% Quality:
+Supported Skills deal 1% increased Damage with Hits against Frozen Enemies
+Supported Skills have (50-69)% chance to gain a Frenzy Charge on Killing a Frozen Enemy
+Supported Skills have 15% chance to Freeze
+Supported Skills have (2-15) to (3-23) added Cold Damage per Frenzy Charge
+Supported Skills have (8-69) to (12-103) added Cold Damage
+
+Lesser Multiple Projectiles Support
+Support, Projectile
+Icon: l
+Mana Multiplier: 140%
+Requires Level 8
+Supports projectile skills.
+Per 1% Quality:
+Supported Skills have 0.5% increased Attack Speed
+Supported Skills have 0.5% increased Cast Speed
+Supported Skills fire 2 additional Projectiles
+Supported Skills deal (25-16)% less Projectile Damage
+
+Lesser Poison Support
+Chaos, Support
+Icon: O
+Mana Multiplier: 110%
+Supports any skill that hits enemies.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Damage with Poison
+Supported Skills have (1-44) to (2-66) added Chaos Damage
+Supported Skills have 40% chance to Poison on Hit
+
+Mana Leech Support
+Support
+Icon: m
+Requires Level 31
+Supports any skill that hits enemies, causing those hits to leech mana based on damage dealt.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Damage while Leeching Mana
+Supported Skills have (2-3.9)% of Damage Leeched as Mana
+
+Mirage Archer Support
+Bow, Attack, Support, Duration
+Icon: M
+Mana Multiplier: 140%
+Requires Level 4
+Supports attack skills that can be used with bows. Supported skills can only be used with bows. Cannot support Vaal skills, minion skills, movement skills, or skills used by totems, traps, or mines.
+Per 1% Quality:
+0.5% increased Attack Damage
+Mirage Archer lasts 4 seconds
+Mirage Archer deals (30-11)% less Damage with Supported Skills
+Mirage Archer uses Supported Skill with 60% less Attack Speed
+Can have up to 1 Mirage Archer Summoned at a time
+When you Hit an Enemy with an Arrow from a Supported Skill, Summon a Mirage Archer which uses that Skill
+
+Multiple Traps Support
+Support, Trap
+Icon: t
+Mana Multiplier: 140%
+Requires Level 8
+Supports traps skills, making them throw extra traps in a line.
+Per 1% Quality:
+Supported Skills have 1% increased Trap Trigger Area of Effect
+Supported Skills throw up to 2 additional Traps
+Supported Skills can have up to 3 additional Traps placed at a time
+Supported Skills deal (50-31)% less Damage
+
+Onslaught Support
+Support
+Icon: n
+Mana Multiplier: 110%
+Supports any skill that hits enemies.
+Per 1% Quality:
+0.25% increased Attack and Cast Speed
+Supported Skills have (25-44)% chance to grant Onslaught for 8 seconds on
+dealing a Killing Blow
+Supported Skills have 10% chance to grant Onslaught for 3 seconds when you Hit a Unique Enemy
+
+Pierce Support
+Support, Projectile
+Icon: p
+Mana Multiplier: 110%
+Supports projectile skills.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Projectile Damage
+Projectiles from Supported Skills Pierce (2-4) additional Targets
+Supported Skills deal (0-19)% more Projectile Damage
+
+Point Blank Support
+Projectile, Attack, Support
+Icon: b
+Mana Multiplier: 120%
+Requires Level 18
+Supports projectile skills.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Projectile Damage
+Supported Skills' Projectile Attack Hits deal up to 50% more Damage to targets at the start of their movement, dealing less Damage to targets as the projectile travels farther
+Supported Skills deal (0-38)% increased Projectile Damage
+
+Poison Support
+Chaos, Support
+Icon: o
+Mana Multiplier: 135%
+Requires Level 31
+Supports any skill that hits enemies.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Damage with Poison
+Supported Skills have 60% chance to Poison on Hit
+Supported Skills deal (0-19)% more Damage with Poison
+
+Slower Projectiles Support
+Support, Projectile
+Icon: J
+Mana Multiplier: 140%
+Requires Level 31
+Supports projectile skills.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Projectile Damage
+Supported Skills have (30-49)% less Projectile Speed
+Supported Skills deal (20-29)% more Projectile Damage
+
+Swift Affliction Support
+Support, Duration
+Icon: r
+Mana Multiplier: 125%
+Requires Level 31
+Supports any skill that has a duration, or can hit enemies to inflict ailments on them.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Damage over Time
+Supported Skills deal (25-44)% more Damage over Time
+15% reduced Duration of Supported Skills and Damaging Ailments they inflict
+
+Trap and Mine Damage Support
+Support, Trap, Mine
+Icon: W
+Mana Multiplier: 130%
+Requires Level 18
+Supports trap or mine skills.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Damage
+Supported Skills deal (30-49)% more Trap and Mine Damage
+Supported Skills have 10% reduced Trap Throwing Speed
+Supported Skills have 10% reduced Mine Laying Speed
+
+Trap Support
+Support, Trap
+Icon: T
+Mana Multiplier: 110%
+Requires Level 8
+Supports spells, or attacks that use bows or wands. Instead of using that skill, you will throw a trap that will use the skill for you when an enemy walks near it. Traps cannot use channelling skills.
+Per 1% Quality:
+Supported Skills have 0.5% increased Trap Throwing Speed
+Trap lasts 4 seconds
+Supported Attack Skills cannot be used with Melee Weapons
+Supported Skills have (0-10)% increased Trap Throwing Speed
+
+Vicious Projectiles Support
+Projectile, Attack, Support
+Icon: d
+Mana Multiplier: 120%
+Requires Level 18
+Supports projectile attack skills.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Physical Damage
+Supported Skills deal (30-49)% more Physical Projectile Attack Damage
+Supported Skills have 10% less Projectile Attack Speed
+Supported Skills deal (30-49)% more Physical Damage over Time
+Supported Skills deal (30-49)% more Chaos Damage over Time
+
+Vile Toxins Support
+Support
+Icon: e
+Mana Multiplier: 120%
+Requires Level 38
+Supports any skill that hits enemies.
+Per 1% Quality:
+Supported Skills deal 1% increased Damage with Poison
+Supported Skills deal (30-49)% more Damage with Poison
+Supported Skills deal 5% more Damage with Hits for each Poison on the Enemy, up to (6-9)
+
+Void Manipulation Support
+Chaos, Support
+Icon: v
+Mana Multiplier: 120%
+Requires Level 8
+Supports any skill that deals damage.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Chaos Damage
+Supported Skills deal (20-39)% more Chaos Damage
+Supported Skills deal 25% reduced Elemental Damage
+
+Volley Support
+Support, Projectile
+Icon: =
+Mana Multiplier: 140%
+Requires Level 4
+Supports skills that fire projectiles from the user. Does not affect projectiles fired from other locations as secondary effects.
+Per 1% Quality:
+Supported Skills deal 1% increased Projectile Damage
+Supported Skills also fire Projectiles from up to 2 points on each side of you
+Supported Skills fire 2 additional Projectiles
+Supported Skills deal (25-16)% less Projectile Damage
+
+Withering Touch Support
+Chaos, Attack, Support, Duration
+Icon: w
+Mana Multiplier: 140%
+Requires Level 38
+Supports attack skills.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Chaos Damage
+Withered lasts 2 seconds
+Supported Skills have 25% chance to inflict Withered on Hit
+Supported Skills gain (10-29)% of Physical Damage as Extra Chaos Damage
+
+Added Fire Damage Support
+Fire, Support
+Icon: F
+Mana Multiplier: 120%
+Requires Level 8
+Supports any skill that hits enemies.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Fire Damage
+Supported Skills gain (25-44)% of Physical Damage as Extra Fire Damage
+
+Ancestral Call Support
+Support, Melee, Attack
+Icon: A
+Mana Multiplier: 140%
+Requires Level 4
+Supports single-target melee attack skills, causing them to attack multiple targets simultaneously. The extra targets must be a minimum distance from the user. If supporting a minion attack skill, the minion's skills will not also attack multiple targets. Cannot support triggered skills.
+Per 1% Quality:
+Supported Skills have 0.5% increased Attack Speed
+Supported Attack Skills also target 2 nearby Enemies
+Supported Skills deal (25-16)% less Damage
+
+Blood Magic Support
+Support
+Icon: B
+Mana Multiplier: (245%-196%)
+Requires Level 31
+Supports any skill.
+Per 1% Quality:
+Supported Skills have 0.5% reduced Mana Cost
+Supported Skills Spend Life instead of Mana
+
+Bloodlust Support
+Attack, Support, Melee
+Icon: L
+Mana Multiplier: 125%
+Requires Level 18
+Supports melee attack skills, causing them to deal more damage against bleeding enemies, but preventing those skills from inflicting bleeding on enemies in any way.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Melee Damage against Bleeding Enemies
+Supported Skills deal (40-59)% more Melee Physical Damage against Bleeding enemies
+Supported Attacks cannot cause Bleeding
+
+Brutality Support
+Support
+Icon: U
+Mana Multiplier: 130%
+Requires Level 38
+Supports any skill that hits enemies.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Physical Damage
+Supported Skills deal (40-59)% more Physical Damage
+Supported Skills deal no Elemental Damage
+Supported Skills deal no Chaos Damage
+
+Burning Damage Support
+Fire, Support
+Icon: b
+Mana Multiplier: 120%
+Requires Level 31
+Supports any skill that hits enemies, or can deal burning damage directly.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Burning Damage
+Supported Skills deal (35-54)% more Burning Damage
+
+Cast on Melee Kill Support
+Support, Melee, Attack, Spell, Trigger
+Icon: &
+Mana Multiplier: 140%
+Can Store 1 Use(s)
+Cooldown Time: 0.15 sec
+Requires Level 38
+Must support both a melee attack skill and a spell skill to work. The attack skill will trigger a spell when it kills an enemy. Cannot support totems, traps, or mines. Vaal skills, channelling skills, and skills that reserve mana cannot be triggered.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Damage
+Supported Melee Attacks will Trigger a Supported Spell on Kill
+Supported Spells have (20-39)% more Spell Damage
+You cannot Cast Supported Triggerable Spells directly
+
+Cast when Damage Taken Support
+Support, Spell, Trigger
+Icon: !
+Can Store 1 Use(s)
+Cooldown Time: 0.25 sec
+Requires Level 38
+Each supported spell skill will track damage you take, and be triggered when the total damage taken reaches a threshold. Cannot support skills used by totems, traps, or mines. Vaal skills, channelling skills, and skills that reserve mana cannot be triggered.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Damage
+Trigger Supported Spells when you take a total of (528-3272) Damage
+Supported Skills deal (-70-6)% more Damage
+This Gem can only Support Skill Gems requiring Level (38-70) or lower
+You cannot Cast Supported Triggerable Spells directly
+
+Chance to Bleed Support
+Attack, Support
+Icon: E
+Mana Multiplier: 110%
+Supports attack skills. Cannot support minion skills.
+Per 1% Quality:
+Supported Attacks deal 0.5% increased Damage with Bleeding
+Supported Attacks have 25% chance to cause Bleeding
+Supported Attacks deal (1-44) to (2-66) added Physical Damage with Weapons
+Supported Attacks deal (10-29)% more Damage with Bleeding
+
+Cold to Fire Support
+Cold, Fire, Support
+Icon: x
+Mana Multiplier: 110%
+Requires Level 18
+Supports any skill that hits enemies.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Cold Damage
+Supported Skills deal 0.5% increased Fire Damage
+Supported Skills have 50% of Cold Damage Converted to Fire Damage
+Supported Skills gain (10-29)% of Cold Damage as Extra Fire Damage
+
+Damage on Full Life Support
+Attack, Support
+Icon: f
+Mana Multiplier: 130%
+Requires Level 18
+Supports attack skills, providing a bonus to all damage dealt by those skills while your life is full.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Damage
+Supported Attack Skills deal (30-49)% more Damage while on Full Life
+
+Elemental Damage with Attacks Support
+Attack, Support
+Icon: W
+Mana Multiplier: 140%
+Requires Level 18
+Supports attack skills.
+Per 1% Quality:
+0.5% increased Elemental Damage with Attack Skills
+Supported Attack Skills deal (35-54)% more Elemental Damage
+
+Empower Support
+Support
+Icon: +
+Mana Multiplier: 125%
+Supports any skill gem. Once this gem reaches level 2 or above, will raise the level of supported gems. Cannot support skills that don't come from gems.
+Per 1% Quality:
+This Gem gains 5% increased Experience
++(0-2) to Level of Supported Active Skill Gems
+
+Endurance Charge on Melee Stun Support
+Support, Melee, Attack
+Icon: e
+Mana Multiplier: 110%
+Requires Level 18
+Supports melee attack skills.
+Per 1% Quality:
+Supported Skills have 1% increased Stun Duration on Enemies
+4% more Damage per Endurance Charge
+Gain an Endurance Charge when you Stun an Enemy with a Melee Hit from Supported Skills
+Supported Skills have (0-19)% reduced Enemy Stun Threshold
+
+Fire Penetration Support
+Fire, Support
+Icon: V
+Mana Multiplier: 140%
+Requires Level 31
+Supports any skill that hits enemies, making those hits penetrate enemy fire resistance.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Fire Damage
+Supported Skills Penetrate (18-37)% Fire Resistance
+
+Fortify Support
+Attack, Support, Melee
+Icon: O
+Mana Multiplier: 110%
+Requires Level 31
+Supports melee attack skills that are not triggered.
+Per 1% Quality:
+Supported Skills have 0.5% increased Fortify duration
+Supported Skills grant Fortify on Melee hit
+Supported Skills deal (25-44)% increased Melee Physical Damage
+Supported Skills have 25% increased Fortify duration
+
+Generosity Support
+Support, Aura
+Icon: G
+Requires Level 31
+Supports aura skills that affect you and allies, increasing the aura's effect on allies, but preventing it from affecting you at all. Cannot support curse auras, or other auras that only affect enemies. Cannot support skills used by totems.
+Per 1% Quality:
+Supported Skills have 2% increased Aura Area of Effect
+Non-Curse Auras from Supported Skills have (20-39)% increased Effect
+Supported Auras do not affect you
+
+Increased Duration Support
+Support, Duration
+Icon: D
+Mana Multiplier: 140%
+Requires Level 31
+Supports any skill with a duration.
+Per 1% Quality:
+Supported Skills have 0.5% increased Skill Effect Duration
+Supported Skills have (45-64)% increased Skill Effect Duration
+
+Iron Grip Support
+Projectile, Support
+Icon: i
+Requires Level 18
+Supports attack skills that fire projectiles, making the increase to physical melee damage from strength also increase their physical projectile damage.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Projectile Damage
+Strength's damage bonus applies to Projectile Attacks made with Supported Skills
+Supported Skills deal (0-38)% increased Projectile Damage
+
+Iron Will Support
+Spell, Support
+Icon: w
+Requires Level 18
+Supports spell skills, making the increase to physical melee damage from strength also increase their spell damage.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Spell Damage
+Strength's damage bonus applies to Spell Damage as well for Supported Skills
+Supported Skills deal (0-38)% increased Spell Damage
+
+Knockback Support
+Support
+Icon: k
+Requires Level 8
+Supports any skill that hits enemies.
+Per 1% Quality:
+Supported Skills have 0.5% chance to Knock Enemies Back on hit
+Supported Skills have (25-44)% chance to Knock Enemies Back on hit
+Supported Skills have 50% increased Knockback Distance
+
+Less Duration Support
+Support, Duration
+Icon: d
+Mana Multiplier: 120%
+Requires Level 31
+Supports any skill that has a duration.
+Per 1% Quality:
+Supported Skills have 0.5% reduced Skill Effect Duration
+Supported Skills have (40-49)% less Skill Effect Duration
+Supported Skills deal (10-19)% more Damage
+
+Life Gain on Hit Support
+Attack, Support
+Icon: h
+Mana Multiplier: 150%
+Requires Level 8
+Supports attack skills.
+Per 1% Quality:
++0.5 Life gained for each Enemy hit by Attacks from Supported Skills
++(6-44) Life gained for each Enemy hit by Attacks from Supported Skills
+
+Life Leech Support
+Support
+Icon: l
+Mana Multiplier: 130%
+Requires Level 31
+Supports any skill that hits enemies, causing those hits to leech life based on damage dealt.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Damage while Leeching Life
+Supported Skills have (2-3.9)% of Damage Leeched as Life
+
+Maim Support
+Attack, Support
+Icon: m
+Mana Multiplier: 115%
+Requires Level 8
+Supports attack skills.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Physical Damage
+Supported Attacks have 30% chance to Maim on Hit
+Enemies Maimed by Supported Skills take (10-14)% increased Physical Damage
+Supported Skills deal (15-30)% more Physical Damage
+
+Melee Physical Damage Support
+Melee, Support, Attack
+Icon: M
+Mana Multiplier: 140%
+Requires Level 18
+Supports melee attack skills.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Melee Physical Damage
+Supported Skills deal (30-49)% more Melee Physical Damage
+Supported Skills deal (30-49)% more Damage with Bleeding and Poison caused by Melee Hits
+
+Melee Splash Support
+Support, Melee, Attack, AoE
+Icon: S
+Radius: 14
+Mana Multiplier: 160%
+Requires Level 8
+Supports single-target melee attack skills, causing their melee strike to deal splash damage around the target.
+Per 1% Quality:
+Supported Skills have 0.5% increased Area of Effect
+Supported Skills deal (35-26)% less Damage to surrounding targets
+Supported Skills deal Splash Damage to surrounding targets
+Supported Skills have (0-57)% more Melee Splash Area of Effect
+
+Multiple Totems Support
+Totem, Support
+Icon: v
+Mana Multiplier: 150%
+Requires Level 38
+Supports skills which summon totems.
+Per 1% Quality:
+1% increased Totem Placement speed
+Supported Skills have +2 to maximum number of Summoned Totems
+Supported Skills deal (40-21)% less Damage
+Supported Skills Summon two Totems instead of one
+
+Multistrike Support
+Attack, Melee, Support
+Icon: 3
+Mana Multiplier: 180%
+Requires Level 38
+Supports melee attack skills, making them repeat twice when used, targeting a random enemy each time. Cannot support Vaal skills, totem skills, channelling skills, or triggered skills.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Melee Physical Damage
+Supported Skills Repeat 2 additional times
+Supported Skills have (75-94)% more Melee Attack Speed
+Supported Skills deal 30% less Attack Damage
+
+Ranged Attack Totem Support
+Bow, Projectile, Support, Totem, Attack
+Icon: R
+Mana Multiplier: 200%
+Requires Level 8
+Supports any bow or wand attack skill. Instead of using that skill, you will summon a totem that uses the skill for you.
+Per 1% Quality:
+1% increased Totem Placement speed
+Summons a Totem which uses the Supported Skill
+Totem lasts 8 seconds
+Supported Skills deal (35-26)% less Damage
+Attacks used by Totem have 30% less Attack Speed
+Supported Attack Skills cannot be used with Melee Weapons
+
+Reduced Mana Support
+Support
+Icon: r
+Requires Level 31
+Supports any skill, reducing its mana cost. Does not affect skills that reserve mana.
+Per 1% Quality:
+Supported Skills have 0.25% reduced Mana Cost
+Supported Skills have (25-34)% reduced Mana Cost
+
+Ruthless Support
+Support, Melee, Attack
+Icon: u
+Mana Multiplier: 110%
+Requires Level 4
+Supports melee attack skills. Every third time you use a supported attack, that use of the skill will be more powerful. Cannot support channelling skills.
+Per 1% Quality:
+0.5% increased Attack Damage
+Every third Attack with Supported Melee Attacks deals a Ruthless Blow
+Ruthless Blows with Supported Skills deal (75-113)% more Melee Damage
+Ruthless Blows with Supported Skills have a base Stun Duration of 0.8 seconds
+Ruthless Blows with Supported Skills deal (75-113)% more Damage with Bleeding caused by Melee Hits
+
+Spell Totem Support
+Support, Totem
+Icon: T
+Mana Multiplier: 200%
+Requires Level 8
+Supports spell skills that are not triggered. Instead of casting that spell, you will summon a totem that casts the spell for you.
+Per 1% Quality:
+1% increased Totem Placement speed
+Summons a Totem which uses the Supported Skill
+Totem lasts 8 seconds
+Supported Skills deal (35-26)% less Damage
+Spells Cast by Totem have 30% less Cast Speed
+
+Stun Support
+Support
+Icon: t
+Requires Level 8
+Supports any skill that hits enemies, making it easier to stun enemies with those skills.
+Per 1% Quality:
+Supported Skills have 1.5% increased Stun Duration on Enemies
+Supported Skills have (30-49)% reduced Enemy Stun Threshold
+
+Added Chaos Damage Support
+Chaos, Support
+Icon: H
+Mana Multiplier: 130%
+Requires Level 31
+Supports any skill that hits enemies.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Chaos Damage
+Supported Skills have (17-170) to (26-255) added Chaos Damage
+
+Added Lightning Damage Support
+Lightning, Support
+Icon: L
+Mana Multiplier: 130%
+Requires Level 8
+Supports any skill that hits enemies.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Lightning Damage
+Supported Skills have (1-21) to (8-402) added Lightning Damage
+
+Arcane Surge Support
+Support, Spell, Duration
+Icon: N
+Mana Multiplier: 130%
+Each supported spell will track how much mana you spend on it, granting a buff when the total mana spent reaches a threshold. Cannot support skills used by totems, traps, or mines.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Spell Damage
+Arcane Surge grants (10-20)% more Spell Damage
+Arcane Surge grants (10-19)% increased Cast Speed
+Arcane Surge grants (0.5-1)% of maximum Mana Regenerated per second
+Arcane Surge lasts 4 seconds
+Gain Arcane Surge after Spending a total of (15-400) Mana with Supported Skills
+Supported Skills deal (10-19)% more Spell Damage while you have Arcane Surge
+
+Blasphemy Support
+Support, Aura
+Icon: A
+Can Store 1 Use(s)
+Cooldown Time: 1.20 sec
+Requires Level 31
+Supports curse skills, turning them into auras that will apply their effect to all enemies in an area around you.
+Per 1% Quality:
+0.5% increased Effect of Supported Curses
+Supported Curses are Cast as Auras
+Using Supported Skills is Instant
+(0-76)% increased Area of Effect of Supported Curse Skills
+
+Bonechill Support
+Cold, Support
+Icon: B
+Mana Multiplier: 120%
+Requires Level 38
+Supports any skill that can chill enemies or create chilling areas.
+Per 1% Quality:
+Supported Skills have 1% increased Chill Duration on Enemies
+Supported Skills have (25-44)% increased Effect of Chill on Enemies
+Enemies Chilled by Supported Skills take (10-29)% increased Cold Damage over Time
+Enemies in Chilling Areas from Supported Skills take (10-29)% increased Cold Damage over Time
+Enemies Chilled by Supported Skills have Cold Damage taken increased by Chill Effect
+Enemies in Chilling Areas from Supported Skills have Cold Damage taken increased by Chill Effect
+
+Cast when Stunned Support
+Support, Spell, Trigger
+Icon: !
+Can Store 1 Use(s)
+Cooldown Time: 0.25 sec
+Requires Level 38
+Each supported spell skill will have a chance to be triggered when you are stunned. Cannot support skills used by totems, traps, or mines. Vaal skills, channelling skills, and skills that reserve mana cannot be triggered.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Damage
+(50-69)% chance to Trigger Supported Spells when you are Stunned, or
+Block a Stunning Hit
+You cannot Cast Supported Triggerable Spells directly
+
+Cast while Channelling Support
+Support, Channelling, Spell, Trigger
+Icon: W
+Mana Multiplier: 140%
+Requires Level 38
+Must support both a channelling skill and a non-channelling spell skill to work. The channelling skill will trigger a spell periodically while channelling. Cannot support skills used by totems, traps, or mines. Vaal skills and skills that reserve mana cannot be triggered.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Damage
+Trigger a Supported Spell every (0.45-0.35) seconds while Channelling Supported Skills
+You cannot Cast Supported Triggerable Spells directly
+Supported Triggered Spells deal (0-9)% more Damage
+
+Combustion Support
+Fire, Support
+Icon: i
+Mana Multiplier: 120%
+Requires Level 8
+Supports any skill that hits enemies.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Fire Damage
+Supported Skills have (30-49)% chance to Ignite
+Supported Skills deal (10-29)% more Fire Damage
+Enemies Ignited by Supported Skills have -(10-19)% to Fire Resistance
+
+Concentrated Effect Support
+Support, AoE
+Icon: o
+Mana Multiplier: 140%
+Requires Level 18
+Supports any skill with an area of effect, regardless of whether that skill deals damage.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Area Damage
+Supported Skills have 30% less Area of Effect
+Supported Skills deal (35-54)% more Area Damage
+
+Controlled Destruction Support
+Spell, Support
+Icon: C
+Mana Multiplier: 130%
+Requires Level 18
+Supports attack skills, or spell skills that deal damage.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Spell Damage
+Supported Skills deal (25-44)% more Spell Damage
+Supported Skills have 100% reduced Critical Strike Chance
+
+Curse On Hit Support
+Curse, Trigger, Support
+Icon: &
+Requires Level 38
+Must support both a skill that hits enemies, and a curse skill to work. The curse will be applied when enemies are hit by the other skill. Cannot support totems, traps, or mines. Minions cannot apply curses this way.
+Per 1% Quality:
+0.5% increased Effect of Supported Curses
+Supported Skills apply supported Curses on Hit
+Supported Skills have (50-12)% reduced Curse Duration
+You cannot Cast Supported Curses
+
+Decay Support
+Chaos, Support
+Icon: D
+Mana Multiplier: 130%
+Requires Level 38
+Supports any skill that hits enemies.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Chaos Damage
+Supported Skills inflict Decay on Hit, dealing (120-843) Chaos Damage per second for 8 seconds
+
+Efficacy Support
+Support, Duration
+Icon: a
+Mana Multiplier: 130%
+Requires Level 31
+Supports any skill that deals damage or has a duration.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Damage over Time
+Supported Skills deal (10-20)% more Spell Damage
+Supported Skills deal (15-24)% more Damage over Time
+Supported Skills have (10-16)% increased Skill Effect Duration
+
+Elemental Focus Support
+Support
+Icon: F
+Mana Multiplier: 130%
+Requires Level 18
+Supports any skill that hits or burns enemies.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Elemental Damage
+Supported Skills deal (30-49)% more Elemental Damage
+Supported Skills cannot inflict Elemental Ailments
+
+Elemental Proliferation Support
+Cold, Fire, Lightning, Support, AoE
+Icon: S
+Mana Multiplier: 110%
+Supports any skill that hits enemies, or could otherwise apply elemental ailments.
+Per 1% Quality:
+0.5% increased Duration of Elemental Ailments on Enemies
+Elemental Ailments caused by Supported Skills spread to other enemies in a Radius of (12-15)
+20% chance to Freeze, Shock and Ignite
+(0-19)% increased Duration of Elemental Ailments on Enemies
+
+Energy Leech Support
+Support
+Icon: g
+Mana Multiplier: 130%
+Requires Level 31
+Supports any skill that hits enemies, causing those hits to leech energy shield based on damage dealt.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Damage while Leeching Energy Shield
+Supported Skills have (1.5-1.9)% of Damage Leeched as Energy Shield
+Supported Skills deal (12-24)% more Damage while on Full Energy Shield
+Supported Skills deal (20-39)% more Damage while Leeching Energy Shield
+
+Enlighten Support
+Support
+Icon: +
+Supports any skill gem. Once this gem reaches level 2 or above, will apply a mana multiplier to supported gems. Cannot support skills that don't come from gems.
+Per 1% Quality:
+This Gem gains 5% increased Experience
+
+Faster Casting Support
+Support, Spell
+Icon: f
+Mana Multiplier: 120%
+Requires Level 18
+Supports non-instant spell skills.
+Per 1% Quality:
+Supported Skills have 0.5% increased Cast Speed
+Supported Skills have (20-39)% increased Cast Speed
+
+Ignite Proliferation Support
+Fire, Support, AoE
+Icon: I
+Mana Multiplier: 130%
+Requires Level 38
+Supports any skill that hits enemies.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Fire Damage
+Ignites caused by Supported Skills spread to other Enemies within a Radius of (14-20)
+Supported Skills deal (20-39)% more Damage with Ignite
+
+Immolate Support
+Fire, Support
+Icon: m
+Mana Multiplier: 120%
+Requires Level 38
+Supports any skill that hits enemies.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Fire Damage
+Supported Skills deal (42-205) to (63-308) added Fire Damage against Burning Enemies
+
+Increased Area of Effect Support
+Support, AoE
+Icon: E
+Mana Multiplier: 140%
+Requires Level 38
+Supports any skill with an area of effect.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Area Damage
+Supported Skills have (30-49)% increased Area of Effect
+
+Increased Critical Damage Support
+Support
+Icon: c
+Mana Multiplier: 130%
+Requires Level 18
+Supports any skill that hits enemies.
+Per 1% Quality:
+Supported Skills have +0.75% to Critical Strike Multiplier
+Supported Skills have +(75-103)% to Critical Strike Multiplier
+
+Increased Critical Strikes Support
+Support
+Icon: s
+Mana Multiplier: 115%
+Requires Level 8
+Supports any skill that hits enemies.
+Per 1% Quality:
+Supported Skills have 1% increased Critical Strike Chance
+Supported Skills have (50-88)% increased Critical Strike Chance
+Supported Skills have +(1-1.9)% to Critical Strike Chance
+
+Infused Channelling Support
+Support, Channelling, Duration
+Icon: b
+Mana Multiplier: 140%
+Requires Level 4
+Supports any channelling skill, protecting you from damage while you channel it. Cannot support Minions that channel skills.
+Per 1% Quality:
+Gain Infusion after Channelling a Supported Skill for -0.02 seconds
+While Channelling Supported Skills, take 8% less Physical Damage from Hits
+While Channelling a Supported Skill, take 8% less Damage from Hits of types matching the Skill Gem's Tags
+Supported Skills deal (20-39)% more Damage
+Gain Infusion after Channelling a Supported Skill for (1.6-1) second
+Infusion lasts 6 seconds after you finish Channelling
+Infusion grants 10% more Damage of Types matching Supported Skill Gem's tags
+Totems cannot gain Infusion
+
+Innervate Support
+Lightning, Support, Duration
+Icon: K
+Mana Multiplier: 130%
+Requires Level 31
+Supports any skill you use to hit enemies yourself. Cannot support skills used by totems, traps, or mines.
+Per 1% Quality:
+Supported Skills have 1.5% increased Shock Duration on Enemies
+Supported Skills have (2-14) to (29-251) added Lightning Damage
+Supported Skills have 20% chance to Shock
+Innervation grants (1-8) to (17-145) Lightning Damage
+Innervation lasts 8 seconds
+Gain Innervation on Killing a Shocked Enemy with Supported Skills
+
+Intensify Support
+AoE, Spell, Support
+Icon: T
+Mana Multiplier: 140%
+Requires Level 31
+Supports spell skills that you cast yourself. Cannot support triggered skills, Vaal skills, instant skills, channelling skills, skills which reserve mana, or skills used by totems, traps, or mines. Cannot modify the skills of minions.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Area Damage
+Supported Skills deal (10-16)% more Area Damage per Intensity
+Supported Skills have 12% less Area of Effect per Intensity
+Supported Skills have (35-54)% increased Area of Effect
+Supported Skills gain Intensity when used, up to a maximum of 4
+Supported Skills lose Intensity every 0.25 seconds while moving, or immediately if you teleport
+
+Item Rarity Support
+Support
+Icon: R
+Requires Level 31
+Supports any skill that can kill enemies.
+Per 1% Quality:
+0.5% increased Rarity of Items Dropped by Enemies Slain from Supported Skills
+(40-59)% increased Rarity of Items Dropped by Enemies Slain from Supported Skills
+
+Lightning Penetration Support
+Lightning, Support
+Icon: V
+Mana Multiplier: 140%
+Requires Level 31
+Supports any skill that hits enemies, making those hits penetrate enemy lightning resistance.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Lightning Damage
+Supported Skills Penetrate (18-37)% Lightning Resistance
+
+Minefield Support
+Support, Mine
+Icon: M
+Mana Multiplier: 160%
+Requires Level 8
+Supports skills which place mines.
+Per 1% Quality:
+Supported Skills have 1% increased Mine Detonation Area of Effect
+Supported Skills place 2 additional Mines
+Supported Skills deal (55-36)% less Damage
+Supported Skills can have up to 2 additional Remote Mines placed at a time
+
+Minion and Totem Elemental Resistance Support
+Support, Minion
+Icon: r
+Mana Multiplier: 140%
+Requires Level 31
+Supports minion or totem skills.
+Per 1% Quality:
+Totems and Minions summoned by Supported Skills have +0.5% Fire Resistance
+Totems and Minions summoned by Supported Skills have +0.5% Cold Resistance
+Totems and Minions summoned by Supported Skills have +0.5% Lightning Resistance
+Totems and Minions summoned by Supported Skills have +(25-44)% Fire Resistance
+Totems and Minions summoned by Supported Skills have +(25-44)% Cold Resistance
+Totems and Minions summoned by Supported Skills have +(25-44)% Lightning Resistance
+Supported Skills have (10-19)% more Minion and Totem Elemental Damage
+
+Minion Damage Support
+Support, Minion
+Icon: d
+Mana Multiplier: 130%
+Requires Level 8
+Supports minion skills.
+Per 1% Quality:
+Supported Skills deal 0.75% increased Minion Damage
+Supported Skills deal (30-49)% more Minion Damage
+
+Minion Life Support
+Support, Minion
+Icon: n
+Mana Multiplier: 140%
+Requires Level 18
+Supports minion skills.
+Per 1% Quality:
+Supported Skills have 0.75% increased Minion maximum Life
+Supported Skills have (30-49)% more Minion maximum Life
+
+Minion Speed Support
+Movement, Support, Minion
+Icon: e
+Mana Multiplier: 140%
+Requires Level 18
+Supports minion skills.
+Per 1% Quality:
+Supported Skills have 0.5% increased Minion Movement Speed
+Supported Skills have (25-44)% increased Minion Movement Speed
+Supported Skills have (10-19)% increased Minion Attack Speed
+Supported Skills have (10-19)% increased Minion Cast Speed
+
+Physical to Lightning Support
+Lightning, Support
+Icon: x
+Mana Multiplier: 110%
+Requires Level 18
+Supports any skill that hits enemies.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Physical Damage
+Supported Skills deal 0.5% increased Lightning Damage
+Supported Skills have 50% of Physical Damage Converted to Lightning Damage
+Supported Skills gain (10-29)% of Physical Damage as Extra Lightning Damage
+
+Power Charge On Critical Support
+Support
+Icon: P
+Mana Multiplier: 110%
+Requires Level 18
+Supports any skill that hits enemies.
+Per 1% Quality:
+Supported Skills have 1% increased Critical Strike Chance
+Supported Skills have (35-54)% chance to gain a Power Charge on Critical Strike
+Supported Skills deal 4% more Damage per Power Charge
+
+Remote Mine Support
+Support, Mine
+Icon: Y
+Mana Multiplier: 150%
+Requires Level 8
+Supports spells, or attacks that use bows or wands. Instead of using that skill, you will place a mine that will use the skill for you when you detonate it. Mines cannot use channelling skills.
+Per 1% Quality:
+Supported Skills have 0.5% increased Mine Laying Speed
+Places a Remote Mine which uses the Supported Skill when detonated
+Mine lasts 16 seconds
+Supported Skills deal (30-49)% more Mine Damage
+Supported Attack Skills cannot be used with Melee Weapons
+
+Spell Cascade Support
+AoE, Spell, Support
+Icon: p
+Mana Multiplier: 140%
+Requires Level 4
+Supports spell skills that apply an effect to an area around a targeted location. Cannot support Vaal skills, minion skills, or skills used by totems, traps, or mines.
+Per 1% Quality:
+Supported Skills have 0.5% increased Area of Effect
+Supported Area of Effect skills also affect areas in front and behind the targeted area
+Supported Skills have (25-16)% less Area of Effect
+Supported Skills deal (40-21)% less Damage
+
+Spell Echo Support
+Spell, Support
+Icon: k
+Mana Multiplier: 140%
+Requires Level 38
+Supports spell skills, making them repeat when cast. Cannot support Vaal skills, totem skills, channelling skills, triggered skills, instant skills, or skills which reserve mana.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Spell Damage
+Supported Skills Repeat an additional time
+Supported Skills have (51-70)% more Cast Speed
+Supported Skills deal 10% less Damage
+
+Summon Phantasm on Kill Support
+Support, Minion
+Icon: G
+Mana Multiplier: 120%
+Requires Level 4
+Supports skills that can hit enemies, or create minions. When those skills or minions kill enemies, they will have a chance to summon a Phantasm minion, which uses a piercing projectile spell that deals physical damage.
+Per 1% Quality:
+0.5% chance to Summon a Phantasm when Supported Skills, or Non-Phantasm Minions
+from Supported Skills, deal a Killing Blow
+(50-69)% chance to Summon a Phantasm when Supported Skills, or Non-Phantasm Minions
+from Supported Skills, deal a Killing Blow
+Phantasms last 15 seconds
+Can have up to (5-10) Phantasms Summoned at a time
+10% chance to Summon a Phantasm when Supported Skills, or Non-Phantasm Minions
+from Supported Skills, Hit a Rare or Unique Enemy
+
+Unbound Ailments Support
+Support
+Icon: U
+Mana Multiplier: 110%
+Requires Level 8
+Supports any skill that hits enemies.
+Per 1% Quality:
+Supported Skills have 0.5% increased Duration of Ailments on Enemies
+Supported Skills have (25-44)% increased Duration of Ailments on Enemies
+Supported Skills deal (20-30)% more Damage with Ailments
+Supported Skills have (20-30)% increased Effect of non-Damaging Ailments on Enemies
+
+Unleash Support
+Spell, Support
+Icon: q
+Mana Multiplier: 140%
+Requires Level 38
+Supports spell skills, making their effect reoccur when cast. Cannot support skills with cooldowns, triggered skills, Brand skills, Vaal skills, channelling skills, skills which reserve mana, or skills used by totems, traps, or mines. Cannot modify the skills of minions.
+Per 1% Quality:
+Supported Skills deal 0.5% increased Spell Damage
+Supported Spells gain a Seal every (0.9-0.71) seconds, to a maximum of 3 Seals
+Supported Spells are Unsealed when cast, and their effects Reoccur for each Seal lost
+Supported Skills deal (35-26)% less Damage when Reoccurring

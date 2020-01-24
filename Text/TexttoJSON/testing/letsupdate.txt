@@ -1,0 +1,23 @@
+The following items no longer drop outside of the Legion challenge leagues. Versions dropped in Legion will have new modifiers and balance which we won't be spoiling here, barring changes that affect existing versions, which will be outlined below. The items are: Rathpith Globe, Pledge of Hands, Rebuke of the Vaal, Kaom's Primacy, Lavianga's Wisdom, Marohi Erqi, Asenath's Gentle Touch, Darkscorn, Al Dhih, Voll's Protector, The Sorrow of the Divine, Divinarius, Honourhome, Lioneye's Paws, Maligaro's Virtuosity.
+
+
+Mon'tregul's Grasp: Now clearly states how damage dealt by exploding zombies is calculated. Note that this does not change the functionality.
+
+
+
+
+
+Dreadbeak: Now has (83-91) to (123-130) added physical damage, to account for basetype changes. Existing versions can be updated using a Divine Orb.
+Hegemony's Era: Now has (165-175) to (185-205) added physical damage, to account for basetype changes. Existing versions can be updated using a Divine Orb.
+
+Disintegrator: Now has (250-280) to (315-355) added physical damage, to account for basetype changes. Existing versions can be updated using a Divine Orb.
+
+Pillar of the Caged God is now on the Iron Staff basetype.
+
+Changes to Legion-Themed Uniques that Affect Existing Items:
+
+Pledge of Hands: Spell Echo has been replaced with Greater Spell Echo. Affects all versions of the item.
+
+The Sorrow of the Divine: Now causes Life Recovery from Flasks to also apply to Energy Shield during Flask Effect. Affects all versions of the item.
+Divinarius: Now grants +30 Life on kill and +10 mana on kill. Existing versions can be updated using a Divine Orb.
+Honourhome: Now has 100 to 150% increased Armour and Energy Shield.

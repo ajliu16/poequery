@@ -1,0 +1,49 @@
+function displayall() {
+    for (let i = 0; i < allitems.length; i++) {
+        //Creates Name
+        alldivs = alldivs + '<div class="item_info unique">' + '<div class="item_name">' + '<div class="name">' + allitems[i].name +
+         '</div>' + '<div class="item_base">' + allitems[i].base + '</div>' + '</div>';
+        alldivs = alldivs + '<div class="item_information">'
+        // Creates Info
+        for (let f = 0; f < allitems[i].info.length; f++) {
+            if (allitems[i].info.length >= 2) {
+                if (allitems[i].info[f].indexOf('Requires') >= 1) {
+                    alldivs = alldivs + '<div class="split"></div>' + allitems[i].info[f]
+                } else {
+                    alldivs = alldivs + allitems[i].info[f]
+                }
+            } else {
+                alldivs = alldivs + allitems[i].info[f]
+            }
+        };
+        // Creates Implicit
+        if (allitems[i].info.length >= 1 && allitems[i].implicit.length >= 1) {
+            alldivs = alldivs + '<div class="split"></div>' 
+        }
+        if (allitems[i].implicit.length >= 1) {
+            alldivs = alldivs + '<div class="implicit">'
+            for (let f = 0; f < allitems[i].implicit.length; f++) {
+                alldivs = alldivs + allitems[i].implicit[f]
+            }
+            alldivs = alldivs + '</div>'
+        }
+        // Creates affixes
+        if (allitems[i].info.length >= 1 || allitems[i].implicit.length >= 1) {
+            alldivs = alldivs + '<div class="split">' + '</div>'
+        }
+        alldivs = alldivs + '<div class="item_description">'
+        for (let f = 0; f < allitems[i].description.length; f++) {
+            alldivs = alldivs + allitems[i].description[f]
+        }
+        alldivs = alldivs + '</div>'
+        //Creates flair
+        alldivs = alldivs + '<div class="split"></div>'
+        for (let f = 0; f < allitems[i].flair.length; f++) {
+            alldivs = alldivs + allitems[i].flair[f]
+        }
+        alldivs = alldivs + '</div>'
+        alldivs = alldivs + '</div>'
+
+    };
+    document.getElementById("react_root").innerHTML =  alldivs;
+}

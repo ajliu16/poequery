@@ -1,0 +1,4971 @@
+
+g_name
+Animate Weapon
+g_tags
+Duration, Minion, Spell
+g_info
+Mana Cost: (7-26)
+Cast Time: 0.80 sec
+Requires Level 4
+g_description
+Animates a melee weapon to fight by your side. You cannot animate unidentified weapons.
+g_quality
+Per 1% Quality:
+Minions have 2% increased Movement Speed
+g_affix
+Can use Items requiring up to Level (9-100)
+Base duration is 37.5 seconds
+Minions' Attacks deal (4-38) to (6-56) additional Physical Damage
+Can summon up to 50 Animated Weapons at a time
+Deals (100-252)% of Damage
+Minions have (0-38)% increased Attack Speed
+
+g_name
+Arctic Armour
+g_tags
+Spell, Duration, Cold
+g_info
+Mana Reserved: 25%
+Can Store 1 Use(s)
+Cooldown Time: 1.00 sec
+Requires Level 16
+g_description
+Conjures an icy barrier that chills enemies when they hit you. You drop chilled ground while moving, and take less Fire and Physical damage while stationary.
+g_quality
+Per 1% Quality:
+1% increased Skill Effect Duration
+g_affix
+Chill Enemy for 0.5 seconds when Hit, reducing their Action Speed by 30%
+(8-13)% less Physical Damage taken when Hit
+(8-12)% less Fire Damage taken when Hit
+Base duration is (2.5-4.4) seconds
+
+g_name
+Attack, Projectile, Bow
+g_tags
+Mana Cost: (7-11)
+g_info
+Cast Time: 1.00 sec
+Damage Effectiveness: (40%-48%)
+Requires Level 12
+g_description
+After a short preparation time, you attack repeatedly with a ranged weapon. These attacks have a small randomised spread. Only works with Bows and Wands.
+g_quality
+Per 1% Quality:
+0.5% increased Projectile Damage
+g_affix
+Deals (40-47.6)% of Base Damage
+Fires 4 additional Projectiles
+
+g_name
+Trap, Spell, Duration
+g_tags
+Mana Cost: (6-23)
+g_info
+Can Store 3 Use(s)
+Cooldown Time: 4.00 sec
+Cast Time: 1.00 sec
+Critical Strike Chance: 6.00%
+Damage Effectiveness: 200%
+Requires Level 4
+g_description
+Throws a trap that damages and immobilises a single enemy for a duration based on how much damage was dealt. After the immobilise expires, a debuff remains on the enemy for a duration, lowering their movement speed by an amount which lessens over time. The affected enemy will take increased damage from traps and mines until the debuff expires. Modifiers to spell damage do not affect this skill's damage.
+g_quality
+Per 1% Quality:
+1% increased Physical Damage
+g_affix
+Throws a Trap which uses this Skill when Triggered
+Trap lasts 4 seconds
+Deals (16-1447) to (22-2026) Physical Damage
+Enemies take 15% increased Damage from Trap or Mine Hits
+Enemies have 80% less Movement Speed when the Debuff starts
+Base duration is 3 seconds
+Locks enemy in place
+Traps do not Trigger at the end of their Duration
+
+g_name
+Attack, AoE, Channelling, Melee
+g_tags
+Radius: 14 / 17 / 19
+g_info
+Mana Cost: 4
+Cast Time: 1.00 sec
+Damage Effectiveness: (45%-56%)
+Requires Level 28
+g_description
+Repeatedly strike at enemies in a circle in front of you while channelling, dealing damage to and around the struck enemy. The damage is continually boosted while channelling. You unleash an additional strike for each stage reached once the channelling ends. Requires a Dagger, Claw or One-Handed Sword.
+g_quality
+Per 1% Quality:
+0.5% increased Attack Speed
+g_affix
+Deals (45-56.4)% of Base Damage
+60% more Attack Speed
+20% more Damage with Hits and Ailments for each stage
+
+g_name
+Blade Vortex
+g_tags
+Spell, AoE, Duration
+g_info
+Radius: 15
+Mana Cost: (6-16)
+Cast Time: 0.50 sec
+Critical Strike Chance: 6.00%
+Damage Effectiveness: 25%
+Requires Level 12
+g_description
+This spell creates ethereal blades which orbit in an area around you, dealing damage every 0.6 seconds to all enemies in their radius. As more blades are added, the damage becomes greater and more frequent.
+g_quality
+Per 1% Quality:
+0.5% increased Area of Effect
+g_affix
+Deals (3-101) to (5-151) Physical Damage
+Base duration is 5 seconds
+Can have up to 10 active spinning blades
+10% increased Critical Strike Chance for each blade
+35% increased Hit Rate for each blade
+35% more Damage for each blade
++(0-4) to radius
+
+g_name
+Bladefall
+g_tags
+Spell, AoE
+g_info
+Radius: 12
+Mana Cost: (12-23)
+Cast Time: 0.70 sec
+Critical Strike Chance: 6.00%
+Damage Effectiveness: 90%
+Requires Level 28
+g_description
+Ethereal weapons rain from the sky, dealing damage to enemies in a sequence of volleys, each wider but less damaging than the last. Enemies can be hit multiple times where these overlap.
+g_quality
+Per 1% Quality:
+0.5% increased Area of Effect
+g_affix
+Deals (44-411) to (66-617) Physical Damage
+6% less Damage per Volley
+100% increased Critical Strike Chance
+20% reduced Critical Strike Chance per Volley
+Bladefall has 5 additional Volleys
+
+g_name
+Blast Rain
+g_tags
+Fire, Attack, AoE, Bow
+g_info
+Radius: 24
+Mana Cost: (8-10)
+Cast Time: 1.00 sec
+Damage Effectiveness: (40%-48%)
+Requires Level 28
+g_description
+Fires an arrow up in the air, which splits and rains down in a series of explosions over an area. The explosions will always overlap on the targeted area.
+g_quality
+Per 1% Quality:
+0.5% increased Area of Effect
+g_affix
+Deals (40-47.6)% of Base Damage
+100% of Physical Damage Converted to Fire Damage
+Causes 4 Explosions
+Penetrates (15-25)% Fire Resistance
+
+g_name
+Blink Arrow
+g_tags
+Attack, Minion, Duration, Movement, Bow
+g_info
+Mana Cost: (14-20)
+Can Store 1 Use(s)
+Cooldown Time: 3.00 sec
+Cast Time: 1.00 sec
+Requires Level 10
+g_description
+Fires an arrow at the target destination. When the arrow lands, you are teleported to it and a clone is summoned at your old location. The clone is a minion that uses your bow and quiver.
+g_quality
+Per 1% Quality:
+1.5% increased Arrow Speed
+g_affix
+Base duration is 3 seconds
+Minions deal 75% more Damage
+(0-114)% increased Minion Damage
+(0-57)% increased Minion Maximum Life
+
+g_name
+Blood Rage
+g_tags
+Spell, Duration
+g_info
+Mana Cost: (7-16)
+Can Store 1 Use(s)
+Cooldown Time: 1.00 sec
+Requires Level 16
+g_description
+Adds a buff that deals Physical Damage over time, while increasing Attack Speed and Life Leech. Killing an enemy while this buff is active refreshes the buff duration, and can grant a Frenzy Charge.
+g_quality
+Per 1% Quality:
+0.25% increased Attack Speed
+g_affix
+(5-15)% increased Attack Speed
+1.2% of Attack Physical Damage Leeched as Life
+You take 4% of your Maximum Life per second as Physical Damage
+You take 4% of your Maximum Energy Shield per second as Physical Damage
+25% chance to gain a Frenzy Charge on Kill
+Base duration is (7-10.8) seconds
+
+g_name
+Burning Arrow
+g_tags
+Attack, Projectile, Fire, Bow
+g_info
+Mana Cost: (5-8)
+Cast Time: 1.00 sec
+Damage Effectiveness: (150%-184%)
+Projectile Speed: 3260
+Requires Level 1
+g_description
+Fires an arrow that deals fire damage to its target and has an increased chance of igniting it.
+g_quality
+Per 1% Quality:
+3% increased Ignite Duration on enemies
+g_affix
+Deals (150-184.2)% of Base Damage
+(30-49)% chance to Ignite enemies
+(30-68)% more Damage with Ignite
+50% of Physical Damage Converted to Fire Damage
+
+g_name
+Caustic Arrow
+g_tags
+Attack, Projectile, AoE, Duration, Chaos, Bow
+g_info
+Radius: 20
+Mana Cost: (6-10)
+Cast Time: 1.00 sec
+Damage Effectiveness: (55%-64%)
+Projectile Speed: 3260
+Requires Level 1
+g_description
+Fires an arrow which deals chaos damage in an area on impact, and spreads caustic ground. Enemies standing on the caustic ground take chaos damage over time.
+g_quality
+Per 1% Quality:
+0.5% increased Area of Effect
+g_affix
+Deals (55-64.4)% of Base Damage
+Base duration is 2 seconds
+Deals (7-1714.8) Base Chaos Damage per second
+60% of Physical Damage Converted to Chaos Damage
+Modifiers to Projectile Damage apply to this Skill's Damage Over Time effect
++(0-3) to radius
+
+g_name
+Charged Dash
+g_tags
+Movement, AoE, Channelling, Attack, Lightning, Melee
+g_info
+Mana Cost: 4
+Cast Time: 1.00 sec
+Damage Effectiveness: (75%-92%)
+Requires Level 28
+g_description
+Channel to project an illusion which you steer. You gain stages while it moves, until it stops at a maximum total distance. Waves of area damage frequently pulse along its path, based on your attack speed. Stop channelling to teleport to the illusion, dealing a final wave of damage.
+g_quality
+Per 1% Quality:
+0.5% increased Attack Speed
+g_affix
+Deals (75-92.1)% of Base Damage
+60% more Attack Speed
+50% of Physical Damage Converted to Lightning Damage
+Final wave deals 75% of Damage per stage
+Deals 150% more Damage while Channelling if Illusion has finished moving
+Illusion moves at 130% of your Movement Speed
+
+g_name
+Cremation
+g_tags
+Spell, AoE, Fire, Duration, Projectile
+g_info
+Mana Cost: (11-20)
+Cast Time: 0.60 sec
+Critical Strike Chance: 5.00%
+Requires Level 28
+g_description
+A targeted corpse explodes, dealing area damage and turning into a volcanic geyser, which will repeatedly unleash projectiles sequentially over the surrounding area for a duration. The explosion of the corpse is not affected by modifiers to spell damage, and cannot be reflected.
+g_quality
+Per 1% Quality:
+1% increased Fire Damage
+g_affix
+Deals (49-434) to (74-651) Fire Damage
+Base duration is 8 seconds
+Maximum of 3 Geysers at a time
+Explosion deals base Fire Damage equal to 4% of the corpse's maximum Life
+Fires 3 additional Projectiles
++(0-3) to radius
+
+g_name
+Cyclone
+g_tags
+Attack, AoE, Movement, Melee
+g_info
+Mana Cost: 12
+Cast Time: 1.00 sec
+Damage Effectiveness: (45%-56%)
+Requires Level 28
+g_description
+Damage enemies around you, then perform a spinning series of attacks as you travel to a target location. Cannot be supported by Ruthless or Multistrike.
+g_quality
+Per 1% Quality:
+0.5% increased Area of Effect
+g_affix
+Deals (45-56.4)% of Base Damage
+50% more Attack Speed
+30% less Movement Speed
+First Hit deals 50% less Damage
++(0-2) to Melee range
+
+g_name
+Desecrate
+g_tags
+Spell, AoE, Duration, Chaos
+g_info
+Mana Cost: (11-26)
+Can Store 3 Use(s)
+Cooldown Time: 3.00 sec
+Cast Time: 0.80 sec
+Requires Level 16
+g_description
+Desecrates the ground, summoning corpses and dealing chaos damage to all enemies in the area. The corpses will be chosen from the monsters in the current area and any Spectres that have existed in this instance.
+g_quality
+Per 1% Quality:
+1% increased Cast Speed
+g_affix
+Base duration is 5 seconds
+Deals (8.2-294) Base Chaos Damage per second
+Creates 5 Corpses
+Creates Corpses up to Level (20-100)
+Maximum of 15 Corpses allowed
+
+g_name
+Detonate Dead
+g_tags
+Spell, AoE, Fire
+g_info
+Radius: 22
+Mana Cost: (5-20)
+Cast Time: 0.60 sec
+Critical Strike Chance: 6.00%
+Damage Effectiveness: 160%
+Requires Level 4
+g_description
+Targets a corpse, and deals spell damage to enemies around the corpse, as well as causing the corpse to explode, dealing fire damage. The explosion is not affected by modifiers to spell damage and cannot be reflected.
+g_quality
+Per 1% Quality:
+0.5% increased Cast Speed
+g_affix
+Explosion deals base Fire Damage equal to 6% of the corpse's maximum Life
+Deals (15-798) to (22-1197) Fire Damage
++(0-4) to radius
+
+g_name
+Double Strike
+g_tags
+Attack, Melee
+g_info
+Mana Cost: 5
+Cast Time: 1.00 sec
+Damage Effectiveness: (70%-94%)
+Requires Level 1
+g_description
+Performs two fast attacks on target enemy with a melee weapon.
+g_quality
+Per 1% Quality:
+0.5% increased Attack Speed
+g_affix
+Deals (70-93.9)% of Base Damage
+Adds (3-113) to (5-169) Physical Damage against Bleeding Enemies
++(0-2) to Melee range
+
+g_name
+Dual Strike
+g_tags
+Attack, Melee
+g_info
+Mana Cost: 5
+Cast Time: 1.00 sec
+Damage Effectiveness: (85%-104%)
+Requires Level 1
+g_description
+Attacks with both weapons, dealing the damage of both in one strike. Dual wield only. Does not work with wands.
+g_quality
+Per 1% Quality:
+0.5% increased Attack Speed
+g_affix
+Deals (85-104)% of Base Damage
++(0-2) to Melee rang
+
+g_name
+Elemental Hit
+g_tags
+Attack, Projectile, Melee, Fire, Cold, Lightning, AoE, Bow
+g_info
+Mana Cost: (7-11)
+Cast Time: 1.00 sec
+Requires Level 12
+g_description
+Each attack with this skill will choose an element at random, and will only be able to deal damage of that element. If the attack hits an enemy, it will also deal damage in an area around them, with the radius being larger if that enemy is suffering from an ailment of the chosen element. It will avoid choosing the same element twice in a row.
+g_quality
+Per 1% Quality:
+1% increased Elemental Damage
+g_affix
+Adds (23-590) to (43-1096) Fire Damage to Attacks
+Adds (19-483) to (35-896) Cold Damage to Attacks
+Adds (4-95) to (70-1802) Lightning Damage to Attacks
+(30-49)% chance to Freeze, Shock and Ignite
+10% more Damage per Elemental Ailment on the Enemy
+80% more Area Radius against Enemies affected by an Ailment of the chosen Element
+Only Deals Damage of the chosen Element
+Deals no Damage of other Damage Types
++(0-2) to Melee range
+
+g_name
+Ethereal Knives
+g_tags
+Spell, Projectile
+g_info
+Mana Cost: (5-20)
+Cast Time: 0.60 sec
+Critical Strike Chance: 6.00%
+Damage Effectiveness: 120%
+Projectile Speed: 1300
+Requires Level 1
+g_description
+Fires an arc of knives in front of the caster which deals physical damage.
+g_quality
+Per 1% Quality:
+1% increased Projectile Speed
+g_affix
+Deals (7-633) to (10-949) Physical Damage
+Fires 9 additional Projectiles
+(0-19)% increased Projectile Speed
+
+g_name
+Explosive Arrow
+g_tags
+Fire, Attack, Projectile, AoE, Duration, Bow
+g_info
+Radius: 15
+Mana Cost: (18-27)
+Cast Time: 1.00 sec
+Critical Strike Chance: 6.00%
+Projectile Speed: 3260
+Requires Level 28
+g_description
+Fires an arrow which acts as a short duration fuse. Applying additional arrows to an enemy extends the duration. When the target dies or the fuses expire, the arrows explode, dealing fire AoE damage to nearby enemies. The AoE radius is proportional to the number of arrows upon death.
+g_quality
+Per 1% Quality:
+1% chance to Ignite enemies
+g_affix
+Base duration is 1 seconds
+Explosion deals (44-586) to (66-879) Base Fire Damage per Fuse Charge
++2 to Explosion Radius per Fuse Charge
+
+g_name
+Explosive Trap
+g_tags
+Trap, Spell, AoE, Fire
+g_info
+Mana Cost: (6-20)
+Cast Time: 1.00 sec
+Critical Strike Chance: 6.00%
+Damage Effectiveness: 60%
+Requires Level 1
+g_description
+Throws a trap that creates a large explosion when triggered, dealing spell damage in an area. A number of smaller explosions occur around this area in quick succession after the first.
+g_quality
+Per 1% Quality:
+0.5% increased Area of Effect
+g_affix
+Trap lasts 4 seconds
+Deals (4-280) to (6-420) Physical Damage
+50% of Physical Damage Converted to Fire Damage
+Causes (4-7) smaller explosions
+Throws a Trap which uses this Skill when Triggered
++(0-4) to radius
+
+g_name
+Fire Trap
+g_tags
+Trap, Spell, Duration, AoE, Fire
+g_info
+Radius: 15
+Mana Cost: (8-20)
+Cast Time: 1.00 sec
+Critical Strike Chance: 6.00%
+Damage Effectiveness: 200%
+Requires Level 12
+g_description
+Throws a trap that explodes when triggered, dealing fire damage to surrounding enemies and leaving an area of burning ground that damages enemies who walk through it.
+g_quality
+Per 1% Quality:
+1% increased Fire Damage
+g_affix
+Trap lasts 4 seconds
+Base duration is 1.75 seconds
+Deals (10-575) to (15-862) Fire Damage
+Deals (28.9-1635.4) Base Fire Damage per second
+(3-180) to (5-269) added Fire Damage against Burning Enemies
+Modifiers to Spell Damage apply to this Skill's Damage Over Time effect
+Throws a Trap which uses this Skill when Triggered
++(0-6) to radius
+
+g_name
+Flamethrower Trap
+g_tags
+Trap, Spell, Duration, AoE, Fire
+g_info
+Mana Cost: (13-25)
+Can Store 3 Use(s)
+Cooldown Time: 8.00 sec
+Cast Time: 1.00 sec
+Critical Strike Chance: 5.00%
+Damage Effectiveness: 30%
+Requires Level 28
+g_description
+Throws a trap that releases a number of flames in different directions around it when triggered. The flames last for a duration, rotating around the trap and repeatedly dealing damage. Burning enemies are dealt more damage.
+g_quality
+Per 1% Quality:
+1% increased Fire Damage
+g_affix
+Trap lasts 4 seconds
+Base duration is 3.5 seconds
+Deals (5-211) to (8-319) Fire Damage
+25% more Damage against Burning Enemies
+Has 4 Flames
+Throws a Trap which uses this Skill when Triggered
+Modifiers to Cast Speed apply to the rotation speed of the Flames
+
+g_name
+Flicker Strike
+g_tags
+Attack, Melee, Movement
+g_info
+Mana Cost: 10
+Can Store 1 Use(s)
+Cooldown Time: 2.00 sec
+Cast Time: 1.00 sec
+Damage Effectiveness: (130%-160%)
+Requires Level 10
+g_description
+Teleports the character to a nearby monster and attacks it with a melee weapon. If no specific monster is chosen, one is picked at random. The cooldown can be bypassed by expending a Frenzy Charge.
+g_quality
+Per 1% Quality:
+1% increased Damage
+g_affix
+Deals (130-160.4)% of Base Damage
+20% more Attack Speed
+10% increased Attack Speed per Frenzy Charge
+
+g_name
+Freeze Mine
+g_tags
+Mine, Spell, AoE, Cold
+g_info
+Mana Cost: (7-20)
+Cast Time: 0.50 sec
+Damage Effectiveness: 50%
+Requires Level 10
+g_description
+Lays a remote mine that you can detonate to freeze all enemies in the area.
+g_quality
+Per 1% Quality:
+0.5% increased Area of Effect
+g_affix
+Deals (7-181) to (10-271) Cold Damage
+Enemies lose 15% Cold Resistance while Frozen
+Mine lasts 16 seconds
+Freezes enemies as though dealing (200-390)% more Damage
+Places a Remote Mine which uses this Skill when detonated
+Always Freezes enemies
+
+g_name
+Frenzy
+g_tags
+Attack, Projectile, Melee, Bow
+g_info
+Mana Cost: 10
+Cast Time: 1.00 sec
+Damage Effectiveness: (110%-137%)
+Requires Level 16
+g_description
+Performs an attack that gives the character a frenzy charge if it hits. Frenzy charges increase your attack speed.
+g_quality
+Per 1% Quality:
+0.5% increased Attack Speed
+g_affix
+Deals (110-136.6)% of Base Damage
+5% increased Physical Damage per Frenzy Charge
+5% increased Attack Speed per Frenzy Charge
++(0-2) to Melee range
+
+g_name
+Frost Blades
+g_tags
+Attack, Projectile, Melee, Cold
+g_info
+Mana Cost: 6
+Cast Time: 1.00 sec
+Projectile Speed: 2250
+Requires Level 1
+g_description
+Attack an enemy with increased range, releasing icy blades from the targeted enemy which fly at other enemies. Requires a Melee Weapon.
+g_quality
+Per 1% Quality:
+1% increased Projectile Damage
+g_affix
+Deals (100-141.8)% of Base Damage
+Fires (4-7) additional Projectiles
++(18-21) to Melee Weapon Range
+60% of Physical Damage Converted to Cold Damage
+(0-19)% increased Projectile Speed
+
+g_name
+Grace
+g_tags
+Aura, Spell, AoE
+g_info
+Radius: 36
+Mana Reserved: 50%
+Can Store 1 Use(s)
+Cooldown Time: 1.20 sec
+Requires Level 24
+g_description
+Casts an aura that grants evasion to you and your allies.
+g_quality
+Per 1% Quality:
+1% increased Area of Effect
+g_affix
+You and nearby allies gain (227-2575) additional Evasion Rating
++(0-19) to radius
+
+g_name
+Haste
+g_tags
+Aura, Spell, AoE
+g_info
+Radius: 36
+Mana Reserved: 50%
+Can Store 1 Use(s)
+Cooldown Time: 1.20 sec
+Requires Level 24
+g_description
+Casts an aura that increases the movement speed, attack speed and cast speed of you and your allies.
+g_quality
+Per 1% Quality:
+1% increased Area of Effect
+g_affix
+You and nearby allies gain (9-16)% increased Attack Speed
+You and nearby allies gain (9-16)% increased Cast Speed
+You and nearby allies gain (4-9)% increased Movement Speed
++(0-19) to radius
+
+g_name
+Hatred
+g_tags
+Aura, Spell, AoE, Cold
+g_info
+Radius: 36
+Mana Reserved: 50%
+Can Store 1 Use(s)
+Cooldown Time: 1.20 sec
+Requires Level 24
+g_description
+Casts an aura that grants extra cold damage based on physical damage to you and your allies.
+g_quality
+Per 1% Quality:
+1% increased Area of Effect
+g_affix
+You and nearby allies gain (16-25)% of Physical Damage as Extra Cold Damage
+You and nearby allies deal (14-18)% more Cold Damage
++(0-19) to radius
+
+g_name
+Herald of Agony
+g_tags
+Spell, Herald, Minion, Chaos
+g_info
+Mana Reserved: 25%
+Can Store 1 Use(s)
+Cooldown Time: 1.00 sec
+Requires Level 16
+g_description
+Grants a buff giving more poison damage and a chance to inflict poison. When you poison an enemy while you have this buff, you gain Virulence, and summon an Agony Crawler minion that uses projectile and area attacks. You will lose Virulence over time, at a rate which increases the more Virulence you have. The minion will die when you have no Virulence.
+g_quality
+Per 1% Quality:
+1% increased Minion Movement Speed
+g_affix
+Grants 20% chance to Poison on Hit
+Grants 10% more Poison Damage
+Agony Crawler deals (10-19)% increased Physical Damage per Virulence you have
+Agony Crawler has (2-3)% increased Attack Speed per Virulence you have
+Agony Crawler has (1-45) to (3-84) Added Physical Damage per Virulence you have
+Maximum 1 Summoned Agony Crawler
+Grants Virulence when you Poison an Enemy
+Minions cannot Taunt Enemies
+
+g_name
+Herald of Ice
+g_tags
+Spell, AoE, Cold, Herald
+g_info
+Mana Reserved: 25%
+Can Store 1 Use(s)
+Cooldown Time: 1.00 sec
+Damage Effectiveness: 80%
+Requires Level 16
+g_description
+Channel ice through your hands, adding cold damage to spells and attacks. If you shatter an enemy, they explode and deal AoE cold damage to enemies near them. The AoE cold damage inflicted by this skill is not affected by modifiers to spell damage.
+g_quality
+Per 1% Quality:
+0.75% increased Cold Damage
+g_affix
+Adds (4-38) to (5-56) Cold Damage to Spells
+Adds (4-38) to (5-56) Cold Damage to Attacks
+Deals (18-308) to (26-462) Cold Damage
+Damage cannot be Reflected
+
+g_name
+Ice Shot
+g_tags
+Attack, Projectile, AoE, Duration, Cold, Bow
+g_info
+Radius: 23 / 10
+Mana Cost: (6-10)
+Cast Time: 1.00 sec
+Damage Effectiveness: (120%-147%)
+Projectile Speed: 3260
+Requires Level 1
+g_description
+Fires an arrow that converts some physical damage to cold on its target and converts all physical damage to cold in a cone behind that target. Creates a patch of ground ice under the target.
+g_quality
+Per 1% Quality:
+1% increased Cold Damage
+g_affix
+Deals (120-146.6)% of Base Damage
+60% of Physical Damage Converted to Cold Damage
+Base duration is 1.5 seconds
+
+g_name
+Ice Trap
+g_tags
+Trap, Spell, AoE, Cold
+g_info
+Mana Cost: (13-22)
+Cast Time: 1.00 sec
+Critical Strike Chance: 5.00%
+Damage Effectiveness: 150%
+Requires Level 28
+g_description
+Throws a trap that creates a series of icy runic explosions when triggered, dealing cold damage to all enemies caught in the blasts.
+g_quality
+Per 1% Quality:
+0.5% increased Area of Effect
+g_affix
+Trap lasts 4 seconds
+Deals (88-898) to (133-1347) Cold Damage
+Throws a Trap which uses this Skill when Triggered
+
+g_name
+Lacerate
+g_tags
+Attack, AoE, Melee
+g_info
+Radius: 38
+Mana Cost: 8
+Cast Time: 1.00 sec
+Damage Effectiveness: (60%-74%)
+Requires Level 12
+g_description
+Slashes twice, releasing waves of force that damage enemies they hit. Enemies in the middle of the slashes can be hit by both. If you are dual wielding, you attack with your Main Hand, then your Off Hand. Can be used with Axes and Swords.
+g_quality
+Per 1% Quality:
+0.5% increased Area of Effect
+g_affix
+Deals (60-73.7)% of Base Damage
+25% chance to cause Bleeding
+25% more Damage with Hits and Ailments against Bleeding enemies
++(0-9) to radius
+
+g_name
+Lancing Steel
+g_tags
+Attack, Projectile
+g_info
+Mana Cost: (8-10)
+Cast Time: 1.00 sec
+Damage Effectiveness: (65%-80%)
+Requires Level 28
+g_description
+Thrust an Axe or Sword forward, releasing a primary projectile that impales enemies it hits. Additional projectiles appear nearby as smaller metal shards that fly forward after a short delay.
+g_quality
+Per 1% Quality:
+1% chance to Impale Enemies on Hit
+g_affix
+Deals (65-79.8)% of Base Damage
+Fires 4 additional Projectiles
+Primary Projectile Impales Enemies on Hit
+
+g_name
+Lightning Arrow
+g_tags
+Attack, AoE, Projectile, Lightning, Bow
+g_info
+Mana Cost: (7-11)
+Cast Time: 1.00 sec
+Projectile Speed: 3260
+Requires Level 12
+g_description
+Fires a charged arrow at the target, causing them to be struck by a bolt of lightning which damages nearby enemies.
+g_quality
+Per 1% Quality:
+0.5% chance to Shock enemies
+g_affix
+Deals (100-119)% of Base Damage
+50% of Physical Damage Converted to Lightning Damage
+Hits up to 3 additional enemies near the target
+
+g_name
+Lightning Strike
+g_tags
+Attack, Projectile, Melee, Lightning
+g_info
+Mana Cost: 6
+Cast Time: 1.00 sec
+Damage Effectiveness: (130%-176%)
+Requires Level 12
+g_description
+Infuses your melee weapon with electrical energies as you swing. In addition to converting some of your physical damage to lightning damage, the stored energy is released from the weapon as projectiles as you strike, flying out behind your target to hit farther-away enemies. The projectiles cannot miss if the melee attack hit its target.
+g_quality
+Per 1% Quality:
+1% increased Lightning Damage
+g_affix
+Deals (130-175.6)% of Base Damage
+50% of Physical Damage Converted to Lightning Damage
+Fires (4-7) additional Projectiles
+Projectiles deal 25% less Damage
+Damage over time caused by Projectiles deals 25% less Damage
+
+g_name
+Mirror Arrow
+g_tags
+Attack, Minion, Duration, Bow
+g_info
+Mana Cost: (14-20)
+Can Store 1 Use(s)
+Cooldown Time: 3.00 sec
+Cast Time: 1.00 sec
+Requires Level 10
+g_description
+Fires an arrow at the target destination. When the arrow lands, a clone is summoned. The clone is a minion that uses your bow and quiver.
+g_quality
+Per 1% Quality:
+1.5% increased Arrow Speed
+g_affix
+Base duration is 3 seconds
+Minions deal 75% more Damage
+(0-114)% increased Minion Damage
+(0-57)% increased Minion Maximum Life
+
+g_name
+Phase Run
+g_tags
+Spell, Duration, Movement
+g_info
+Mana Cost: (8-13)
+Can Store 1 Use(s)
+Cooldown Time: 4.00 sec
+Requires Level 34
+g_description
+Gain a buff that makes you faster, harder to detect, and grants Phasing, letting you pass through enemies. Performing any skill replaces this buff with one that boosts melee damage of skills you use yourself (it will not apply to your melee skills used by totems). Consumes Frenzy Charges to increase duration.
+g_quality
+Per 1% Quality:
+0.5% increased Movement Speed
+g_affix
+(30-39)% increased Movement Speed
+(20-30)% more Melee Physical Damage
+50% reduced Visibility to Enemies
+Base duration is 1.8 seconds
+Base secondary duration is 0.2 seconds
+100% increased Skill Duration per Frenzy Charge removed
+Phasing
+
+g_name
+Poacher's Mark
+g_tags
+Curse, Spell, AoE, Duration
+g_info
+Radius: 22
+Mana Cost: (24-50)
+Cast Time: 0.50 sec
+Requires Level 24
+g_description
+Curses all targets in an area, making them less evasive. Hitting the cursed targets will grant life and mana, and killing them will result in more flask charges and a chance to gain a frenzy charge.
+g_quality
+Per 1% Quality:
+Cursed enemies have a 0.5% chance to grant a Frenzy Charge when slain
+g_affix
+Base duration is (6-9.8) seconds
+Cursed enemies have (30-49)% less Evasion
+Cursed enemies grant 100% increased Flask Charges
+Cursed enemies grant (5-24) Life when Hit by Attacks
+Cursed enemies grant (5-12) Mana when Hit by Attacks
+Cursed enemies have a (21-30)% chance to grant a Frenzy Charge when slain
++(0-10) to radius
+
+g_name
+Projectile Weakness
+g_tags
+Spell, AoE, Duration, Curse
+g_info
+Radius: 22
+Mana Cost: (16-33)
+Cast Time: 0.50 sec
+Requires Level 24
+g_description
+Curses all targets in an area, making them easier to pierce and to knock back, and increasing the damage they take from projectiles.
+g_quality
+Per 1% Quality:
+Cursed enemies take 0.5% increased Damage from Projectile Hits
+g_affix
+Base duration is (9-10.9) seconds
+Projectiles Pierce Cursed Enemies
+Hits on Cursed Enemies have an additional 25% chance to Knockback
+Cursed enemies take (25-44)% increased Damage from Projectile Hits
++(0-10) to radius
+
+g_name
+Puncture
+g_tags
+Attack, Projectile, Duration, Melee, Bow
+g_info
+Mana Cost: 6
+Cast Time: 1.00 sec
+Requires Level 4
+g_description
+Punctures the target, causing a bleeding debuff, which will be affected by modifiers to skill duration. Puncture works with bows, daggers, claws or swords.
+g_quality
+Per 1% Quality:
+1% increased Skill Effect Duration
+g_affix
+Deals (100-122.8)% of Base Damage
+Base duration is 8 seconds
+Causes Bleeding
++(0-2) to Melee range
+
+g_name
+Purity of Ice
+g_tags
+Aura, Spell, AoE, Cold
+g_info
+Radius: 36
+Mana Reserved: 35%
+Can Store 1 Use(s)
+Cooldown Time: 1.20 sec
+Requires Level 24
+g_description
+Casts an aura that grants cold resistance to you and your allies.
+g_quality
+Per 1% Quality:
+1% increased Area of Effect
+g_affix
+You and nearby allies gain (22-41)% additional Cold Resistance
++(0-19) to radius
+You and nearby allies gain (0-4)% additional maximum Cold Resistance
+
+g_name
+Rain of Arrows
+g_tags
+Attack, AoE, Projectile, Bow
+g_info
+Radius: 24
+Mana Cost: (7-11)
+Cast Time: 1.00 sec
+Damage Effectiveness: (40%-50%)
+Requires Level 12
+g_description
+Fires multiple arrows into the air, to land in sequence after a delay, starting at the targeted location and spreading outwards in all directions. Each arrow deals damage in an area around it. Half of the arrows will land directly on targets if there are targets in their range.
+g_quality
+Per 1% Quality:
+0.5% increased Area of Effect
+g_affix
+Deals (40-50)% of Base Damage
+Fires (17-21) additional Arrows
+
+g_name
+Reave
+g_tags
+Attack, AoE, Melee
+g_info
+Radius: 20
+Mana Cost: 6
+Cast Time: 1.00 sec
+Requires Level 12
+g_description
+Attacks a small area in front of you. Each Reave that hits an enemy increases the area of effect. The area is reset after a short period without hitting anything. Only works with Daggers, Claws, and One-Handed Swords.
+g_quality
+Per 1% Quality:
+0.5% increased Attack Speed
+g_affix
+Deals (100-138)% of Base Damage
+50% more Area of Effect for each stage
++(0-4) to radius
+
+g_name
+Riposte
+g_tags
+Trigger, Attack, Melee
+g_info
+Can Store 1 Use(s)
+Cooldown Time: 0.80 sec
+Cast Time: 1.00 sec
+Requires Level 4
+g_description
+Perform a deadly counter-attack when you block. Uses both weapons while you're dual wielding.
+g_quality
+Per 1% Quality:
+1% increased Damage
+g_affix
+Deals (100-138)% of Base Damage
+Trigger this Skill when you Block
+You cannot use this Attack directly
++(0-2) to Melee range
+
+g_name
+Scourge Arrow
+g_tags
+Attack, Projectile, Channelling, Chaos, Bow
+g_info
+Mana Cost: (4-5)
+Cast Time: 1.00 sec
+Damage Effectiveness: (40%-49%)
+Requires Level 28
+g_description
+Channel to infuse an arrow with chaos, gaining stages while it is held. Release to fire this piercing arrow, which leaves spore pods in its wake. Each spore pod blooms, firing a nova of thorn arrows. Modifiers that cause additional projectiles to be fired will only apply to the initial arrows, and the spore pods will be split between those arrows.
+g_quality
+Per 1% Quality:
+1% increased Projectile Speed
+g_affix
+Deals (40-49.1)% of Base Damage
+90% more Attack Speed
+5 maximum Stages
+Each Spore Pod fires 9 Thorn Arrows
+60% of Physical Damage Converted to Chaos Damage
+Thorn Arrows deal 50% less Damage
+150% more Damage with Hits and Ailments per Stage
+
+g_name
+Seismic Trap
+g_tags
+Trap, Spell, Duration, AoE
+g_info
+Mana Cost: (13-25)
+Can Store 3 Use(s)
+Cooldown Time: 8.00 sec
+Cast Time: 1.00 sec
+Critical Strike Chance: 5.00%
+Damage Effectiveness: 120%
+Requires Level 28
+g_description
+Throws a trap which, once triggered, repeatedly releases a number of waves for a duration. Each wave deals damage in a series of small bursts in a line, ending with a larger burst. Modifiers to cast speed affects how frequently it releases waves.
+g_quality
+Per 1% Quality:
+1% increased Physical Damage
+g_affix
+Trap lasts 4 seconds
+Base duration is 3.5 seconds
+Deals (47-531) to (70-796) Physical Damage
+Releases 5 waves
+Releases waves every 0.9 seconds
+Throws a Trap which uses this Skill when Triggered
+
+g_name
+Shattering Steel
+g_tags
+Attack, Projectile, AoE
+g_info
+Mana Cost: (7-9)
+Cast Time: 1.00 sec
+Damage Effectiveness: (40%-49%)
+Requires Level 12
+g_description
+Swing an Axe or Sword, releasing projectiles in sequence. The projectiles shatter when colliding with an enemy or travelling a short distance. The shattered pieces deal damage in an area in front of the impact location.
+g_quality
+Per 1% Quality:
+1% increased Impale Effect
+g_affix
+Deals (40-49.1)% of Base Damage
+40% chance to Impale Enemies on Hit
+Fires 2 additional Projectiles
+Projectiles gain Damage as they travel farther, dealing up to 100% more Damage with Hits
+
+g_name
+Shrapnel Shot
+g_tags
+Lightning, Attack, Projectile, AoE, Bow
+g_info
+Mana Cost: (6-10)
+Cast Time: 1.00 sec
+Damage Effectiveness: (80%-99%)
+Projectile Speed: 3260
+Requires Level 1
+g_description
+Fires an arrow that pierces through enemies. Arrows are fired with such force that they create a burst of lightning, damaging all enemies in a cone in front of the archer.
+g_quality
+Per 1% Quality:
+0.5% increased Area of Effect
+g_affix
+Deals (80-99)% of Base Damage
+50% of Physical Damage Converted to Lightning Damage
+Arrows Pierce (4-7) additional Targets
++(0-5) to radius
+
+g_name
+Siege Ballista
+g_tags
+Totem, Attack, Projectile, Bow
+g_info
+Mana Cost: (8-13)
+Cast Time: 1.00 sec
+Damage Effectiveness: (140%-170%)
+Projectile Speed: 3260
+Requires Level 4
+g_description
+Summons a totem that attacks with piercing arrows. It attacks slowly, but deals increased damage.
+g_quality
+Per 1% Quality:
+1% increased Totem Placement speed
+g_affix
+Deals (140-170.4)% of Base Damage
+50% less Attack Speed
+Totem lasts 8 seconds
+Arrows Pierce (6-9) additional Targets
+Summons a Totem which uses the Supported Skill
+
+g_name
+Smoke Mine
+g_tags
+Mine, Spell, AoE, Duration, Movement
+g_info
+Mana Cost: (6-13)
+Cast Time: 0.50 sec
+Requires Level 10
+g_description
+Places a mine that will teleport you to it when detonated. It covers both your escape and arrival with a cloud of smoke that blinds enemies, and gives you a temporary buff to movement speed.
+g_quality
+Per 1% Quality:
+1% increased Area of Effect
+g_affix
+Mine lasts 16 seconds
+Base duration is (4-5.9) seconds
+30% increased Movement Speed
+Places a Remote Mine which uses this Skill when detonated
+
+g_name
+Spectral Shield Throw
+g_tags
+Attack, Projectile
+g_info
+Mana Cost: (7-10)
+Cast Time: 1.00 sec
+Requires Level 12
+g_description
+Throws a spectral copy of your shield as a projectile which cannot pierce, and deals off-hand damage augmented by the defences of the shield. When it collides with something it will shatter, launching a number of smaller shards as projectiles in all directions. Modifiers that cause additional projectiles to be fired will add more shards, not more copies of the shield.
+g_quality
+Per 1% Quality:
+1% increased Projectile Damage
+g_affix
+(13-132) to (19-198) Base Off Hand Physical Damage
+2 to 3 Added Physical Damage per 15 Armour or Evasion Rating on Shield
+Fires 8 additional Projectiles
+Shard Projectiles Deal 25% less Damage
+Base Off Hand Attack time is (0.65-0.56) seconds
++0.1% to Critical Strike Chance per 10 Maximum Energy Shield on Shield
+Base Off Hand Critical Strike Chance is 5%
+
+g_name
+Spectral Throw
+g_tags
+Attack, Projectile
+g_info
+Mana Cost: (7-9)
+Cast Time: 1.00 sec
+Damage Effectiveness: (54%-90%)
+Projectile Speed: 1000
+Requires Level 1
+g_description
+Throws a spectral copy of your melee weapon. It flies out and then returns to you, in a spinning attack that strikes enemies in its path.
+g_quality
+Per 1% Quality:
+0.5% increased Attack Speed
+g_affix
+Deals (54-90.5)% of Base Damage
+
+g_name
+Split Arrow
+g_tags
+Attack, Projectile, Bow
+g_info
+Mana Cost: (6-10)
+Cast Time: 1.00 sec
+Damage Effectiveness: (90%-109%)
+Projectile Speed: 3260
+Requires Level 1
+g_description
+Fires multiple arrows at different targets.
+g_quality
+Per 1% Quality:
+0.5% increased Attack Speed
+g_affix
+Deals (90-109)% of Base Damage
+Fires (4-6) additional Arrows
+
+g_name
+Summon Ice Golem
+g_tags
+Cold, Minion, Spell, Golem
+g_info
+Mana Cost: (30-54)
+Can Store 1 Use(s)
+Cooldown Time: 6.00 sec
+Cast Time: 1.00 sec
+Requires Level 34
+g_description
+Summons an Ice Golem that grants you increased Critical Strike Chance and Accuracy. The Ice Golem can use an icy barrage spell and a chilling spinning dash in addition to its melee attack.
+g_quality
+Per 1% Quality:
+1% increased Minion Maximum Life
+g_affix
+1% increased Minion Damage
+Can Summon up to 1 Golem at a time
+Golems Grant (20-30)% increased Critical Strike Chance
+Golems Grant (20-30)% increased Accuracy
+(30-68)% increased Minion Maximum Life
+(0-10)% increased Character Size
+
+g_name
+Temporal Chains
+g_tags
+Spell, AoE, Duration, Curse
+g_info
+Radius: 22
+Mana Cost: (16-33)
+Cast Time: 0.50 sec
+Requires Level 24
+g_description
+Curses all targets in an area, Slowing them, and making effects on them expire more slowly.
+g_quality
+Per 1% Quality:
+Cursed Normal and Magic Enemies have 0.5% less Action Speed
+g_affix
+Base duration is (5-5.95) seconds
+Cursed Normal and Magic Enemies have (20-29)% less Action Speed
+Other effects on Cursed enemies expire 40% slower
+40% reduced Effect of Curse against Players
+Cursed Rare and Unique Enemies have (10-14)% less Action Speed
++(0-7) to radius
+
+g_name
+Tornado Shot
+g_tags
+Attack, Projectile, Bow
+g_info
+Mana Cost: (8-10)
+Cast Time: 1.00 sec
+Damage Effectiveness: (90%-109%)
+Requires Level 28
+g_description
+Fires a piercing shot that travels until it reaches the targeted location. It will then fire projectiles out in all directions from that point.
+g_quality
+Per 1% Quality:
+1% increased Projectile Damage
+g_affix
+Deals (90-109)% of Base Damage
+Fires 3 secondary Projectiles
+
+g_name
+Toxic Rain
+g_tags
+Attack, AoE, Chaos, Duration, Projectile, Bow
+g_info
+Mana Cost: (7-11)
+Cast Time: 1.00 sec
+Damage Effectiveness: (50%-73%)
+Requires Level 12
+g_description
+Fire arrows into the air that rain down around the targeted area, dealing damage to enemies they hit and creating spore pods where they land. Each spore pod deals chaos damage over time to nearby enemies and slows their movement speed. The pods last for a duration before bursting, dealing area damage.
+g_quality
+Per 1% Quality:
+0.5% increased Area of Effect
+g_affix
+Deals (50-72.8)% of Base Damage
+Base duration is 1 seconds
+Deals (6.7-283.7) Base Chaos Damage per second
+Fires 4 additional Arrows
+50% of Physical Damage Converted to Chaos Damage
+Each Spore Pod applies 10% less Movement Speed to nearby Enemies, to a maximum of 60%
+Modifiers to Projectile Damage apply to this Skill's Damage Over Time effect
+
+g_name
+Unearth
+g_tags
+Spell, Projectile, AoE
+g_info
+Mana Cost: (7-20)
+Cast Time: 0.60 sec
+Critical Strike Chance: 6.00%
+Damage Effectiveness: 125%
+Requires Level 10
+g_description
+Fires a projectile that will pierce through enemies to impact the ground at the targeted location, creating a Bone Archer corpse where it lands.
+g_quality
+Per 1% Quality:
+0.5% increased Cast Speed
+g_affix
+Deals (25-682) to (37-1023) Physical Damage
+Creates Corpses with Level (12-80)
+Maximum of 10 Corpses allowed
+Projectiles Pierce all Targets
+
+g_name
+Vaal Blade Vortex
+g_tags
+Vaal, Spell, AoE, Duration
+g_info
+Souls Per Use: 30 (N) / 
+Can Store 1 Use(s)
+Soul Gain Prevention: 5.000 sec
+Cast Time: 0.80 sec
+Critical Strike Chance: 6.00%
+Damage Effectiveness: 75%
+Requires Level 12
+g_description
+Creates an independently-moving vortex of ethereal blades which lasts for a duration. The vortex moves toward nearby enemies, repeatedly damaging enemies that it passes through.
+g_quality
+Per 1% Quality:
+0.5% increased Area of Effect
+g_affix
+Deals (14-331) to (20-496) Physical Damage
+Base duration is 3 seconds
++(8-12) to radius
+Hits Enemies every 0.13 Seconds
+100% increased Critical Strike Chance
+Has 10 blades
+Modifiers to Skill Effect Duration also apply to this Skill's Soul Gain Prevention
+Corrupted
+
+g_name
+Vaal Burning Arrow
+g_tags
+Vaal, Attack, Projectile, AoE, Fire, Bow
+g_info
+Souls Per Use: 20 (N) / 
+Can Store 3 Use(s)
+Soul Gain Prevention: 2.000 sec
+Cast Time: 1.00 sec
+Damage Effectiveness: (160%-198%)
+Projectile Speed: 3260
+Requires Level 1
+g_description
+Fires an arrow that explodes, dealing fire damage to its target and other nearby enemies, with an increased chance of igniting them.
+g_quality
+Per 1% Quality:
+3% increased Ignite Duration on enemies
+g_affix
+Deals (160-198)% of Base Damage
+(30-49)% chance to Ignite enemies
+(30-68)% more Damage with Ignite
+50% of Physical Damage Converted to Fire Damage
+Projectiles Pierce 3 additional Targets
+Can't be Evaded
+Corrupted
+
+g_name
+Vaal Cyclone
+g_tags
+Vaal, Attack, AoE, Duration, Melee, Movement
+g_info
+Souls Per Use: 35 (N) / 
+Can Store 1 Use(s)
+Soul Gain Prevention: 7.000 sec
+Cast Time: 1.00 sec
+Damage Effectiveness: (50%-61%)
+Requires Level 28
+g_description
+Spin and attack in place, damaging nearby enemies and pulling others towards you. Cannot be supported by Ruthless.
+g_quality
+Per 1% Quality:
+0.5% increased Area of Effect
+g_affix
+Deals (50-61.4)% of Base Damage
+100% more Attack Speed
+Base duration is 5 seconds
+50% increased Area of Effect
+Can't be Evaded
+Modifiers to Skill Effect Duration also apply to this Skill's Soul Gain Prevention
++(0-2) to Melee range
+Corrupted
+
+g_name
+Vaal Detonate Dead
+g_tags
+Vaal, Spell, AoE, Fire
+g_info
+Souls Per Use: 30 (N) / 
+Can Store 1 Use(s)
+Soul Gain Prevention: 8.000 sec
+Cast Time: 0.60 sec
+Critical Strike Chance: 5.00%
+Damage Effectiveness: 200%
+Requires Level 4
+g_description
+Targets a corpse, and deals spell damage to enemies around the corpse, as well as causing the corpse to explode, dealing fire damage. The explosion is not affected by modifiers to spell damage and cannot be reflected. This will continue to target other corpses in the area, with an increasing delay between each one, until it runs out of corpses or has destroyed 22 corpses.
+g_quality
+Per 1% Quality:
+1% increased Area Damage
+g_affix
+Explosion deals base Fire Damage equal to 9% of the corpse's maximum Life
+Deals (23-1395) to (33-2092) Fire Damage
++(0-4) to radius
+Corrupted
+
+g_name
+Vaal Double Strike
+g_tags
+Vaal, Attack, Melee, Duration
+g_info
+Souls Per Use: 30 (N) / 
+Can Store 2 Use(s)
+Soul Gain Prevention: 8.000 sec
+Cast Time: 1.00 sec
+Damage Effectiveness: (33%-40%)
+Requires Level 1
+g_description
+Performs two fast attacks on target enemy with a melee weapon, each of which summons a double of you for a duration to continuously attack monsters in this fashion.
+g_quality
+Per 1% Quality:
+0.5% increased Attack Speed
+g_affix
+Deals (33-40.5)% of Base Damage
+Base duration is 6 seconds
+Adds (3-113) to (5-169) Physical Damage against Bleeding Enemies
+Can't be Evaded
+Modifiers to Skill Effect Duration also apply to this Skill's Soul Gain Prevention
+Doubles have (0-57)% increased Movement Speed
++(0-2) to Melee range
+Corrupted
+
+g_name
+Vaal Grace
+g_tags
+Aura, Vaal, Spell, AoE, Duration
+g_info
+Radius: 36
+Souls Per Use: 50 (N) / 
+Can Store 1 Use(s)
+Can Store 1 Use(s)
+Soul Gain Prevention: 9.000 sec
+Cooldown Time: 0.50 sec
+Requires Level 24
+g_description
+Casts a temporary aura that grants you and your allies the ability to dodge attacks and spells.
+g_quality
+Per 1% Quality:
+1% increased Area of Effect
+g_affix
+(24-34)% Chance to Dodge Attack Hits
+(24-34)% Chance to Dodge Spell Hits
+Base duration is 6 seconds
+Modifiers to Buff Duration also apply to this Skill's Soul Gain Prevention
++(0-19) to radius
+Corrupted
+
+g_name
+Vaal Haste
+g_tags
+Aura, Vaal, Spell, AoE, Duration
+g_info
+Radius: 36
+Souls Per Use: 50 (N) / 
+Can Store 1 Use(s)
+Can Store 1 Use(s)
+Soul Gain Prevention: 6.000 sec
+Cooldown Time: 0.50 sec
+Requires Level 24
+g_description
+Casts a temporary aura that increases the movement speed, attack speed and cast speed of you and your allies.
+g_quality
+Per 1% Quality:
+1% increased Area of Effect
+g_affix
+You and nearby allies gain (25-31)% increased Attack Speed
+You and nearby allies gain (24-31)% increased Cast Speed
+You and nearby allies gain (10-13)% increased Movement Speed
+Base duration is 4 seconds
+Modifiers to Buff Duration also apply to this Skill's Soul Gain Prevention
++(0-19) to radius
+Corrupted
+
+g_name
+Vaal Impurity of Ice
+g_tags
+Aura, Vaal, Spell, AoE, Duration, Cold
+g_info
+Souls Per Use: 50 (N) / 
+Can Store 1 Use(s)
+Can Store 1 Use(s)
+Soul Gain Prevention: 8.000 sec
+Cooldown Time: 0.50 sec
+Requires Level 24
+g_description
+Casts an aura that reduces cold damage taken and provides freeze and chill immunity to you and nearby allies, and makes hits against nearby enemies ignore their cold resistance.
+g_quality
+Per 1% Quality:
+1% increased Area of Effect
+g_affix
+25% less Cold Damage taken
++(14-20) to radius
+Base duration is 3 seconds
+You and nearby allies are Immune to Freeze
+Nearby Enemies' Cold Resistance is Ignored by Hits
+You and nearby allies are Immune to Chill
+Modifiers to Skill Effect Duration also apply to this Skill's Soul Gain Prevention
+(0-76)% increased effect of Aura
+Corrupted
+
+g_name
+Vaal Lightning Strike
+g_tags
+Vaal, Attack, Melee, Duration, Lightning, Projectile
+g_info
+Souls Per Use: 20 (N) / 
+Can Store 1 Use(s)
+Soul Gain Prevention: 10.000 sec
+Cast Time: 1.00 sec
+Damage Effectiveness: (80%-98%)
+Requires Level 12
+g_description
+Infuses your melee weapon with electrical energies as you swing. In addition to converting some of your physical damage to lightning damage, the stored energy becomes an orb attached to the enemy you hit, or the ground if you don't hit an enemy. The orb will periodically fire projectiles at other nearby enemies for a duration, which will also damage the enemy the orb is attached to.
+g_quality
+Per 1% Quality:
+1% increased Lightning Damage
+g_affix
+Deals (80-98.2)% of Base Damage
+50% of Physical Damage Converted to Lightning Damage
+Base duration is 8 seconds
+Fires (4-8) additional Projectiles
+Can't be Evaded
+Modifiers to Skill Effect Duration also apply to this Skill's Soul Gain Prevention
+Corrupted
+
+g_name
+Vaal Rain of Arrows
+g_tags
+Vaal, Attack, AoE, Projectile, Bow
+g_info
+Souls Per Use: 20 (N) / 
+Can Store 2 Use(s)
+Soul Gain Prevention: 5.000 sec
+Cast Time: 1.00 sec
+Requires Level 12
+g_description
+Fires multiple arrows into the air, to land in multiple sequences after a delay, each starting at the targeted location and spreading outwards in all directions. Each arrow deals damage in an area around it. Half of the arrows will land directly on targets if there are targets in their range.
+g_quality
+Per 1% Quality:
+0.5% increased Area of Effect
+g_affix
+Deals (80-100.1)% of Base Damage
+Fires (17-21) additional Arrows
+Fires 3 additional sequences of arrows
+150% increased Effect of Maim
+Maim on Hit
+Can't be Evaded
+Corrupted
+
+g_name
+Vaal Reave
+g_tags
+Vaal, Attack, AoE, Melee
+g_info
+Radius: 12
+Souls Per Use: 35 (N) / 
+Can Store 2 Use(s)
+Soul Gain Prevention: 4.000 sec
+Cast Time: 1.00 sec
+Requires Level 12
+g_description
+Repeatedly attacks a large area in different directions. Each Vaal Reave that hits an enemy increases the area of effect. The area is reset after a short period without hitting anything. Only works with Daggers, Claws, and One-Handed Swords.
+g_quality
+Per 1% Quality:
+0.5% increased Attack Speed
+g_affix
+Deals (100-122.8)% of Base Damage
+50% more Area of Effect for each stage
+150% more Attack Speed
+Can't be Evaded
++(0-4) to radius
+Corrupted
+
+g_name
+Vaal Spectral Throw
+g_tags
+Vaal, Attack, Projectile
+g_info
+Souls Per Use: 10 (N) / 
+Can Store 3 Use(s)
+Soul Gain Prevention: 6.000 sec
+Cast Time: 1.00 sec
+Damage Effectiveness: (91%-135%)
+Requires Level 1
+g_description
+Throws a spectral copy of your melee weapon. It spirals out in a spinning attack that strikes enemies in its path.
+g_quality
+Per 1% Quality:
+0.5% increased Attack Speed
+g_affix
+Deals (91-135.46)% of Base Damage
+Fires 4 additional Projectiles
+Fires 0 Projectiles in a Nova
+Can't be Evaded
+Corrupted
+
+g_name
+Viper Strike
+g_tags
+Attack, Duration, Melee, Chaos
+g_info
+Mana Cost: 5
+Cast Time: 1.00 sec
+Damage Effectiveness: (115%-142%)
+Requires Level 1
+g_description
+Hits the enemy, adding some of your physical damage as chaos damage and applying poison. Requires a claw, dagger or sword.
+g_quality
+Per 1% Quality:
+0.5% increased Attack Speed
+g_affix
+Deals (115-141.6)% of Base Damage
+25% of Physical Damage Converted to Chaos Damage
+60% chance to Poison on Hit
+Base duration is 4 seconds
++(0-2) to Melee range
+
+g_name
+Volatile Dead
+g_tags
+Spell, AoE, Fire
+g_info
+Mana Cost: (9-26)
+Cast Time: 0.80 sec
+Critical Strike Chance: 5.00%
+Damage Effectiveness: 120%
+Requires Level 12
+g_description
+Corpses near the targeted location explode, dealing damage in a small area and creating an orb which moves towards nearby enemies before dealing spell damage in a larger area. The explosion of the corpse is not affected by modifiers to spell damage, and cannot be reflected.
+g_quality
+Per 1% Quality:
+0.5% increased Area of Effect
+g_affix
+Deals (20-507) to (30-760) Fire Damage
+Destroys up to 3 Corpses
+Explosion deals base Fire Damage equal to 3% of the corpse's maximum Life
+
+g_name
+Whirling Blades
+g_tags
+Attack, Movement, Melee
+g_info
+Mana Cost: 15
+Cast Time: 2.60 sec
+Damage Effectiveness: (80%-99%)
+Requires Level 10
+g_description
+Dive through enemies, dealing weapon damage. Only works with daggers, claws and one handed swords. Cannot be supported by Multistrike.
+g_quality
+Per 1% Quality:
+0.5% increased Attack Speed
+g_affix
+Deals (80-99)% of Base Damage
++0.6 seconds to Attack Time
+
+g_name
+Wild Strike
+g_tags
+Attack, Melee, Lightning, Cold, Fire, Projectile, AoE, Chaining
+g_info
+Mana Cost: 6
+Cast Time: 1.00 sec
+Damage Effectiveness: (130%-176%)
+Projectile Speed: 1800
+Requires Level 28
+g_description
+Your melee weapon strikes an enemy, converting physical damage to a random element. Then, depending on the element chosen, it releases a fiery explosion, an arcing bolt of lightning, or an icy wave.
+g_quality
+Per 1% Quality:
+1% increased Elemental Damage
+g_affix
+Deals (130-175.6)% of Base Damage
+100% of Physical Damage Converted to Fire, Cold or Lightning Damage
+Chains +(4-7) Times
+Fires 2 additional Projectiles
+Projectiles Pierce all Targets
+(0-19)% increased Area of Effect
++(0-2) to Melee range
+
+g_name
+Abyssal Cry
+g_tags
+Warcry, AoE, Duration, Chaos
+g_info
+Mana Cost: (10-16)
+Can Store 1 Use(s)
+Cooldown Time: 4.00 sec
+Cast Time: 0.25 sec
+Requires Level 34
+g_description
+Performs a warcry, Hindering nearby enemies and causing them to explode when killed. The Hinder effect is proportional to the number of surrounding enemies. Taunts all nearby enemies to attack the user. Shares a cooldown with other Warcry skills.
+g_quality
+Per 1% Quality:
+1% increased Skill Effect Duration
+g_affix
+(0.6-0.86)% reduced Movement Speed per Nearby Enemy
+(20-26)% reduced Movement Speed
+Explosion deals Chaos Damage equal to 8% of the Monster's maximum Life
+Base duration is 6 seconds
+Damage cannot be Reflected
+
+g_name
+Ancestral Protector
+g_tags
+Totem, Attack, Melee
+g_info
+Mana Cost: 8
+Cast Time: 1.00 sec
+Damage Effectiveness: (80%-133%)
+Requires Level 4
+g_description
+Summons an Ancestor Totem which attacks enemies with melee strikes while you're near it. Being near it grants you more attack speed.
+g_quality
+Per 1% Quality:
+1% increased Totem Damage
+g_affix
+Deals (80-133.2)% of Base Damage
+Totem lasts 12 seconds
++(16-18) to Melee range
+50% increased Totem Placement speed
+(10-20)% more Attack Speed while Totem is Active
+Summons a Totem which uses the Supported Skill
+
+g_name
+Ancestral Warchief
+g_tags
+Totem, Attack, AoE, Melee
+g_info
+Mana Cost: 10
+Cast Time: 1.00 sec
+Requires Level 28
+g_description
+Summons an Ancestor Totem which attacks enemies with a powerful slam while you're near it. Being near it grants you more melee damage.
+g_quality
+Per 1% Quality:
+1% increased Totem Damage
+g_affix
+Deals (100-122.8)% of Base Damage
+Totem lasts 12 seconds
+50% increased Totem Placement speed
+(8-18)% more Melee Damage while Totem is Active
+10% less Attack Speed
++10 to Melee range
+Summons a Totem which uses the Supported Skill
+
+g_name
+Anger
+g_tags
+Aura, Spell, AoE, Fire
+g_info
+Radius: 36
+Mana Reserved: 50%
+Can Store 1 Use(s)
+Cooldown Time: 1.20 sec
+Requires Level 24
+g_description
+Casts an aura that adds fire damage to the attacks and spells of you and your allies.
+g_quality
+Per 1% Quality:
+1% increased Area of Effect
+g_affix
+You and nearby allies deal (16-109) to (23-155) additional Fire Damage with Attacks
+You and nearby allies deal (15-99) to (21-140) additional Fire Damage with Spells
++(0-19) to radius
+
+g_name
+Animate Guardian
+g_tags
+Spell, Minion
+g_info
+Mana Cost: (11-20)
+Cast Time: 0.60 sec
+Requires Level 28
+g_description
+Animates a melee weapon or armour, attaching it to an invisible Guardian that fights by your side. Animating multiple items attaches them to the same Guardian. You cannot animate unidentified items.
+g_quality
+Per 1% Quality:
+Minions have 2% increased Movement Speed
+g_affix
+Can use Items requiring up to Level (33-100)
+Minions' Attacks deal (22-56) to (34-84) additional Physical Damage
+(0-76)% increased maximum Life
+Minions deal (0-76)% increased Physical Damage with Melee Attacks
+
+g_name
+Cleave
+g_tags
+Attack, AoE, Melee
+g_info
+Radius: 20
+Mana Cost: 6
+Cast Time: 1.00 sec
+Damage Effectiveness: (110%-163%)
+Requires Level 1
+g_description
+The character swings their weapon (or both weapons if dual wielding) in an arc towards the target. Also does damage to other nearby monsters. Only works with Axes and Swords.
+g_quality
+Per 1% Quality:
+0.5% increased Attack Speed
+g_affix
+Deals (110-163.2)% of Base Damage
+When Dual Wielding, Deals 60% Damage from each Weapon combined
++(0-6) to radius
+
+g_name
+Consecrated Path
+g_tags
+Fire, Attack, AoE, Movement, Duration, Melee
+g_info
+Mana Cost: 8
+Cast Time: 1.00 sec
+Damage Effectiveness: (120%-147%)
+Requires Level 28
+g_description
+Slams the ground at a targeted location. If an enemy is near where you target, you'll teleport to it from a short distance away, slam, and create an area of consecrated ground. Can't be supported by Multistrike, and requires a Sword, Axe, Mace, Staff or Unarmed.
+g_quality
+Per 1% Quality:
+0.5% increased Area of Effect
+g_affix
+Deals (120-147.4)% of Base Damage
+50% of Physical Damage Converted to Fire Damage
+Base duration is 4 seconds
+Deals up to 20% more Damage to closer targets
+
+g_name
+Decoy Totem
+g_tags
+Totem, Spell, AoE
+g_info
+Radius: 60
+Mana Cost: (9-35)
+Can Store 1 Use(s)
+Cooldown Time: 4.00 sec
+Cast Time: 1.00 sec
+Requires Level 4
+g_description
+Summons a totem that taunts nearby monsters to attack it.
+g_quality
+Per 1% Quality:
+1% increased totem life
+g_affix
+Summons a Totem which uses the Supported Skill
+Totem lasts 8 seconds
+Totems Summoned by this Skill cannot Evade
+(0-38)% increased totem life
+
+g_name
+Determination
+g_tags
+Aura, Spell, AoE
+g_info
+Radius: 36
+Mana Reserved: 50%
+Can Store 1 Use(s)
+Cooldown Time: 1.20 sec
+Requires Level 24
+g_description
+Casts an aura that grants armour to you and your allies.
+g_quality
+Per 1% Quality:
+1% increased Area of Effect
+g_affix
+You and nearby allies gain (32-51)% more Armour
++(0-19) to radius
+
+g_name
+Devouring Totem
+g_tags
+Totem, Spell
+g_info
+Mana Cost: (20-44)
+Cast Time: 1.00 sec
+Requires Level 4
+g_description
+Summons a totem that can consume nearby corpses. If you are hurt, it will destroy a corpse to leech life to you.
+g_quality
+Per 1% Quality:
+1% increased totem life
+g_affix
+Summons a Totem which uses the Supported Skill
+Totem lasts 8 seconds
+Leeches (30-299) Life to you for each corpse consumed
+Leeches (9-59) Mana to you for each corpse consumed
+
+g_name
+Dominating Blow
+g_tags
+Attack, Minion, Duration, Melee
+g_info
+Mana Cost: 8
+Cast Time: 1.00 sec
+Damage Effectiveness: (140%-172%)
+Requires Level 28
+g_description
+Attacks the enemy with a melee strike, applying a debuff for a short duration. If a non-unique enemy dies while affected by the debuff, the enemy's corpse will be consumed and a Sentinel of Dominance with the same rarity, prefix and suffix modifiers will be summoned for a longer secondary duration.
+g_quality
+Per 1% Quality:
+Minions deal 0.5% increased Damage
+g_affix
+Deals (140-171.9)% of Base Damage
+Base duration is 1 seconds
+Maximum 9 Summoned Normal Sentinels of Dominance
+Maximum 3 Summoned Magic Sentinels of Dominance
+Maximum 1 Summoned Rare Sentinel of Dominance
+Base secondary duration is 20 seconds
+10% Chance to Summon a Normal Sentinel of Dominance when you Hit a Unique Monster
++(0-2) to Melee range
+
+g_name
+Dread Banner
+g_tags
+AoE, Spell, Duration, Aura
+g_info
+Mana Cost: 10
+Can Store 1 Use(s)
+Cooldown Time: 1.00 sec
+Requires Level 24
+g_description
+Casting once reserves mana to carry a banner which makes nearby allies inflict impale with attacks, and lessens the accuracy of nearby enemies. Gain stages by impaling enemies while carrying the banner. Casting the skill again places the banner, ending the mana reservation. Once placed, it becomes more powerful for each stage gained. You cannot have multiple banners at the same time.
+g_quality
+Per 1% Quality:
+0.5% increased effect of Aura
+g_affix
+Nearby Enemies have (15-21)% less Accuracy Rating
+You and nearby Allies have 20% chance to Impale Enemies on Hit with Attacks
+When placed, 8% increased Area of Effect per Stage
+When placed, 1% increased Aura effect per Stage
++1 second to Base Placed Banner Duration per Stage
+Gain Fortify for 0.05 seconds per Stage on Placing the Banner
+2% increased Fortify effect per Stage
+Gain 1 Stage when you Impale an Enemy while carrying the Banner, up to 5 per second
+You and nearby Allies have (0-19)% increased Impale Effect
+
+g_name
+Earthquake
+g_tags
+Attack, AoE, Duration, Melee
+g_info
+Radius: 18 / 25
+Mana Cost: 10
+Cast Time: 1.00 sec
+Damage Effectiveness: (90%-109%)
+Requires Level 28
+g_description
+Smashes the ground with an Axe, Mace or Staff, dealing damage in an area and cracking the earth. The crack will erupt in a powerful aftershock after a short duration. Earthquakes created before the first one has erupted will not generate their own aftershocks.
+g_quality
+Per 1% Quality:
+1% increased Physical Damage
+g_affix
+Deals (90-109)% of Base Damage
+Base duration is 1 seconds
+Aftershock deals 70% more Damage with Hits and Ailments
+
+g_name
+Enduring Cry
+g_tags
+Warcry, AoE, Duration
+g_info
+Radius: 60
+Mana Cost: (7-16)
+Can Store 1 Use(s)
+Cooldown Time: 4.00 sec
+Cast Time: 0.25 sec
+Requires Level 16
+g_description
+Performs a warcry, adding endurance charges proportional to the number of surrounding enemies and granting life regeneration to you for a short time if there are nearby enemies. Taunts all nearby enemies to attack the user. Shares a cooldown with other Warcry skills.
+g_quality
+Per 1% Quality:
+3% increased Area of Effect
+g_affix
+(8-36) Endurance Charges granted per one hundred nearby enemies
+Base duration is 0.75 seconds
+(48-394) Life regenerated per second
+
+g_name
+Glacial Hammer
+g_tags
+Attack, Melee, Cold
+g_info
+Mana Cost: 5
+Cast Time: 1.00 sec
+Damage Effectiveness: (140%-182%)
+Requires Level 1
+g_description
+Hits the enemy, converting some of your physical damage to cold damage. If the enemy is frozen and is on less than one third life, they will shatter when hit by Glacial Hammer. Requires a Mace or Staff.
+g_quality
+Per 1% Quality:
+2% increased Chill Duration on enemies
+g_affix
+1% increased Freeze Duration on enemies
+Deals (140-181.8)% of Base Damage
+50% of Physical Damage Converted to Cold Damage
+25% chance to Freeze enemies
+35% increased Chill Duration on enemies
+(10-29)% increased Effect of Chill
++(0-2) to Melee range
+
+g_name
+Ground Slam
+g_tags
+Attack, AoE, Melee
+g_info
+Radius: 35
+Mana Cost: 6
+Cast Time: 1.00 sec
+Requires Level 1
+g_description
+The character slams the ground in front of them with a Staff, Axe or Mace, creating a wave that travels forward and damages enemies with an increased chance to stun. The wave deals more damage to closer enemies.
+g_quality
+Per 1% Quality:
+1.5% increased Stun Duration on enemies
+g_affix
+Deals (100-122.8)% of Base Damage
+25% reduced Enemy Stun Threshold
+Deals up to (40-49)% more Damage to closer targets
++(0-6) to radius
+
+g_name
+Heavy Strike
+g_tags
+Attack, Melee
+g_info
+Mana Cost: 5
+Cast Time: 1.00 sec
+Damage Effectiveness: (150%-194%)
+Requires Level 1
+g_description
+Attacks the enemy with a forceful blow, knocking them back. Requires a Mace, Axe, Sword or Two-Handed Weapon.
+g_quality
+Per 1% Quality:
+1% increased Stun Duration on enemies
+g_affix
+Deals (150-193.7)% of Base Damage
+Knocks Enemies Back on Hit
+25% reduced Enemy Stun Threshold
++(0-2) to Melee range
+
+g_name
+Herald of Ash
+g_tags
+Spell, AoE, Fire, Herald, Duration
+g_info
+Radius: 10
+Mana Reserved: 25%
+Can Store 1 Use(s)
+Cooldown Time: 1.00 sec
+Requires Level 16
+g_description
+Grants a buff providing fire damage based on your physical damage. While you have this buff, if you kill an enemy, other enemies near them will be burned based on the overkill damage. The burn inflicted by this skill can only be affected by modifiers to damage over time (burning damage is damage over time).
+g_quality
+Per 1% Quality:
+0.75% increased Fire Damage
+g_affix
+Gain 15% of your Physical Damage as Extra Fire Damage
+Base duration is 4 seconds
+Base Burning Damage is 25% of Overkill Damage
+(9-12)% more Spell Fire Damage
+(0-38)% more Burning Damage
+
+g_name
+Herald of Purity
+g_tags
+Spell, Herald, Minion, Duration
+g_info
+Mana Reserved: 25%
+Can Store 1 Use(s)
+Cooldown Time: 1.00 sec
+Requires Level 16
+g_description
+Grants a buff which adds physical damage to your spells and attacks. When you kill an enemy while you have this buff, this skill will summon a Sentinel of Purity, or refresh the duration and life of an existing one instead if you have the maximum number of them. The Sentinels of Purity have a single-target melee attack and an area melee attack.
+g_quality
+Per 1% Quality:
+1% increased Minion Movement Speed
+g_affix
+Maximum 4 Summoned Sentinels of Purity
+20% chance to Summon a Sentinel of Purity when you Hit a Rare or Unique Enemy
+Adds (3-25) to (5-37) Physical Damage to Spells
+Adds (3-25) to (5-37) Physical Damage to Attacks
+Summon a Sentinel of Purity when you Kill an Enemy
+Minions deal (0-95)% more Physical Damage
+Minions have (0-38)% more Life
+
+g_name
+Holy Flame Totem
+g_tags
+Totem, Spell, Projectile, Fire, Channelling
+g_info
+Mana Cost: (11-39)
+Cast Time: 0.25 sec
+Critical Strike Chance: 5.00%
+Damage Effectiveness: 30%
+Projectile Speed: 750
+Requires Level 4
+g_description
+Summons a totem that channels to fire a stream of flame at nearby enemies, and creates an area of consecrated ground around the totem.
+g_quality
+Per 1% Quality:
+1% increased Projectile Speed
+g_affix
+Totem lasts 8 seconds
+Deals (3-134) to (5-202) Physical Damage
+Fires 2 additional Projectiles
+50% of Physical Damage Converted to Fire Damage
+Summons a Totem which uses the Supported Skill
+Projectiles Pierce all Targets
+Consecrated Ground grants Immunity to Curses to you and Allies
+
+g_name
+Ice Crash
+g_tags
+Attack, AoE, Cold, Melee
+g_info
+Radius: 24
+Mana Cost: 8
+Cast Time: 1.00 sec
+Damage Effectiveness: (170%-208%)
+Requires Level 28
+g_description
+Slam the ground, damaging enemies in an area around the impact in three stages. Enemies take slightly less damage on the second and third stage. Works with Swords, Maces, Axes, Staves and Unarmed.
+g_quality
+Per 1% Quality:
+1% increased Cold Damage
+g_affix
+Deals (170-208)% of Base Damage
+50% of Physical Damage Converted to Cold Damage
+20% less Attack Speed
+Second Stage deals 10% less Damage
+Third Stage deals 20% less Damage
+
+g_name
+Immortal Call
+g_tags
+Spell, Duration
+g_info
+Mana Cost: (21-36)
+Can Store 1 Use(s)
+Cooldown Time: 3.00 sec
+Cast Time: 0.85 sec
+Requires Level 34
+g_description
+Discharges Endurance Charges, making the character invulnerable to physical damage for a short time, proportional to how many endurance charges were expended.
+g_quality
+Per 1% Quality:
+2% increased Cast Speed
+g_affix
+Base duration is 0.4 seconds
+(100-157)% increased Buff Duration per Endurance Charge removed
+
+g_name
+Infernal Blow
+g_tags
+Attack, AoE, Melee, Fire, Duration
+g_info
+Radius: 15
+Mana Cost: 6
+Cast Time: 1.00 sec
+Requires Level 12
+g_description
+Hit the target enemy, applying a charged debuff to it, and an uncharged debuff to any other enemies hit. Upon reaching 6 charges, expiring, or the enemy's death, the charged debuff is removed, and it deals damage to that and other nearby enemies. Enemies with either debuff explode when they die, damaging other nearby enemies. Damage from this explosion cannot be reflected. Requires a Sword, Axe, Mace, Staff or Unarmed.
+g_quality
+Per 1% Quality:
+0.5% increased Area of Effect
+g_affix
+Deals (100-122.8)% of Base Damage
+50% of Physical Damage Converted to Fire Damage
+Base duration is 0.8 seconds
+Explosion deals base Fire Damage equal to 6% of the corpse's maximum Life
+Debuff deals 66% of Damage per Charge
++(0-2) to Melee range
+
+g_name
+Leap Slam
+g_tags
+Attack, AoE, Movement, Melee
+g_info
+Radius: 15
+Mana Cost: 15
+Cast Time: 1.40 sec
+Requires Level 10
+g_description
+Jump into the air, damaging enemies (and knocking back some) with your weapon where you land. Enemies you would land on are pushed out of the way. Requires an axe, mace, sword or staff. Cannot be supported by Multistrike.
+g_quality
+Per 1% Quality:
+0.5% chance to Knock Enemies Back on hit
+g_affix
+Deals (100-122.8)% of Base Damage
+20% chance to Knock Enemies Back on hit
++0.55 seconds to Attack Time
+
+g_name
+Molten Shell
+g_tags
+Spell, AoE, Duration, Fire
+g_info
+Radius: 15
+Mana Cost: (7-26)
+Can Store 1 Use(s)
+Cooldown Time: 1.00 sec
+Critical Strike Chance: 5.00%
+Damage Effectiveness: 200%
+Requires Level 4
+g_description
+Summons fiery elemental shields providing additional armour for a short duration. If cumulative physical damage prevented by your blocking or armour reaches a threshold, the shields explode outwards, dealing fire damage to surrounding enemies.
+g_quality
+Per 1% Quality:
+1% chance to Ignite enemies
+g_affix
+Deals (14-1962) to (20-2943) Fire Damage
+Shields break after (26-1508) total Damage is prevented
+(17-943) additional Armour
+Base duration is 10 seconds
+
+g_name
+Molten Strike
+g_tags
+Attack, Projectile, AoE, Melee, Fire
+g_info
+Mana Cost: 6
+Cast Time: 1.00 sec
+Damage Effectiveness: (120%-161%)
+Projectile Speed: 750
+Requires Level 1
+g_description
+Attacks a target with physical and fire damage, causing balls of molten magma to launch forth from your weapon as you swing. These will explode, causing AoE attack damage to enemies where they land.
+g_quality
+Per 1% Quality:
+1% increased Fire Damage
+g_affix
+Deals (120-161)% of Base Damage
+60% of Physical Damage Converted to Fire Damage
+Fires 2 additional Projectiles
+Projectiles deal (40-30)% less Damage
+Damage over time caused by Projectiles deals (40-30)% less Damage
++(0-2) to Melee range
+
+g_name
+Punishment
+g_tags
+Spell, AoE, Duration, Curse
+g_info
+Radius: 22
+Mana Cost: (16-33)
+Cast Time: 0.50 sec
+Requires Level 24
+g_description
+Curses all targets in an area, causing them to grant a buff to anyone they hit with melee attacks. The buff grants more Melee Damage and increased Attack Speed.
+g_quality
+Per 1% Quality:
+Cursed enemies grant 0.25% increased Attack Speed on Melee hit
+g_affix
+Base duration is (9-10.9) seconds
+Cursed enemies grant (25-35)% more Melee Physical Damage on Melee hit
+Cursed enemies grant (10-19)% increased Attack Speed on Melee hit
+Buff is applied for a Base Duration of 4 seconds
++(0-10) to radius
+
+g_name
+Purity of Fire
+g_tags
+Aura, Spell, AoE, Fire
+g_info
+Radius: 36
+Mana Reserved: 35%
+Can Store 1 Use(s)
+Cooldown Time: 1.20 sec
+Requires Level 24
+g_description
+Casts an aura that grants fire resistance to you and your allies.
+g_quality
+Per 1% Quality:
+1% increased Area of Effect
+g_affix
+You and nearby allies gain (22-41)% additional Fire Resistance
++(0-19) to radius
+You and nearby allies gain (0-4)% additional maximum Fire Resistance
+
+g_name
+Rallying Cry
+g_tags
+Warcry, AoE, Duration
+g_info
+Mana Cost: (6-16)
+Can Store 1 Use(s)
+Cooldown Time: 4.00 sec
+Cast Time: 0.25 sec
+Requires Level 10
+g_description
+Performs a warcry, granting increased damage and mana regeneration to the user and nearby allies if there are nearby enemies. The damage increase is proportional to the number of surrounding enemies. Taunts all nearby enemies to attack the user. Shares a cooldown with other Warcry skills.
+g_quality
+Per 1% Quality:
+1.5% increased Skill Effect Duration
+g_affix
+(140-178)% increased Damage per one hundred nearby Enemies
+(10-16)% increased Damage
+(1.8-14.8) Mana Regenerated per second
+Base duration is 8 seconds
+
+g_name
+Reckoning
+g_tags
+Trigger, Attack, AoE, Melee
+g_info
+Can Store 1 Use(s)
+Cooldown Time: 0.40 sec
+Cast Time: 1.00 sec
+Damage Effectiveness: (70%-108%)
+Requires Level 4
+g_description
+Perform a swift counter-attack against enemies in a cone shape when you block with your shield.
+g_quality
+Per 1% Quality:
+0.5% increased Area of Effect
+g_affix
+Deals (70-108)% of Base Damage
+Trigger this Skill when you Block
+You cannot use this Attack directly
+
+g_name
+Rejuvenation Totem
+g_tags
+Totem, Aura, Spell, AoE
+g_info
+Radius: 10
+Mana Cost: (9-32)
+Cast Time: 0.60 sec
+Requires Level 4
+g_description
+Summons a totem that has an aura which regenerates life for you and your nearby allies.
+g_quality
+Per 1% Quality:
+3% increased Aura Area of Effect
+g_affix
+Summons a Totem which uses the Supported Skill
+Totem lasts 8 seconds
+(6.3-162.2) Life regenerated per second
+
+g_name
+Searing Bond
+g_tags
+Totem, Spell, Fire
+g_info
+Mana Cost: (18-51)
+Cast Time: 1.00 sec
+Requires Level 12
+g_description
+Summons a totem that casts a beam of fire at you and each other totem you control, dealing burning damage to enemies caught in the beam. Enemies near either end of a beam also suffer burning damage.
+g_quality
+Per 1% Quality:
+1% increased totem life
+g_affix
+Totem lasts 8 seconds
+Deals (23.6-1755.6) Base Fire Damage per second
++1 to maximum number of Summoned Totems
+Summons a Totem which uses the Supported Skill
+
+g_name
+Shield Charge
+g_tags
+Attack, AoE, Movement, Melee
+g_info
+Radius: 8 / 16
+Mana Cost: 8
+Cast Time: 1.00 sec
+Damage Effectiveness: (50%-61%)
+Requires Level 10
+g_description
+Charges at a targeted location or enemy, pushing away enemies in your path and repeatedly dealing damage in a small area in front of you. You deal damage in a larger area when you reach the target. The further you travel, the more damage you deal, and the greater your chance of stunning enemies. Cannot be supported by Multistrike.
+g_quality
+Per 1% Quality:
+1% increased Damage
+g_affix
+Deals (50-61.4)% of Base Damage
+50% increased Stun Threshold reduction on enemies at Maximum charge distance
+(75-94)% increased Movement Speed
+200% more Damage with Hits at Maximum Charge Distance
+
+g_name
+Shockwave Totem
+g_tags
+Totem, Spell, AoE
+g_info
+Radius: 24
+Mana Cost: (21-39)
+Cast Time: 0.60 sec
+Critical Strike Chance: 5.00%
+Requires Level 28
+g_description
+Summons a totem that shakes the earth around it, knocking back and damaging nearby enemies
+g_quality
+Per 1% Quality:
+1% increased totem life
+g_affix
+Deals (33-362) to (65-672) Physical Damage
+Totem lasts 8 seconds
+25% chance to Knock Enemies Back on hit
+Summons a Totem which uses the Supported Skill
+
+g_name
+Smite
+g_tags
+Lightning, Attack, AoE, Duration, Melee, Aura
+g_info
+Mana Cost: 6
+Cast Time: 1.00 sec
+Damage Effectiveness: (135%-166%)
+Requires Level 1
+g_description
+Performs a melee attack, and causes lightning to strike a targeted location or nearby enemy, dealing damage in an area. If the melee attack hits its target, that enemy cannot also be hit by the area damage. If this skill hits an enemy, you gain an aura buff, granting you and your allies additional lightning damage for a duration. Requires a Sword, Axe, Mace, Staff or Unarmed.
+g_quality
+Per 1% Quality:
+0.5% increased Area of Effect
+g_affix
+Deals (135-165.8)% of Base Damage
+50% of Physical Damage Converted to Lightning Damage
+Base duration is 4 seconds
+Aura grants (1-12) to (4-220) added Lightning Damage
+(30-20)% less Area Damage
+Aura grants (0-19)% chance to Shock
++(0-6) to radius
++(0-2) to Melee range
+
+g_name
+Static Strike
+g_tags
+Attack, Melee, AoE, Duration, Lightning, Chaining
+g_info
+Radius: 19
+Mana Cost: 6
+Cast Time: 1.00 sec
+Requires Level 12
+g_description
+Attack with a melee weapon, gaining a buff if you hit your target. While you have this buff, you'll frequently hit a number of nearby enemies with beams, dealing attack damage, which will be higher if the beams strike while you're moving. You can stack the buff up to three times, each increasing the frequency with which the beams strike.
+g_quality
+Per 1% Quality:
+1% chance to Shock enemies
+g_affix
+Deals (100-145.6)% of Base Damage
+60% of Physical Damage Converted to Lightning Damage
+Base duration is 4 seconds
+Beams Hit Enemies every 0.4 seconds
+10% increased Beam frequency per Buff stack
+(4-6) maximum Beam Targets
+Beams deal (60-54)% less Damage while Stationary
+Beams deal (40-31)% less Damage while Moving
++(0-2) to Melee range
+
+g_name
+Summon Flame Golem
+g_tags
+Fire, Minion, Spell, Golem
+g_info
+Mana Cost: (30-54)
+Can Store 1 Use(s)
+Cooldown Time: 6.00 sec
+Cast Time: 1.00 sec
+Requires Level 34
+g_description
+Summons a Flame Golem that grants you increased Damage. The Flame Golem can use a fire spray, a wave of fire damage, and an explosive arcing projectile.
+g_quality
+Per 1% Quality:
+1% increased Minion Maximum Life
+g_affix
+1% increased Minion Damage
+Can Summon up to 1 Golem at a time
+Golems Grant (15-20)% increased Damage
+(30-68)% increased Minion Maximum Life
+(0-10)% increased Character Size
+
+g_name
+Summon Stone Golem
+g_tags
+Minion, Spell, Golem
+g_info
+Mana Cost: (30-54)
+Can Store 1 Use(s)
+Cooldown Time: 6.00 sec
+Cast Time: 1.00 sec
+Requires Level 34
+g_description
+Summons a Stone Golem that grants you life regeneration. In addition to its melee attack, the Stone Golem uses a rolling charge and a powerful slam that can taunt enemies.
+g_quality
+Per 1% Quality:
+1% increased Minion Maximum Life
+g_affix
+1% increased Minion Damage
+Can Summon up to 1 Golem at a time
+(30-68)% increased Minion Maximum Life
+Golems grant (33-105) Life Regenerated per second
+(0-10)% increased Character Size
+
+g_name
+Sunder
+g_tags
+Attack, AoE, Melee
+g_info
+Mana Cost: 8
+Cast Time: 1.00 sec
+Damage Effectiveness: (140%-182%)
+Requires Level 12
+g_description
+Slams the ground with a Mace, Axe or Staff, creating a wave of broken ground that damages enemies in an area in front of you. Enemies hit by the wave will release a circular shockwave, dealing damage to other enemies around them.
+g_quality
+Per 1% Quality:
+0.5% increased Area of Effect
+g_affix
+Deals (140-181.8)% of Base Damage
+Shockwaves deal 60% less Damage
+15% less Attack Speed
++(0-6) to radius
+
+g_name
+Sweep
+g_tags
+Attack, AoE, Melee
+g_info
+Radius: 26
+Mana Cost: 8
+Cast Time: 1.15 sec
+Requires Level 12
+g_description
+Swings a two handed melee weapon in a circle, knocking back some monsters around the character.
+g_quality
+Per 1% Quality:
+0.5% increased Area of Effect
+g_affix
+Deals (100-138)% of Base Damage
+(30-39)% chance to Knock Enemies Back on hit
+10% less Attack Speed
++(0-4) to radius
+
+g_name
+Tectonic Slam
+g_tags
+Fire, Attack, AoE, Melee
+g_info
+Mana Cost: 10
+Cast Time: 1.00 sec
+Damage Effectiveness: (130%-160%)
+Requires Level 28
+g_description
+Slam the ground, unleashing a fiery fissure in front of you, dealing area damage and releasing a random number of smaller fissures branching off from it. Can consume an Endurance Charge to perform a Charged Slam, covering a greater area with more branching fissures. Requires a Mace, Sword, Axe, Staff, or Unarmed.
+g_quality
+Per 1% Quality:
+0.5% increased Area of Effect
+g_affix
+Deals (130-160.4)% of Base Damage
+Charged Slam Deals 60% more Damage
+60% of Physical Damage Converted to Fire Damage
+35% chance to consume an Endurance Charge to create a Charged Slam
+
+g_name
+Vaal Ancestral Warchief
+g_tags
+Totem, Vaal, Attack, AoE, Melee
+g_info
+Souls Per Use: 20 (N) / 
+Can Store 2 Use(s)
+Soul Gain Prevention: 9.000 sec
+Cast Time: 1.00 sec
+Requires Level 28
+g_description
+Summons an Ancestor Totem which attacks enemies with a powerful cascading slam while you're near it. If the enemies are far away, it will leap toward them as it slams. Being near it grants you more melee damage.
+g_quality
+Per 1% Quality:
+1% increased Totem Damage
+g_affix
+Deals (100-122.8)% of Base Damage
+Totem lasts 6 seconds
+50% increased Totem Placement speed
+32% more Melee Damage while Totem is Active
++1 to maximum number of Summoned Totems
+20% less Attack Speed
+Summons a Totem which uses the Supported Skill
+Corrupted
+
+g_name
+Vaal Earthquake
+g_tags
+Vaal, Attack, AoE, Duration, Melee
+g_info
+Souls Per Use: 30 (N) / 
+Can Store 1 Use(s)
+Soul Gain Prevention: 12.000 sec
+Cast Time: 1.00 sec
+Damage Effectiveness: (50%-61%)
+Requires Level 28
+g_description
+Smashes the ground with an Axe, Mace or Staff, dealing damage in an area and cracking the earth. The crack will erupt in a powerful aftershock after a short duration. After using this skill, your steps will deal damage around you, cracking the earth if the previous cracks have erupted. This effect ends after a secondary duration, or after a maximum number of aftershocks.
+g_quality
+Per 1% Quality:
+1% increased Physical Damage
+g_affix
+Deals (50-61.4)% of Base Damage
+Base duration is 1 seconds
+Aftershock deals (350-407)% more Damage with Hits and Ailments
+Base secondary duration is 12 seconds
+Ongoing effect ends after 7 Aftershocks
+Modifiers to Skill Effect Duration also apply to this Skill's Soul Gain Prevention
+Corrupted
+
+g_name
+Vaal Glacial Hammer
+g_tags
+Vaal, Attack, Melee, Duration, AoE, Cold
+g_info
+Souls Per Use: 15 (N) / 
+Can Store 3 Use(s)
+Soul Gain Prevention: 4.000 sec
+Cast Time: 1.00 sec
+Damage Effectiveness: (150%-184%)
+Requires Level 1
+g_description
+Hits the enemy, converting some of your physical damage to cold damage. It traps the enemy with you in a circle of ice so that it can't escape. Requires a Mace or Staff.
+g_quality
+Per 1% Quality:
+2% increased Chill Duration on enemies
+g_affix
+1% increased Freeze Duration on enemies
+Deals (150-184.2)% of Base Damage
+50% of Physical Damage Converted to Cold Damage
+25% chance to Freeze enemies
+35% increased Chill Duration on enemies
+Base duration is (3.4-4.35) seconds
+Can't be Evaded
+Modifiers to Skill Effect Duration also apply to this Skill's Soul Gain Prevention
+Corrupted
+
+g_name
+Vaal Ground Slam
+g_tags
+Vaal, Attack, AoE, Melee
+g_info
+Souls Per Use: 15 (N) / 
+Can Store 3 Use(s)
+Soul Gain Prevention: 2.000 sec
+Cast Time: 1.00 sec
+Damage Effectiveness: (185%-227%)
+Requires Level 1
+g_description
+The character slams the ground in front of them with a Staff, Axe or Mace, creating a wave that travels in all directions that damages and stuns enemies. The wave deals more damage to closer enemies.
+g_quality
+Per 1% Quality:
+1.5% increased Stun Duration on enemies
+g_affix
+Deals (185-226.8)% of Base Damage
+200% increased Stun Duration on enemies
+Deals up to (40-49)% more Damage to closer targets
+Stuns Enemies
+Can't be Evaded
++(0-9) to radius
+Corrupted
+
+g_name
+Vaal Impurity of Fire
+g_tags
+Aura, Vaal, Spell, AoE, Duration, Fire
+g_info
+Souls Per Use: 50 (N) / 
+Can Store 1 Use(s)
+Can Store 1 Use(s)
+Soul Gain Prevention: 8.000 sec
+Cooldown Time: 0.50 sec
+Requires Level 24
+g_description
+Casts an aura that reduces fire damage taken and provides ignite immunity to you and nearby allies, and makes hits against nearby enemies ignore their fire resistance.
+g_quality
+Per 1% Quality:
+1% increased Area of Effect
+g_affix
+25% less Fire Damage taken
++(14-20) to radius
+Base duration is 3 seconds
+You and nearby allies are Immune to Ignite
+Nearby Enemies' Fire Resistance is Ignored by Hits
+Modifiers to Skill Effect Duration also apply to this Skill's Soul Gain Prevention
+(0-76)% increased effect of Aura
+Corrupted
+
+g_name
+Vaal Molten Shell
+g_tags
+Vaal, Spell, AoE, Duration, Fire
+g_info
+Souls Per Use: 50 (N) / 
+Can Store 1 Use(s)
+Can Store 1 Use(s)
+Soul Gain Prevention: 7.000 sec
+Cooldown Time: 0.50 sec
+Critical Strike Chance: 5.00%
+Damage Effectiveness: 200%
+Requires Level 4
+g_description
+Summons fiery elemental shields providing additional armour for a short duration. Whenever you prevent any amount of physical damage from a hit, the shields cause a burst of flame, dealing fire damage to surrounding enemies.
+g_quality
+Per 1% Quality:
+1% chance to Ignite enemies
+g_affix
+Deals (9-696) to (14-1043) Fire Damage
+(17-943) additional Armour
+Base duration is 5 seconds
+Modifiers to Skill Effect Duration also apply to this Skill's Soul Gain Prevention
+Corrupted
+
+g_name
+Vengeance
+g_tags
+Trigger, Attack, AoE, Melee
+g_info
+Can Store 1 Use(s)
+Cooldown Time: 1.20 sec
+Cast Time: 1.00 sec
+Damage Effectiveness: (75%-113%)
+Requires Level 24
+g_description
+Chance to perform a swift counter-attack against all enemies around you when you are hit. Weapon range increases the area of this attack. Requires a Melee Weapon.
+g_quality
+Per 1% Quality:
+0.5% chance to Trigger this Skill when Hit
+g_affix
+Deals (75-113)% of Base Damage
+30% chance to Trigger this Skill when Hit
+You cannot use this Attack directly
+
+g_name
+Vigilant Strike
+g_tags
+Attack, Melee
+g_info
+Mana Cost: 6
+Can Store 1 Use(s)
+Cooldown Time: 4.00 sec
+Cast Time: 1.00 sec
+Damage Effectiveness: (165%-203%)
+Requires Level 4
+g_description
+Attacks the enemy with a powerful melee strike. You gain the Fortify buff, granting damage reduction. The cooldown can be bypassed by expending an Endurance Charge. Requires a Melee Weapon.
+g_quality
+Per 1% Quality:
+1% increased Fortify duration
+g_affix
+Deals (165-203)% of Base Damage
+(75-170)% increased Fortify duration
+Grants Fortify on Melee Hit
+Can't be Evaded
++(0-2) to Melee range
+
+g_name
+Vitality
+g_tags
+Aura, Spell, AoE
+g_info
+Radius: 36
+Mana Reserved: 35%
+Can Store 1 Use(s)
+Cooldown Time: 1.20 sec
+Requires Level 24
+g_description
+Casts an aura that grants life regeneration to you and your allies.
+g_quality
+Per 1% Quality:
+1% increased Area of Effect
+g_affix
+You and nearby allies regenerate (0.7-1.65)% Life per second
++(0-19) to radius
+
+g_name
+Vulnerability
+g_tags
+Curse, Spell, AoE, Duration
+g_info
+Radius: 22
+Mana Cost: (16-33)
+Cast Time: 0.50 sec
+Requires Level 24
+g_description
+Curse all targets in an area, causing them to take increased physical damage and further increased physical damage over time. Attacks against cursed enemies have a chance to inflict bleeding and maim.
+g_quality
+Per 1% Quality:
+Cursed Enemies have 0.5% chance to Bleed when Hit by Attacks
+g_affix
+Base duration is (9-10.9) seconds
+Cursed enemies take (30-39)% increased Physical Damage
+Cursed Enemies have 20% chance to Bleed when Hit by Attacks
+Cursed Enemies have 20% chance to be Maimed for 4 seconds when Hit by Attacks
+Cursed enemies take 30% increased Physical Damage from Damage over time
++(0-10) to radius
+
+g_name
+War Banner
+g_tags
+AoE, Spell, Duration, Aura
+g_info
+Mana Reserved: 10%
+Can Store 1 Use(s)
+Cooldown Time: 1.00 sec
+Requires Level 4
+g_description
+Casting once reserves mana to carry a banner which increases the accuracy of nearby allies, and physical damage taken by nearby enemies. Gain stages by killing enemies while carrying the banner. Casting the skill again places the banner, ending the mana reservation. Once placed, it becomes more powerful for each stage gained. You cannot have multiple banners at the same time.
+g_quality
+Per 1% Quality:
+0.5% increased effect of Aura
+g_affix
+You and nearby allies gain (40-59)% increased Accuracy Rating
+Nearby Enemies take (8-11)% increased Physical Damage
+When placed, 8% increased Area of Effect per Stage
+When placed, 1% increased Aura effect per Stage
++1 second to Base Placed Banner Duration per Stage
+Gain Adrenaline for 0.05 seconds per Stage on Placing the Banner
+Gain 1 Stage when you Kill an Enemy while carrying the Banner
+
+g_name
+Warlord's Mark
+g_tags
+Spell, AoE, Duration, Curse
+g_info
+Radius: 22
+Mana Cost: (16-33)
+Cast Time: 0.50 sec
+Requires Level 24
+g_description
+Curses all targets in an area, making them more vulnerable to stuns. Hitting the cursed targets will leech life and mana, and killing them will result in a chance to gain an endurance charge.
+g_quality
+Per 1% Quality:
+Cursed enemies have a 0.5% chance to grant an Endurance Charge when slain
+g_affix
+Base duration is (6-9.8) seconds
+Cursed enemies have (21-30)% reduced Stun and Block Recovery
+Cursed enemies have an additional 10% chance to be Stunned
+Cursed enemies grant 2% Life Leech when Hit
+Cursed enemies grant 2% Mana Leech when Hit
+Cursed enemies have a (21-30)% chance to grant an Endurance Charge when slain
++(0-10) to radius
+
+g_name
+Arc
+g_tags
+Spell, Chaining, Lightning
+g_info
+Mana Cost: (8-23)
+Cast Time: 0.70 sec
+Critical Strike Chance: 5.00%
+Damage Effectiveness: 80%
+Requires Level 12
+g_description
+An arc of lightning stretches from the caster to a targeted enemy and chains on to other nearby enemies. Each time the main beam chains it will also chain to a second enemy, but that secondary arc cannot chain further.
+g_quality
+Per 1% Quality:
+0.5% chance to Shock enemies
+g_affix
+Deals (6-133) to (33-754) Lightning Damage
+10% chance to Shock enemies
+Chains +(4-7) Times
+(10-29)% increased Effect of Shock
+15% more Damage for each remaining Chain
+
+g_name
+Arctic Breath
+g_tags
+Spell, Projectile, Duration, AoE, Cold
+g_info
+Radius: 12
+Mana Cost: (8-23)
+Cast Time: 0.70 sec
+Critical Strike Chance: 6.00%
+Damage Effectiveness: 80%
+Projectile Speed: 844
+Requires Level 12
+g_description
+Fire an icy projectile that bursts on impact or when reaching the targeted area, dealing area damage and creating a chilling area that deals cold damage over time. This area will creep across the ground towards nearby enemies until its duration expires.
+g_quality
+Per 1% Quality:
+0.5% increased Area of Effect
+g_affix
+Deals (13-350) to (19-524) Cold Damage
+Base duration is 5 seconds
+Can have up to 10 Chilling Areas
+Deals (16.7-1383.5) Base Cold Damage per second
+Modifiers to Spell Damage apply to this Skill's Damage Over Time effect
+
+g_name
+Armageddon Brand
+g_tags
+Spell, AoE, Fire, Duration, Brand
+g_info
+Mana Cost: (15-27)
+Cast Time: 0.40 sec
+Critical Strike Chance: 6.00%
+Damage Effectiveness: 75%
+Requires Level 28
+g_description
+Creates a magical brand which can attach to a nearby enemy. It periodically activates while attached, causing a fiery meteor to fall from the sky. The brand will detach if the enemy dies.
+g_quality
+Per 1% Quality:
+0.5% increased Cast Speed
+g_affix
+You can have an additional Brand Attached to an Enemy
+Activates every 0.75 seconds while Attached
+Can be Detached for a total Duration of 10 seconds
+Deals (29-332) to (43-498) Fire Damage
+(120-180)% more Damage with Ignite
+25% chance to Ignite enemies
+Increases and Reductions to Cast Speed also apply to this Skill's Activation frequency
+
+g_name
+Assassin's Mark
+g_tags
+Spell, AoE, Duration, Curse
+g_info
+Radius: 22
+Mana Cost: (16-33)
+Cast Time: 0.50 sec
+Requires Level 24
+g_description
+Curses all targets in an area, making them more vulnerable to Critical Strikes. Killing the cursed targets will grant life and mana, and a chance to gain a power charge.
+g_quality
+Per 1% Quality:
+Cursed enemies have a 0.5% chance to grant a Power Charge when slain
+g_affix
+Base duration is (6-9.8) seconds
+Cursed enemies take 20% increased Extra Damage from Critical Strikes
+Hits against Cursed Enemies have +(1.5-2.5)% to Critical Strike Chance
+Cursed enemies grant (16-25) Life when Killed
+Cursed enemies grant (16-25) Mana when Killed
+Cursed enemies have a (21-30)% chance to grant a Power Charge when slain
++(0-10) to radius
+
+g_name
+Ball Lightning
+g_tags
+Spell, Projectile, AoE, Lightning
+g_info
+Radius: 20
+Mana Cost: (13-25)
+Cast Time: 0.75 sec
+Critical Strike Chance: 5.00%
+Damage Effectiveness: 40%
+Projectile Speed: 400
+Requires Level 28
+g_description
+Fires a slow-moving projectile that periodically damages enemies in an area around it with bolts of lightning.
+g_quality
+Per 1% Quality:
+1% increased Lightning Damage
+g_affix
+Deals (3-22) to (48-426) Lightning Damage
+
+g_name
+Bane
+g_tags
+Chaos, Trigger, Spell, AoE, Duration, Curse
+g_info
+Mana Cost: (10-20)
+Cast Time: 0.60 sec
+Requires Level 24
+g_description
+Applies a debuff to enemies in an area, which deals Chaos Damage over Time. Linked curses are also applied to those enemies. The debuff deals more damage and lasts longer for each curse applied this way. This skill cannot be used by Totems, Traps, or Mines.
+g_quality
+Per 1% Quality:
+Applied Curses have 0.5% increased Effect
+g_affix
+Only applies Curses from Skill Gems requiring Level (24-70) or lower
+Deals (66.8-1060.6) Base Chaos Damage per second
+Bane duration is 2.00 seconds
+Modifiers to Spell Damage apply to this Skill's Damage Over Time effect
++(0-3) to radius
+(28-47)% more Damage per Curse applied
+50% increased Debuff Duration per Curse applied
+
+g_name
+Blight
+g_tags
+Spell, Chaos, AoE, Channelling, Duration
+g_info
+Radius: 26
+Mana Cost: (2-5)
+Cast Time: 0.30 sec
+Requires Level 1
+g_description
+Apply a debuff to enemies in front of you which deals chaos damage over time. Enemies who aren't already debuffed by Blight are also hindered for a shorter secondary duration, slowing their movement. Continued channelling adds layers of damage to the debuff, each with their own duration.
+g_quality
+Per 1% Quality:
+0.5% increased Area of Effect
+g_affix
+Deals (3.1-257.4) Base Chaos Damage per second
+Base duration is 2.5 seconds
+Base secondary duration is 0.8 seconds
+80% reduced Movement Speed
+Debuff can have up to 20 layers of Damage
+Modifiers to Spell Damage apply to this Skill's Damage Over Time effect
++(0-6) to radius
+
+g_name
+Bodyswap
+g_tags
+Movement, Spell, AoE, Fire
+g_info
+Mana Cost: (7-20)
+Cast Time: 0.60 sec
+Critical Strike Chance: 5.00%
+Requires Level 10
+g_description
+Your body explodes, dealing spell damage in an area around you, and a targeted corpse also explodes, dealing damage around it. Your body is recreated at the location of the corpse. The explosion of the corpse is not affected by modifiers to spell damage, and cannot be reflected. This spell cannot be repeated.
+g_quality
+Per 1% Quality:
+0.5% increased Cast Speed
+g_affix
+Explosion deals base Fire Damage equal to 4% of the corpse's maximum Life
+This Spell deals (13-501) to (19-752), plus 3% of your maximum Life, as base Fire Damage
+
+g_name
+Bone Offering
+g_tags
+Minion, Spell, Duration
+g_info
+Mana Cost: (16-33)
+Cast Time: 1.00 sec
+Requires Level 12
+g_description
+Consumes a corpse, granting all of your minions the power to block both attacks and spells. The skill consumes other nearby corpses, increasing the duration for each corpse consumed.
+g_quality
+Per 1% Quality:
+0.5% increased Skill Effect Duration
+g_affix
+Base duration is 3 seconds
+Grants Minions +(25-35)% Chance to Block Attack Damage
+Grants Minions +(25-34)% Chance to Block Spell Damage
+Additional 0.5 seconds Base Duration per extra Corpse consumed
+Minions recover (11-594) Life when they Block
+
+g_name
+Brand Recall
+g_tags
+Brand, Spell
+g_info
+Mana Cost: (7-16)
+Can Store 1 Use(s)
+Cooldown Time: 3.00 sec
+Requires Level 16
+g_description
+Recall your brands to you, detaching them from enemies, then cause them to activate. The brands will have increased attachment range until they next attach to an enemy.
+g_quality
+Per 1% Quality:
+Brands gain 1% increased Attachment Range
+g_affix
+Brands gain (25-45)% increased Attachment Range
+Brands refresh their Attached Duration by up to 1.2 seconds
+Brands refresh their Detached Duration by up to 1.2 seconds
+(0-50)% increased Cooldown Recovery Speed
+
+g_name
+Clarity
+g_tags
+Aura, Spell, AoE
+g_info
+Radius: 36
+Mana Reserved: (34-279)
+Can Store 1 Use(s)
+Cooldown Time: 1.20 sec
+Requires Level 10
+g_description
+Casts an aura that grants mana regeneration to you and your allies.
+g_quality
+Per 1% Quality:
+1% increased Area of Effect
+g_affix
+You and nearby allies regenerate (2.9-17.2) Mana per second
++(0-19) to radius
+
+g_name
+Cold Snap
+g_tags
+Spell, AoE, Cold, Duration
+g_info
+Radius: 16
+Mana Cost: (11-28)
+Can Store 1 Use(s)
+Cooldown Time: 3.00 sec
+Cast Time: 0.85 sec
+Critical Strike Chance: 6.00%
+Damage Effectiveness: 140%
+Requires Level 16
+g_description
+Creates a sudden burst of cold in a targeted area, damaging enemies. This also creates an expanding area which is filled with chilled ground, and deals cold damage over time to enemies. Enemies that die while in the area have a chance to grant Frenzy Charges. The cooldown can be bypassed by expending a Frenzy Charge.
+g_quality
+Per 1% Quality:
+0.5% increased Area of Effect
+g_affix
+Deals (32-666) to (47-999) Cold Damage
+Base duration is 5 seconds
+Deals (26.3-1193.2) Base Cold Damage per second
+25% chance to gain a Frenzy Charge when an Enemy Dies while in this Skill's Area
+Modifiers to Spell Damage apply to this Skill's Damage Over Time effect
+(0-19)% increased Effect of Chill
+
+g_name
+Conductivity
+g_tags
+Spell, AoE, Duration, Curse, Lightning
+g_info
+Radius: 22
+Mana Cost: (24-50)
+Cast Time: 0.50 sec
+Requires Level 24
+g_description
+Curses all targets in an area, making them less resistant to lightning damage and giving them a chance to be shocked by lightning damage.
+g_quality
+Per 1% Quality:
+Shocks on Cursed enemies have 1% increased Duration
+g_affix
+Base duration is (9-10.9) seconds
+Cursed enemies have -(25-44)% to Lightning Resistance
+Cursed enemies have +(10-14)% chance to be Shocked by Lightning Damage
++(0-10) to radius
+
+g_name
+Contagion
+g_tags
+Spell, AoE, Duration, Chaos
+g_info
+Radius: 20
+Mana Cost: (5-20)
+Cast Time: 0.60 sec
+Requires Level 4
+g_description
+Unleashes a vile contagion on enemies, dealing chaos damage over time. If an enemy dies while affected by Contagion, it spreads to other enemies.
+g_quality
+Per 1% Quality:
+0.5% increased Area of Effect
+g_affix
+Deals (3.5-235.9) Base Chaos Damage per second
+Base duration is 5 seconds
+Modifiers to Spell Damage apply to this Skill's Damage Over Time effect
++(0-4) to radius
+
+g_name
+Conversion Trap
+g_tags
+Trap, Spell, Duration
+g_info
+Mana Cost: (6-23)
+Can Store 3 Use(s)
+Cooldown Time: 8.00 sec
+Cast Time: 1.00 sec
+Requires Level 4
+g_description
+Throws a trap that, when triggered by an enemy, converts that enemy to your side for a short duration. Does not affect unique monsters or players.
+g_quality
+Per 1% Quality:
+1% increased Skill Effect Duration
+g_affix
+Throws a Trap which uses this Skill when Triggered
+Trap lasts 4 seconds
+Base duration is (5.3-10) seconds
+Traps do not Trigger at the end of their Duration
+
+g_name
+Convocation
+g_tags
+Minion, Spell, Duration
+g_info
+Mana Cost: (6-13)
+Can Store 1 Use(s)
+Cooldown Time: 4.00 sec
+Requires Level 24
+g_description
+Recalls all minions that are following you to your location, and grants them a temporary life regeneration effect.
+g_quality
+Per 1% Quality:
+1% increased Skill Effect Duration
+g_affix
+1% increased Cooldown Recovery Speed
+Base duration is 2 seconds
+(19.2-116) Life regenerated per second
+
+g_name
+Dark Pact
+g_tags
+Minion, Spell, AoE, Chaining, Chaos
+g_info
+Mana Cost: (7-13)
+Cast Time: 0.50 sec
+Critical Strike Chance: 5.00%
+Requires Level 28
+g_description
+This spell removes some life from one of your Skeleton minions near you or the targeted location to deal chaos damage in an area around it. This effect will chain to your other nearby skeletons. If you have no skeletons near you or the targeted location, it will sacrifice your own life to deal damage instead.
+g_quality
+Per 1% Quality:
+0.5% increased Area of Effect
+g_affix
+Sacrifices 6% of Skeleton's Life to deal that much Chaos Damage
+Deals (24-241) to (36-362) Chaos Damage
+Chains +2 Times
+Uses your Life if no Skeletons in range
+(0-76)% more Damage with Hits and Ailments if using your Life
+
+g_name
+Despair
+g_tags
+Spell, AoE, Duration, Curse, Chaos
+g_info
+Radius: 22
+Mana Cost: (16-33)
+Cast Time: 0.50 sec
+Requires Level 24
+g_description
+Curse all targets in an area, making them less resistant to chaos damage and causing them to take increased damage over time. Cursed enemies also take additional chaos damage when hit.
+g_quality
+Per 1% Quality:
+Cursed enemies take 0.5% increased Damage from Damage Over Time effects
+g_affix
+Base duration is (9-10.9) seconds
+Cursed enemies have -(20-29)% to Chaos Resistance
+Cursed enemies take (15-25)% increased Damage from Damage Over Time effects
+Adds (9-46) to (12-57) Chaos Damage to Hits against Cursed Enemies
++(0-10) to radius
+
+g_name
+Discharge
+g_tags
+Spell, AoE, Fire, Cold, Lightning
+g_info
+Radius: 30
+Mana Cost: (13-25)
+Cast Time: 0.75 sec
+Critical Strike Chance: 7.00%
+Damage Effectiveness: 150%
+Requires Level 28
+g_description
+Discharge all the character's charges to deal elemental damage to all nearby monsters.
+g_quality
+Per 1% Quality:
+0.5% increased Area of Effect
+g_affix
+Deals (5-34) to (93-651) base Lightning Damage per Power Charge removed
+Deals (35-244) to (52-365) base Fire Damage per Endurance Charge removed
+Deals (29-199) to (43-299) base Cold Damage per Frenzy Charge removed
+35% less Damage if Triggered
+
+g_name
+Discipline
+g_tags
+Aura, Spell, AoE
+g_info
+Radius: 36
+Mana Reserved: 35%
+Can Store 1 Use(s)
+Cooldown Time: 1.20 sec
+Requires Level 24
+g_description
+Casts an aura that grants additional energy shield and increased energy shield recharge rate to you and your allies.
+g_quality
+Per 1% Quality:
+1% increased Area of Effect
+g_affix
+You and nearby allies gain (60-217) additional Energy Shield
+You and nearby Allies gain 30% increased Energy Shield Recharge rate
++(0-19) to radius
+
+g_name
+Divine Ire
+g_tags
+Lightning, Spell, AoE, Channelling
+g_info
+Mana Cost: (3-5)
+Cast Time: 0.22 sec
+Critical Strike Chance: 6.00%
+Damage Effectiveness: 30%
+Requires Level 28
+g_description
+Channelling draws in energy around you to repeatedly build up stages, damaging a number of nearby enemies when you do so. Release to unleash a powerful burst of energy in a beam in front of you.
+g_quality
+Per 1% Quality:
+0.5% increased Area of Effect
+g_affix
+Deals (17-140) to (25-210) Physical Damage
+50% of Physical Damage Converted to Lightning Damage
+Beam deals 100% more Damage with Hits per Stage after the first
+Damages 5 nearby Enemies when you gain Stages
+40% chance to gain an additional Stage when Hitting a Normal or Magic Enemy
+Beam deals 70% more Damage with Ailments per Stage after the first
+Gains an additional Stage when Hitting a Rare or Unique Enemy
+
+g_name
+Elemental Weakness
+g_tags
+Spell, AoE, Duration, Curse
+g_info
+Radius: 22
+Mana Cost: (16-33)
+Cast Time: 0.50 sec
+Requires Level 24
+g_description
+Curses all targets in an area, making them less resistant to elemental damage.
+g_quality
+Per 1% Quality:
+Cursed enemies have -0.25% to Elemental Resistances
+g_affix
+Base duration is (9-10.9) seconds
+Cursed enemies have -(20-39)% to Elemental Resistances
++(0-10) to radius
+
+g_name
+Enfeeble
+g_tags
+Spell, AoE, Duration, Curse
+g_info
+Radius: 22
+Mana Cost: (16-33)
+Cast Time: 0.50 sec
+Requires Level 24
+g_description
+Curses all targets in an area, making their attacks and spells less effective.
+g_quality
+Per 1% Quality:
+Cursed enemies have 0.2% reduced Accuracy Rating
+g_affix
+Cursed enemies have 0.5% reduced Critical Strike Chance
+Base duration is (9-10.9) seconds
+Cursed enemies have (10-19)% reduced Accuracy Rating
+Cursed enemies have 25% reduced Critical Strike Chance
+Cursed Normal or Magic enemies deal (21-30)% less Damage
+Cursed enemies have -(21-30)% to Critical Strike Multiplier
+Cursed Rare or Unique enemies deal (10-15)% less Damage
++(0-7) to radius
+
+g_name
+Essence Drain
+g_tags
+Spell, Projectile, Duration, Chaos, AoE
+g_info
+Mana Cost: (8-23)
+Cast Time: 0.70 sec
+Critical Strike Chance: 5.00%
+Damage Effectiveness: 60%
+Requires Level 12
+g_description
+Fires a projectile that applies a damage over time debuff when it hits. You are healed for a portion of the debuff damage. The debuff is spread by Contagion. This skill cannot be used by Traps or Mines.
+g_quality
+Per 1% Quality:
+1% increased Chaos Damage
+g_affix
+Deals (31.2-1503.2) Base Chaos Damage per second
+Regenerate 0.5% of Debuff Damage as Life
+Base duration is 3.8 seconds
+Deals (9-433) to (14-649) Chaos Damage
+Modifiers to Spell Damage apply to this Skill's Damage Over Time effect
+
+g_name
+Fire Nova Mine
+g_tags
+AoE, Mine, Spell, Fire
+g_info
+Radius: 30
+Mana Cost: (7-20)
+Cast Time: 0.40 sec
+Critical Strike Chance: 5.00%
+Damage Effectiveness: 40%
+Requires Level 12
+g_description
+Lay a remote mine that you can detonate to create a series of fire novas. Each sequential nova from the same mine will do higher damage than the previous.
+g_quality
+Per 1% Quality:
+1% increased Fire Damage
+g_affix
+Deals (7-160) to (11-240) Fire Damage
+Mine lasts 16 seconds
+Spell Repeats 3 times
+(20-29)% more Damage with Hits and Ailments per Repeat
+Places a Remote Mine which uses this Skill when detonated
+
+g_name
+Fireball
+g_tags
+Projectile, Spell, AoE, Fire
+g_info
+Radius: 9
+Mana Cost: (6-25)
+Cast Time: 0.75 sec
+Critical Strike Chance: 6.00%
+Damage Effectiveness: 180%
+Projectile Speed: 1040
+Requires Level 1
+g_description
+Unleashes a ball of fire towards a target which explodes, damaging nearby foes.
+g_quality
+Per 1% Quality:
+0.5% chance to Ignite enemies
+g_affix
+Deals (9-1095) to (14-1643) Fire Damage
+(20-39)% chance to Ignite enemies
+(50-88)% more Damage with Ignite
++(0-4) to radius
+
+g_name
+Firestorm
+g_tags
+Spell, AoE, Duration, Fire
+g_info
+Radius: 25 / 10
+Mana Cost: (9-25)
+Cast Time: 0.75 sec
+Critical Strike Chance: 6.00%
+Damage Effectiveness: 30%
+Requires Level 12
+g_description
+Flaming bolts rain down over the targeted area. They explode when landing, dealing damage to nearby enemies.
+g_quality
+Per 1% Quality:
+1% increased Damage
+g_affix
+Deals (4-200) to (11-300) Fire Damage
+Base duration is 2 seconds
+One impact every 0.1 seconds
+
+g_name
+Flame Dash
+g_tags
+Spell, Movement, Duration, Fire
+g_info
+Mana Cost: (8-23)
+Can Store 3 Use(s)
+Cooldown Time: 3.00 sec
+Cast Time: 0.70 sec
+Critical Strike Chance: 6.00%
+Requires Level 10
+g_description
+Teleport to a location, damaging enemies and leaving a trail of burning ground in your wake.
+g_quality
+Per 1% Quality:
+1% increased Cooldown Recovery Speed
+g_affix
+Deals (6-319) to (9-479) Fire Damage
+Deals (10.9-599) Base Fire Damage per second
+Base duration is 4 seconds
+(0-76)% increased Cooldown Recovery Speed
+
+g_name
+Flame Surge
+g_tags
+Spell, AoE, Fire
+g_info
+Radius: 30
+Mana Cost: (6-16)
+Cast Time: 0.50 sec
+Critical Strike Chance: 6.00%
+Damage Effectiveness: 120%
+Requires Level 12
+g_description
+Strikes enemies in front of you with a surge of flame. Burning enemies are dealt more damage.
+g_quality
+Per 1% Quality:
+0.5% increased Cast Speed
+g_affix
+Deals (27-563) to (40-844) Fire Damage
+(50-88)% more Damage with Hits against Burning enemies
+Cannot Ignite
++(0-9) to Area of Effect length
+
+g_name
+Flameblast
+g_tags
+Spell, AoE, Fire, Channelling
+g_info
+Mana Cost: (4-7)
+Cast Time: 0.20 sec
+Critical Strike Chance: 5.00%
+Damage Effectiveness: 60%
+Requires Level 28
+g_description
+Channels to build up a large explosion, which is released when you stop using the skill. The longer you channel, the larger the area of effect and damage of the explosion, up to 10 stages.
+g_quality
+Per 1% Quality:
+1% increased Damage
+g_affix
+Deals (31-280) to (46-419) Fire Damage
+110% more Spell Damage for each stage
+90% more Damage with Ailments for each stage
++5% chance to Ignite for each Stage
+
+g_name
+Flammability
+g_tags
+Spell, AoE, Duration, Curse, Fire
+g_info
+Radius: 22
+Mana Cost: (24-50)
+Cast Time: 0.50 sec
+Requires Level 24
+g_description
+Curses all targets in an area, making them less resistant to fire damage and giving them a chance to be ignited by fire damage.
+g_quality
+Per 1% Quality:
+Ignite on Cursed enemies has 0.5% increased Duration
+g_affix
+Base duration is (9-10.9) seconds
+Cursed enemies have -(25-44)% to Fire Resistance
+Cursed enemies have +(10-14)% chance to be Ignited by Fire Damage
++(0-10) to radius
+
+g_name
+Flesh Offering
+g_tags
+Minion, Spell, Duration
+g_info
+Mana Cost: (16-33)
+Cast Time: 1.00 sec
+Requires Level 12
+g_description
+Consumes a corpse, which temporarily empowers your minions with swiftness. The skill consumes other nearby corpses, increasing the duration for each corpse consumed.
+g_quality
+Per 1% Quality:
+0.5% increased Skill Effect Duration
+g_affix
+Base duration is 3 seconds
+Grants Minions (20-30)% increased Attack Speed
+Grants Minions (20-29)% increased Movement Speed
+Grants Minions (20-30)% increased Cast Speed
+Additional 0.5 seconds Base Duration per extra Corpse consumed
+
+g_name
+Freezing Pulse
+g_tags
+Spell, Projectile, Cold
+g_info
+Mana Cost: (5-21)
+Cast Time: 0.65 sec
+Critical Strike Chance: 6.00%
+Damage Effectiveness: 150%
+Projectile Speed: 1800
+Requires Level 1
+g_description
+An icy projectile which has a chance to freeze enemies it passes through. The projectile fades quickly, reducing damage and freezing chance until it dissipates.
+g_quality
+Per 1% Quality:
+2% increased Projectile Speed
+g_affix
+Deals (8-888) to (12-1332) Cold Damage
+Projectiles Pierce all Targets
+(0-19)% increased Projectile Speed
+
+g_name
+Frost Bomb
+g_tags
+Spell, AoE, Duration, Cold
+g_info
+Mana Cost: (4-16)
+Can Store 1 Use(s)
+Cooldown Time: 2.50 sec
+Cast Time: 0.50 sec
+Critical Strike Chance: 6.00%
+Damage Effectiveness: 200%
+Requires Level 4
+g_description
+Creates a crystal that pulses with cold for a duration. Each pulse applies a debuff to nearby enemies for a secondary duration which reduces life and energy shield regeneration rate, and reduces energy shield recharge rate, and also inflicts Cold Exposure. When the crystal's duration ends, it explodes, dealing heavy cold damage to enemies around it.
+g_quality
+Per 1% Quality:
+1% increased Cold Damage
+g_affix
+Deals (14-959) to (21-1439) Cold Damage
+Base duration is 2 seconds
+Base secondary duration is 5 seconds
+Cold Exposure applies -25% to Cold Resistance
+75% reduced Life Regeneration rate
+75% reduced Energy Shield Regeneration rate
+25% reduced Energy Shield Recharge rate
+
+g_name
+Frost Wall
+g_tags
+Spell, Duration, Cold
+g_info
+Mana Cost: (9-33)
+Can Store 3 Use(s)
+Cooldown Time: 3.00 sec
+Cast Time: 0.50 sec
+Requires Level 4
+g_description
+Creates a wall of ice which holds back enemies. Targets under the wall are damaged and pushed back.
+g_quality
+Per 1% Quality:
+1% increased Skill Effect Duration
+g_affix
+Base duration is (3-4.9) seconds
+0.15 seconds between appearance of Wall sections
+Wall will be (28-56) units long
+Deals (8-462) to (12-693) Cold Damage
+
+g_name
+Frostbite
+g_tags
+Spell, AoE, Duration, Curse, Cold
+g_info
+Radius: 22
+Mana Cost: (24-50)
+Cast Time: 0.50 sec
+Requires Level 24
+g_description
+Curses all targets in an area, making them less resistant to cold damage and giving them a chance to be frozen by cold damage.
+g_quality
+Per 1% Quality:
+Freezes on Cursed enemies have 1% increased Duration
+g_affix
+Base duration is (9-10.9) seconds
+Cursed enemies have -(25-44)% to Cold Resistance
+Cursed enemies have +(10-14)% chance to be Frozen by Cold Damage
++(0-10) to radius
+
+g_name
+Frostbolt
+g_tags
+Spell, Projectile, Cold
+g_info
+Mana Cost: (6-25)
+Cast Time: 0.75 sec
+Critical Strike Chance: 5.00%
+Damage Effectiveness: 160%
+Projectile Speed: 375
+Requires Level 1
+g_description
+Fires a slow-moving projectile that pierces through enemies, dealing cold damage.
+g_quality
+Per 1% Quality:
+1% increased Cold Damage
+g_affix
+Deals (9-972) to (13-1458) Cold Damage
+Projectiles Pierce all Targets
+
+g_name
+Glacial Cascade
+g_tags
+Spell, AoE, Cold
+g_info
+Radius: 12
+Mana Cost: (12-23)
+Cast Time: 0.70 sec
+Critical Strike Chance: 5.00%
+Damage Effectiveness: 60%
+Requires Level 28
+g_description
+Icicles emerge from the ground in a series of small bursts, each damaging enemies caught in the area.
+g_quality
+Per 1% Quality:
+1% increased Damage
+g_affix
+Deals (37-354) to (56-531) Physical Damage
+60% of Physical Damage Converted to Cold Damage
++(0-2) to radius
+
+g_name
+Herald of Thunder
+g_tags
+Spell, AoE, Duration, Lightning, Herald
+g_info
+Radius: 32
+Mana Reserved: 25%
+Can Store 1 Use(s)
+Cooldown Time: 1.00 sec
+Damage Effectiveness: 120%
+Requires Level 16
+g_description
+Channel lightning through your hands, adding lightning damage to spells and attacks. If you kill a shocked enemy, lightning bolts will strike enemies around you for a short duration. The lightning bolt damage inflicted by this skill is not affected by modifiers to spell damage.
+g_quality
+Per 1% Quality:
+0.75% increased Lightning Damage
+g_affix
+Adds (2-19) to (7-76) Lightning Damage to Spells
+Adds (2-19) to (7-76) Lightning Damage to Attacks
+Deals (1-27) to (34-1303) Lightning Damage
+Base duration is 6 seconds
+Cannot inflict Shock
+
+g_name
+Ice Nova
+g_tags
+Spell, AoE, Cold
+g_info
+Radius: 30
+Mana Cost: (8-23)
+Cast Time: 0.70 sec
+Critical Strike Chance: 6.00%
+Damage Effectiveness: 120%
+Requires Level 12
+g_description
+A chilling circle of ice expands from the caster. If the caster targets near their Frostbolt projectiles, it will expand from a number of those projectiles instead. If this skill would repeat when cast this way, it will instead expand again from the same projectiles after a short delay.
+g_quality
+Per 1% Quality:
+0.5% increased Area of Effect
+g_affix
+Deals (18-518) to (26-762) Cold Damage
+Can expand from up to 2 Frostbolt Projectiles
+Adds (3-79) to (4-116) Cold Damage against Chilled Enemies
+20% less Area of Effect when Cast on Frostbolt
++(0-4) to radius
+
+g_name
+Ice Spear
+g_tags
+Spell, Projectile, Cold
+g_info
+Mana Cost: (8-23)
+Cast Time: 0.70 sec
+Critical Strike Chance: 7.00%
+Damage Effectiveness: 80%
+Projectile Speed: 1000
+Requires Level 12
+g_description
+Launches shards of ice in rapid succession. After travelling a short distance they change to a second form, which moves much faster and pierces through enemies.
+g_quality
+Per 1% Quality:
+2% increased Projectile Speed
+g_affix
+Deals (22-383) to (33-575) Cold Damage
+Second form has 600% increased Critical Strike Chance
+Second form has 300% more Projectile Speed
+Second form has +(30-49)% to Critical Strike Multiplier
+Fires an additional Projectile
+
+g_name
+Incinerate
+g_tags
+Spell, Fire, Channelling, AoE
+g_info
+Mana Cost: (2-4)
+Cast Time: 0.20 sec
+Critical Strike Chance: 5.00%
+Damage Effectiveness: 30%
+Requires Level 12
+g_description
+Continuously launches a torrent of fire from your hand, repeatedly damaging enemies. As you channel this spell longer, the flames spread wider close to you and spread longer directly in front of you. When you stop channelling you release a wave of fire damage over a wide and long area that will apply a powerful Ignite.
+g_quality
+Per 1% Quality:
+1% increased Fire Damage
+g_affix
+Deals (3-140) to (5-210) Fire Damage
+8 maximum stages
+Final wave deals 500% more Damage with Ignite
+Final wave deals 500% more Damage with Hits
+25% more Damage with Hits and Ailments for each stage
++(4-5) to radius per stage, up to 0
+100% increased angle per stage, up to 300%
+Final wave always Ignites
+
+g_name
+Kinetic Blast
+g_tags
+Attack, Projectile, AoE
+g_info
+Radius: 14
+Mana Cost: (15-16)
+Cast Time: 1.00 sec
+Damage Effectiveness: (120%-147%)
+Requires Level 28
+g_description
+Fires a projectile from a Wand that causes a series of small explosions surrounding its point of impact, each damaging enemies caught in the area.
+g_quality
+Per 1% Quality:
+0.5% increased Area of Effect
+g_affix
+Deals (120-146.6)% of Base Damage
+Creates 4 explosions
+35% less Area Damage
+(0-19)% increased Area of Effect
+
+g_name
+Lightning Spire Trap
+g_tags
+Trap, Spell, Duration, AoE, Lightning
+g_info
+Mana Cost: (13-25)
+Can Store 3 Use(s)
+Cooldown Time: 8.00 sec
+Cast Time: 1.00 sec
+Critical Strike Chance: 6.00%
+Damage Effectiveness: 70%
+Requires Level 28
+g_description
+Throws a trap which, once triggered, will repeatedly strike multiple areas around it for a duration, dealing lightning damage. Modifiers to cast speed will affect how frequently it strikes. Has a higher chance to critically strike Shocked enemies.
+g_quality
+Per 1% Quality:
+1% chance to Shock enemies
+g_affix
+Trap lasts 4 seconds
+Base duration is 3.5 seconds
+Deals (14-195) to (43-585) Lightning Damage
+(100-138)% increased Critical Strike Chance against Shocked Enemies
+Strikes every 0.35 seconds
+Strikes 3 Areas
+Throws a Trap which uses this Skill when Triggered
+
+g_name
+Lightning Tendrils
+g_tags
+Spell, AoE, Lightning, Channelling
+g_info
+Radius: 22
+Mana Cost: (1-5)
+Cast Time: 0.23 sec
+Critical Strike Chance: 6.00%
+Damage Effectiveness: 65%
+Requires Level 1
+g_description
+While you channel this skill, it releases pulses of electrical energy, dealing lightning damage in a semicircular area in front of you.
+g_quality
+Per 1% Quality:
+1% increased Lightning Damage
+g_affix
+Deals (1-37) to (4-703) Lightning Damage
+Stronger Pulses deal 50% more Damage with Hits and Ailments
+Releases a Stronger Pulse every 4 Pulses
++(0-7) to radius
+
+g_name
+Lightning Trap
+g_tags
+Trap, Spell, Projectile, Lightning
+g_info
+Mana Cost: (8-20)
+Cast Time: 1.00 sec
+Critical Strike Chance: 6.00%
+Damage Effectiveness: 135%
+Projectile Speed: 960
+Requires Level 12
+g_description
+Throws a trap that launches a ring of projectiles through the enemy that set it off, dealing lightning damage to them and subsequent targets.
+g_quality
+Per 1% Quality:
+1% increased Lightning Damage
+g_affix
+0.5% increased Effect of Shock
+Deals (18-466) to (54-1399) Lightning Damage
+Trap lasts 4 seconds
+Fires 8 additional Projectiles
+20% chance to Shock enemies
+(80-118)% increased Critical Strike Chance against Shocked Enemies
+Throws a Trap which uses this Skill when Triggered
+(0-19)% increased Effect of Shock
+
+g_name
+Lightning Warp
+g_tags
+Spell, AoE, Duration, Movement, Lightning
+g_info
+Radius: 16
+Mana Cost: (9-26)
+Cast Time: 0.80 sec
+Critical Strike Chance: 5.00%
+Damage Effectiveness: 60%
+Requires Level 10
+g_description
+Casts a delayed teleport to a target destination. When the teleport occurs, lightning damage is dealt to the area around both where the player was and where they teleported to.
+g_quality
+Per 1% Quality:
+1% increased Cast Speed
+g_affix
+Deals (1-37) to (19-707) Lightning Damage
+(20-39)% reduced Duration
+
+g_name
+Magma Orb
+g_tags
+Spell, AoE, Fire, Projectile, Chaining
+g_info
+Mana Cost: (6-23)
+Cast Time: 0.70 sec
+Critical Strike Chance: 5.00%
+Damage Effectiveness: 140%
+Requires Level 1
+g_description
+Lob a fiery orb that explodes as it strikes the ground. The skill chains, releasing another fiery orb that repeats this effect.
+g_quality
+Per 1% Quality:
+1% increased Damage
+g_affix
+Deals (9-716) to (12-1073) Fire Damage
+Chains +(1-2) Times
+
+g_name
+Malevolence
+g_tags
+Aura, Spell, AoE
+g_info
+Mana Reserved: 50%
+Can Store 1 Use(s)
+Cooldown Time: 1.20 sec
+Requires Level 24
+g_description
+Casts an aura that multiplies damage over time and increases skill effect duration of you and your allies.
+g_quality
+Per 1% Quality:
+1% increased Area of Effect
+g_affix
+You and nearby allies deal (14-20)% more Damage over Time
+You and nearby allies have (10-19)% increased Skill Effect Duration
++(0-19) to radius
+
+g_name
+Orb of Storms
+g_tags
+Lightning, Spell, Duration, AoE, Chaining
+g_info
+Mana Cost: (4-16)
+Can Store 1 Use(s)
+Cooldown Time: 0.50 sec
+Cast Time: 0.50 sec
+Critical Strike Chance: 5.00%
+Damage Effectiveness: 70%
+Requires Level 4
+g_description
+Creates a stationary electrical orb that frequently unleashes a splitting bolt of lightning at a nearby enemy. Modifiers to cast speed will increase how frequently it does this. Using a lightning skill while inside the orb's cloud unleashes additional bolts. Casting this skill again will replace the previous orb.
+g_quality
+Per 1% Quality:
+1% increased Lightning Damage
+g_affix
+Deals (3-195) to (9-584) Lightning Damage
+Base duration is 6 seconds
+Beams Split to hit (2-4) extra targets
+Strikes every 1 second
+
+g_name
+Power Siphon
+g_tags
+Attack, Projectile
+g_info
+Mana Cost: (7-11)
+Cast Time: 1.00 sec
+Damage Effectiveness: (125%-151%)
+Requires Level 12
+g_description
+Fires your wand to unleash projectiles that fire toward enemies in front of you or to your sides, dealing increased damage and granting you a power charge if an enemy is killed by, or soon after, the hit.
+g_quality
+Per 1% Quality:
+1% increased Damage
+g_affix
+Deals (125-150.7)% of Base Damage
+Fires (4-7) additional Projectiles
+20% chance to gain a Power Charge when Projectile Hits a Rare or Unique Enemy
++10% to Critical Strike Multiplier per Power Charge
+20% increased Critical Strike Chance per Power Charge
+Culling Strike
+
+g_name
+Purifying Flame
+g_tags
+Fire, Spell, AoE, Duration
+g_info
+Mana Cost: (6-25)
+Cast Time: 0.70 sec
+Critical Strike Chance: 5.50%
+Damage Effectiveness: 140%
+Requires Level 1
+g_description
+A wave of divine fire deals damage in a line, then creates Consecrated Ground and deals damage in an area around the targeted location. A larger shockwave then expands outwards, damaging enemies standing on Consecrated Ground that were not already hit.
+g_quality
+Per 1% Quality:
+0.5% increased Area of Effect
+g_affix
+Deals (7-803) to (10-1205) Physical Damage
+50% of Physical Damage Converted to Fire Damage
+Shockwave deals 25% less Damage
++(0-6) to radius of Consecrated Ground
++(0-2) to radius
+
+g_name
+Purity of Elements
+g_tags
+Aura, Spell, AoE
+g_info
+Radius: 36
+Mana Reserved: 35%
+Can Store 1 Use(s)
+Cooldown Time: 1.20 sec
+Requires Level 24
+g_description
+Casts an aura that grants elemental resistances to you and your allies.
+g_quality
+Per 1% Quality:
+1% increased Area of Effect
+g_affix
+You and nearby allies gain +(12-27)% to all Elemental Resistances
++(0-19) to radius
+
+g_name
+Purity of Lightning
+g_tags
+Aura, Spell, AoE, Lightning
+g_info
+Radius: 36
+Mana Reserved: 35%
+Can Store 1 Use(s)
+Cooldown Time: 1.20 sec
+Requires Level 24
+g_description
+Casts an aura that grants lightning resistance to you and your allies.
+g_quality
+Per 1% Quality:
+1% increased Area of Effect
+g_affix
+You and nearby allies gain (22-41)% additional Lightning Resistance
++(0-19) to radius
+You and nearby allies gain (0-4)% additional maximum Lightning Resistance
+
+g_name
+Raise Spectre
+g_tags
+Spell, Minion
+g_info
+Mana Cost: (15-28)
+Cast Time: 0.85 sec
+Requires Level 28
+g_description
+Raises a spectral version of a defeated foe as a minion to fight for you in battle.
+g_quality
+Per 1% Quality:
+1% increased Minion Movement Speed
+g_affix
+Can raise up to 1 Spectre at a time
+Minions deal (-30-10)% more Damage
+Minions have (20-0)% less Life
+Minions have (20-0)% less Energy Shield
+55% more Minion Movement Speed
+Minion Movement Speed is Capped
+Raises Spectres up to Level (32-100)
+Minions have (142-824) additional Accuracy Rating
+Minions have +30% to all Elemental Resistances
+
+g_name
+Raise Zombie
+g_tags
+Spell, Minion
+g_info
+Mana Cost: (10-38)
+Cast Time: 0.85 sec
+Requires Level 1
+g_description
+Raises a zombie minion from a corpse, which will follow you and attack enemies with a melee attack and an area of effect slam which cannot be evaded.
+g_quality
+Per 1% Quality:
+1% increased Minion Maximum Life
+g_affix
+1% increased Minion Movement Speed
+Can raise up to 3 Zombies at a time
+
+g_name
+Righteous Fire
+g_tags
+Spell, AoE, Fire
+g_info
+Radius: 18
+Can Store 1 Use(s)
+Cooldown Time: 0.30 sec
+Requires Level 16
+g_description
+Engulfs you in magical fire that rapidly burns you and nearby enemies. Your spell damage is substantially increased while under this effect. The effect ends when you have 1 life remaining.
+g_quality
+Per 1% Quality:
+1% increased Spell Damage
+g_affix
+Grants (20-39)% more Spell Damage
+Enemies Burn for 40% of your maximum Life per second as Fire Damage
+You Burn for 90% of your maximum Life per second as Fire Damage
+Enemies Burn for 40% of your maximum Energy Shield per second as Fire Damage
+You Burn for 70% of your maximum Energy Shield per second as Fire Damage
++(0-5) to radius
+
+g_name
+Scorching Ray
+g_tags
+Spell, Fire, Duration, Channelling
+g_info
+Mana Cost: (4-11)
+Cast Time: 0.50 sec
+Requires Level 12
+g_description
+Unleash a beam of fire that burns enemies it touches. Remaining in the beam intensifies the burning, adding a portion of the beam's damage in stages. Inflicts Fire Exposure at maximum stages. Enemies who leave the beam continue to burn for a duration. Increasing cast speed also increases the rate at which the beam can turn.
+g_quality
+Per 1% Quality:
+0.5% increased beam length
+g_affix
+Deals (13-488.2) Base Fire Damage per second
+Base duration is 1.5 seconds
+Additional Debuff stages add 60% of Damage
+Burning Debuff can have a maximum of 8 stages
+Fire Exposure applies -25% to Fire Resistance
+Modifiers to Spell Damage apply to this Skill's Damage Over Time effect
+
+g_name
+Shock Nova
+g_tags
+Spell, AoE, Lightning
+g_info
+Radius: 26 / 14
+Mana Cost: (12-23)
+Cast Time: 0.70 sec
+Critical Strike Chance: 6.00%
+Damage Effectiveness: 120%
+Requires Level 28
+g_description
+Casts a ring of Lightning around you, followed by a larger Lightning nova. Each effect hits enemies caught in their area with Lightning Damage.
+g_quality
+Per 1% Quality:
+2% increased Shock Duration on enemies
+g_affix
+Deals (34-371) to (102-1114) Lightning Damage
+Ring deals 80% less Damage
+20% chance to Shock enemies
+(20-39)% increased Effect of Shock
+
+g_name
+Siphoning Trap
+g_tags
+Trap, Spell, Duration, AoE, Cold
+g_info
+Mana Cost: (7-24)
+Can Store 1 Use(s)
+Cooldown Time: 4.00 sec
+Cast Time: 1.00 sec
+Requires Level 10
+g_description
+Throws a trap that applies debuff beams to a number of nearby enemies for a duration. The beams chill enemies and deal cold damage over time. A beam is also applied to you, granting life and mana regeneration based on the number of debuff beams affecting enemies.
+g_quality
+Per 1% Quality:
+1% increased Effect of Chill
+g_affix
+Trap lasts 4 seconds
+Base duration is 3 seconds
+Deals (15.5-426.3) Base Cold Damage per second
+Grants (1.3-32.4) Life Regenerated per second for each affected Enemy
+Grants (0.3-1.7) Mana Regenerated per second for each affected Enemy
+Applies beams to the closest 10 Enemies
+Grants (12.7-324.4) Life Regenerated per second if any Enemy is affected
+Grants (2.9-17.2) Mana Regenerated per second if any Enemy is affected
+Throws a Trap which uses this Skill when Triggered
+Modifiers to Spell Damage apply to this Skill's Damage Over Time effect
+
+g_name
+Soulrend
+g_tags
+Chaos, Spell, AoE, Duration, Projectile
+g_info
+Mana Cost: (14-26)
+Cast Time: 0.80 sec
+Critical Strike Chance: 5.00%
+Requires Level 28
+g_description
+Fires a projectile that turns towards enemies in front of it, damaging and piercing through those it hits, and leeching some of that damage as energy shield. As the projectile travels, it repeatedly applies a short but powerful chaos damage over time debuff to each enemy in an area around it.
+g_quality
+Per 1% Quality:
+1% increased Chaos Damage
+g_affix
+Deals (137.1-1944.3) Base Chaos Damage per second
+Deals (16-448) to (24-672) Chaos Damage
+4% of Spell Damage Leeched as Energy Shield
+Modifiers to Spell Damage apply to this Skill's Damage Over Time effect
+Projectiles Pierce all Targets
+
+g_name
+Spark
+g_tags
+Spell, Projectile, Duration, Lightning
+g_info
+Mana Cost: (5-21)
+Cast Time: 0.65 sec
+Critical Strike Chance: 6.00%
+Projectile Speed: 560
+Requires Level 1
+g_description
+Launches unpredictable sparks that move randomly until they hit an enemy or expire.
+g_quality
+Per 1% Quality:
+1% increased Projectile Speed
+g_affix
+Deals (1-63) to (20-1198) Lightning Damage
+Base duration is 2 seconds
+Fires (4-6) additional Projectiles
+(0-19)% increased Projectile Speed
+
+g_name
+Spirit Offering
+g_tags
+Minion, Spell, Duration
+g_info
+Mana Cost: (16-33)
+Cast Time: 1.00 sec
+Requires Level 12
+g_description
+Consumes a corpse, granting energy shield, extra chaos damage and elemental resistances to your minions. The new energy shield is recovered as it's granted. The skill consumes other nearby corpses, increasing the duration and amount of energy shield granted for each corpse consumed.
+g_quality
+Per 1% Quality:
+0.5% increased Skill Effect Duration
+g_affix
+Base duration is 3 seconds
+Additional 0.5 seconds Base Duration per extra Corpse consumed
+Minions gain 2% of their Maximum Life as
+Extra Maximum Energy Shield for each corpse consumed
+Minions gain (20-29)% of their Physical Damage as Extra Chaos Damage
+Minions gain +(20-30)% to all Elemental Resistances
+
+g_name
+Storm Brand
+g_tags
+Lightning, Spell, AoE, Chaining, Duration, Brand
+g_info
+Mana Cost: (8-21)
+Cast Time: 0.65 sec
+Critical Strike Chance: 5.50%
+Damage Effectiveness: 30%
+Requires Level 12
+g_description
+Creates a magical brand which can attach to a nearby enemy. It periodically activates while attached, firing beams which deal damage to nearby enemies and those around them. The brand will detach if the enemy dies.
+g_quality
+Per 1% Quality:
+0.5% increased Cast Speed
+g_affix
+You can have an additional Brand Attached to an Enemy
+Activates every 0.5 seconds while Attached
+Can be Detached for a total Duration of 10 seconds
+Deals (2-75) to (7-225) Lightning Damage
+Sends beams to 3 Enemies, including the Branded Enemy
+Deals 50% more Damage to Branded Enemy
+Increases and Reductions to Cast Speed also apply to this Skill's Activation frequency
+
+g_name
+Storm Burst
+g_tags
+AoE, Spell, Lightning, Channelling, Duration
+g_info
+Mana Cost: (2-5)
+Cast Time: 0.25 sec
+Critical Strike Chance: 6.00%
+Damage Effectiveness: 25%
+Requires Level 12
+g_description
+Unleash orbs of energy while you channel that repeatedly jump towards the targeted location until their duration expires, dealing damage in small area after each jump. When you stop channelling, all remaining orbs explode, dealing higher damage in a larger area.
+g_quality
+Per 1% Quality:
+0.5% increased Area of Effect
+g_affix
+Deals (6-114) to (8-171) Physical Damage
+Exploding Orbs deal 75% of Skill Damage for each 0.4 seconds of remaining Duration
+50% of Physical Damage Converted to Lightning Damage
++(0-2) to radius
+
+g_name
+Storm Call
+g_tags
+Spell, AoE, Duration, Lightning
+g_info
+Radius: 20
+Mana Cost: (6-16)
+Cast Time: 0.50 sec
+Critical Strike Chance: 6.00%
+Requires Level 12
+g_description
+Sets a marker at a location. After a short duration, lightning strikes the marker, dealing damage around it. When this happens, it will also set off the lightning at any other markers you've cast.
+g_quality
+Per 1% Quality:
+0.5% increased Area of Effect
+g_affix
+Deals (16-408) to (31-758) Lightning Damage
+Base duration is 1.5 seconds
+(10-29)% increased Effect of Shock
++(0-6) to radius
+
+g_name
+Summon Chaos Golem
+g_tags
+Chaos, Minion, Spell, Golem
+g_info
+Mana Cost: (30-54)
+Can Store 1 Use(s)
+Cooldown Time: 6.00 sec
+Cast Time: 1.00 sec
+Requires Level 34
+g_description
+Summons a Chaos Golem that grants you Physical Damage Reduction. The Chaos Golem can use a damage over time Chaos aura and a cascade of Chaos spikes in addition to its melee attack.
+g_quality
+Per 1% Quality:
+1% increased Minion Maximum Life
+g_affix
+1% increased Minion Damage
+Can Summon up to 1 Golem at a time
+Golems grant (3-4)% additional Physical Damage Reduction
+(30-68)% increased Minion Maximum Life
+(0-10)% increased Character Size
+
+g_name
+Summon Holy Relic
+g_tags
+Minion, Spell
+g_info
+Mana Cost: (11-28)
+Can Store 1 Use(s)
+Cooldown Time: 2.00 sec
+Cast Time: 1.00 sec
+Requires Level 4
+g_description
+Summon a Holy Relic that stays near you. When you hit an enemy with an attack, the Holy Relic triggers a nova spell, with a very short cooldown, that deals physical damage to enemies and grants life regeneration to allies. This life regeneration is higher when applied to minions.
+g_quality
+Per 1% Quality:
+Minions have 0.5% increased Area of Effect
+g_affix
+Maximum 1 Summoned Holy Relic
+Minions cannot Taunt Enemies
+(0-76)% more Minion Movement Speed
+
+g_name
+Summon Lightning Golem
+g_tags
+Lightning, Minion, Spell, Golem
+g_info
+Mana Cost: (30-54)
+Can Store 1 Use(s)
+Cooldown Time: 6.00 sec
+Cast Time: 1.00 sec
+Requires Level 34
+g_description
+Summons a Lightning Golem that grants you increased Attack and Cast speed. The Lightning Golem fires a projectile spell, creates orbs of Lightning that zap nearby enemies, and casts a temporary aura that grants added Lightning Damage to spells and attacks used by the Golem and its nearby allies.
+g_quality
+Per 1% Quality:
+1% increased Minion Maximum Life
+g_affix
+1% increased Minion Damage
+Can Summon up to 1 Golem at a time
+Golems grant (6-9)% increased Attack and Cast Speed
+(30-68)% increased Minion Maximum Life
+(0-19)% increased Character Size
+
+g_name
+Summon Skeleton
+g_tags
+Spell, Minion, Duration
+g_info
+Mana Cost: (4-12)
+Cast Time: 0.50 sec
+Requires Level 10
+g_description
+Summons a slow moving skeletal minion that dies after a duration. Does not require a corpse to be consumed.
+g_quality
+Per 1% Quality:
+Minions deal 1% increased Damage
+g_affix
+Summons 1 Skeleton Warrior
+Can summon up to 5 Skeletons at a time
+Base duration is 20 seconds
+Minions gain 50% more Added Damage
+
+g_name
+Tempest Shield
+g_tags
+Spell, Lightning, Chaining, Duration
+g_info
+Mana Cost: (7-16)
+Cast Time: 0.25 sec
+Critical Strike Chance: 6.00%
+Damage Effectiveness: 60%
+Requires Level 16
+g_description
+Enchants your shield with the power of storms, which lashes out to deal arcing lightning damage to attackers when you block them. Blocking refreshes the duration of Tempest Shield.
+g_quality
+Per 1% Quality:
+1% increased Lightning Damage
+g_affix
+Deals (24-284) to (36-426) Lightning Damage
++3% Chance to Block Attack Damage while holding a Shield
+Chains +1 Times
+Base duration is 12 seconds
++3% Chance to Block Spell Damage while holding a Shield
+
+g_name
+Vaal Arc
+g_tags
+Vaal, Spell, Chaining, Lightning, Duration
+g_info
+Souls Per Use: 25 (N) / 
+Can Store 1 Use(s)
+Soul Gain Prevention: 6.000 sec
+Cast Time: 0.80 sec
+Critical Strike Chance: 5.00%
+Damage Effectiveness: 180%
+Requires Level 12
+g_description
+A shocking arc of lightning stretches from the caster to a targeted enemy and chains to other nearby enemies. Each time the beam chains it will also chain simultaneously to a second enemy, but no enemy can be hit twice by the beams. Also grants a buff making you lucky when damaging enemies with Arc for a short duration.
+g_quality
+Per 1% Quality:
+1.5% increased Shock Duration on enemies
+g_affix
+Deals (38-924) to (64-1539) Lightning Damage
+100% chance to Shock enemies
+Chains +(5-9) Times
+100% increased Effect of Shock
+100% increased Shock Duration on enemies
+15% more Damage for each remaining Chain
+Modifiers to Buff Duration also apply to this Skill's Soul Gain Prevention
+Corrupted
+
+g_name
+Vaal Blight
+g_tags
+Vaal, Spell, Chaos, AoE, Duration, Channelling
+g_info
+Souls Per Use: 30 (N) / 
+Can Store 1 Use(s)
+Soul Gain Prevention: 8.000 sec
+Cast Time: 0.60 sec
+Requires Level 1
+g_description
+Apply a powerful debuff to enemies around you which deals chaos damage over time. Then applies two additional layers in a larger area, growing greatly in size each time. Enemies are also substantially hindered for a shorter secondary duration, slowing their movement.
+g_quality
+Per 1% Quality:
+0.5% increased Area of Effect
+g_affix
+Deals (4.3-524.7) Base Chaos Damage per second
+Base duration is 6 seconds
+Base secondary duration is 3 seconds
+80% reduced Movement Speed
+Debuff can have up to 20 layers of Damage
+Hindered Enemies take 20% increased Chaos Damage
+Modifiers to Spell Damage apply to this Skill's Damage Over Time effect
+Modifiers to Skill Effect Duration also apply to this Skill's Soul Gain Prevention
++(0-9) to radius
+Corrupted
+
+g_name
+Vaal Clarity
+g_tags
+Aura, Vaal, Spell, AoE, Duration
+g_info
+Radius: 36
+Souls Per Use: 30 (N) / 
+Can Store 1 Use(s)
+Can Store 1 Use(s)
+Soul Gain Prevention: 14.000 sec
+Cooldown Time: 0.50 sec
+Requires Level 10
+g_description
+Casts a temporary aura that lets you and your allies cast skills without paying their mana costs.
+g_quality
+Per 1% Quality:
+1% increased Area of Effect
+g_affix
+Base duration is (8-9.9) seconds
+Your and nearby allies' Skills Cost no Mana
+Modifiers to Buff Duration also apply to this Skill's Soul Gain Prevention
++(0-19) to radius
+Corrupted
+
+g_name
+Vaal Cold Snap
+g_tags
+Vaal, Spell, AoE, Duration, Cold
+g_info
+Souls Per Use: 35 (N) / 
+Can Store 1 Use(s)
+Soul Gain Prevention: 8.000 sec
+Cast Time: 0.85 sec
+Critical Strike Chance: 6.00%
+Damage Effectiveness: 200%
+Requires Level 16
+g_description
+Creates a sudden burst of cold around you, damaging enemies. This also creates a chilling area around you which expands and deals cold damage over time to surrounding enemies in addition to chilling them. Enemies that die while in the area grant Frenzy Charges, and you will passively gain Frenzy Charges while there are enemies in the area.
+g_quality
+Per 1% Quality:
+0.5% increased Area of Effect
+g_affix
+Deals (35-1002) to (53-1502) Cold Damage
+Base duration is 4 seconds
+Always Freezes enemies
+Gain a Frenzy Charge when an Enemy Dies while in this Skill's Area
+Every second, gain a Frenzy Charge if an Enemy is in this Skill's Area
+Deals (29.4-1495.5) Base Cold Damage per second
+Modifiers to Spell Damage apply to this Skill's Damage Over Time effect
+Modifiers to Skill Effect Duration also apply to this Skill's Soul Gain Prevention
+(0-19)% increased Effect of Chill
+Corrupted
+
+g_name
+Vaal Discipline
+g_tags
+Aura, Vaal, Spell, AoE, Duration
+g_info
+Radius: 36
+Souls Per Use: 50 (N) / 
+Can Store 1 Use(s)
+Can Store 1 Use(s)
+Soul Gain Prevention: 5.000 sec
+Cooldown Time: 0.50 sec
+Requires Level 24
+g_description
+Casts a temporary aura that prevents energy shield recharge being delayed by damage taken for you and your allies.
+g_quality
+Per 1% Quality:
+1% increased Area of Effect
+g_affix
+Base duration is 3 seconds
+Your and nearby allies' Energy Shield Recharges are not delayed by Damage
+Modifiers to Buff Duration also apply to this Skill's Soul Gain Prevention
++(0-19) to radius
+Corrupted
+
+g_name
+Vaal Fireball
+g_tags
+Vaal, Projectile, Spell, AoE, Fire
+g_info
+Souls Per Use: 30 (N) / 
+Can Store 1 Use(s)
+Soul Gain Prevention: 5.000 sec
+Cast Time: 0.75 sec
+Critical Strike Chance: 6.00%
+Damage Effectiveness: 180%
+Requires Level 1
+g_description
+Launches a series of fireballs in all directions around the caster.
+g_quality
+Per 1% Quality:
+0.5% chance to Ignite enemies
+g_affix
+Deals (9-1095) to (14-1643) Fire Damage
+Fires 0 Projectile
+(20-39)% chance to Ignite enemies
+(50-88)% more Damage with Ignite
++(0-4) to radius
+Corrupted
+
+g_name
+Vaal Flameblast
+g_tags
+Vaal, Spell, AoE, Fire, Channelling
+g_info
+Souls Per Use: 30 (N) / 
+Can Store 1 Use(s)
+Soul Gain Prevention: 6.000 sec
+Cast Time: 0.50 sec
+Critical Strike Chance: 5.00%
+Damage Effectiveness: 60%
+Requires Level 28
+g_description
+Targets an area and builds up stages in that area based on cast speed. It explodes every 5 stages, until it reaches a maximum of 15. As it gains more stages, the area gets smaller but the damage gets higher.
+g_quality
+Per 1% Quality:
+1% increased Damage
+g_affix
+Deals (31-280) to (46-419) Fire Damage
+110% more Spell Damage for each stage
+90% more Damage with Ailments for each stage
++5% chance to Ignite for each Stage
+-1 to Radius for each Stage
+Corrupted
+
+g_name
+Vaal Ice Nova
+g_tags
+Vaal, Spell, AoE, Cold
+g_info
+Souls Per Use: 25 (N) / 
+Can Store 1 Use(s)
+Soul Gain Prevention: 4.000 sec
+Cast Time: 0.80 sec
+Critical Strike Chance: 6.00%
+Damage Effectiveness: 70%
+Requires Level 12
+g_description
+A chilling circle of ice expands from the caster, repeating from every enemy it hits. If the caster targets near one of their Frostbolt projectiles, it will expand from the projectile instead.
+g_quality
+Per 1% Quality:
+0.5% increased Area of Effect
+g_affix
+Deals (11-274) to (17-428) Cold Damage
+Causes smaller novas up to 5 times on enemies hit
+20% reduced Area of Effect each repeat
+Corrupted
+
+g_name
+Vaal Impurity of Lightning
+g_tags
+Aura, Vaal, Spell, AoE, Duration, Lightning
+g_info
+Souls Per Use: 50 (N) / 
+Can Store 1 Use(s)
+Can Store 1 Use(s)
+Soul Gain Prevention: 8.000 sec
+Cooldown Time: 0.50 sec
+Requires Level 24
+g_description
+Casts an aura that reduces lightning damage taken and provides shock immunity to you and nearby allies, and makes hits against nearby enemies ignore their lightning resistance.
+g_quality
+Per 1% Quality:
+1% increased Area of Effect
+g_affix
+25% less Lightning Damage taken
++(14-20) to radius
+Base duration is 3 seconds
+You and nearby allies are Immune to Shock
+Nearby Enemies' Lightning Resistance is Ignored by Hits
+Modifiers to Skill Effect Duration also apply to this Skill's Soul Gain Prevention
+(0-76)% increased effect of Aura
+Corrupted
+
+g_name
+Vaal Lightning Trap
+g_tags
+Trap, Vaal, Spell, Projectile, Duration, Lightning
+g_info
+Souls Per Use: 20 (N) / 
+Can Store 3 Use(s)
+Soul Gain Prevention: 6.000 sec
+Cast Time: 1.00 sec
+Critical Strike Chance: 6.00%
+Damage Effectiveness: 135%
+Requires Level 12
+g_description
+Throws a trap that launches a ring of projectiles through the enemy that set it off, dealing lightning damage to them and subsequent targets and leaving a trail of shocking ground.
+g_quality
+Per 1% Quality:
+Shocked Ground causes 0.25% increased Damage taken
+g_affix
+Deals (18-466) to (54-1399) Lightning Damage
+Trap lasts 4 seconds
+Fires 8 additional Projectiles
+Base duration is 4 seconds
+Shocked Ground causes 15% increased Damage taken
+Fires 0 Projectiles in a Nova
+Throws a Trap which uses this Skill when Triggered
+Projectiles leave Shocking Ground
+Projectiles Pierce all Targets
+Modifiers to Skill Effect Duration also apply to this Skill's Soul Gain Prevention
+Corrupted
+
+g_name
+Vaal Power Siphon
+g_tags
+Vaal, Attack, Projectile
+g_info
+Souls Per Use: 15 (N) / 
+Can Store 2 Use(s)
+Soul Gain Prevention: 4.000 sec
+Cast Time: 1.00 sec
+Damage Effectiveness: (150%-184%)
+Requires Level 12
+g_description
+Fires your wand simultaneously at all nearby enemies, culling those close to death and granting you a power charge for each. Cannot be supported by Volley.
+g_quality
+Per 1% Quality:
+1% increased Damage
+g_affix
+Deals (150-184.2)% of Base Damage
+Gain a Power Charge when Projectile Hits a Rare or Unique Enemy
++10% to Critical Strike Multiplier per Power Charge
+20% increased Critical Strike Chance per Power Charge
+Fires 0 Projectile
+Can't be Evaded
+Culling Strike
+Corrupted
+
+g_name
+Vaal Righteous Fire
+g_tags
+Vaal, Spell, AoE, Fire, Duration
+g_info
+Souls Per Use: 40 (N) / 
+Can Store 1 Use(s)
+Can Store 1 Use(s)
+Soul Gain Prevention: 12.000 sec
+Cooldown Time: 0.50 sec
+Requires Level 16
+g_description
+Sacrifices a portion of your Life and Energy Shield to engulf you in magical fire that rapidly burns nearby enemies for a duration. Your spell damage is substantially increased while under this effect.
+g_quality
+Per 1% Quality:
+1% increased Burning Damage
+g_affix
+Sacrifices 30% of your total Energy Shield and Life
+Deals (161-180)% of Sacrificed Energy Shield and Life as Fire Damage per second
+Base duration is 4 seconds
+Grants (15-28)% more Spell Damage
+Modifiers to Skill Effect Duration also apply to this Skill's Soul Gain Prevention
+Corrupted
+
+g_name
+Vaal Spark
+g_tags
+Vaal, Spell, Projectile, Duration, Lightning
+g_info
+Souls Per Use: 30 (N) / 
+Can Store 1 Use(s)
+Soul Gain Prevention: 6.000 sec
+Cast Time: 0.65 sec
+Critical Strike Chance: 5.00%
+Damage Effectiveness: 40%
+Requires Level 1
+g_description
+Continuously launches unpredictable sparks in all directions that move randomly until they hit an enemy or expire.
+g_quality
+Per 1% Quality:
+1% increased Projectile Speed
+g_affix
+Deals (1-24) to (11-454) Lightning Damage
+Base duration is 2 seconds
+Fires 0 Projectile in a random direction
+Modifiers to Skill Effect Duration also apply to this Skill's Soul Gain Prevention
+(0-19)% increased Projectile Speed
+Corrupted
+
+g_name
+Vaal Storm Call
+g_tags
+Vaal, Spell, AoE, Duration, Lightning
+g_info
+Souls Per Use: 30 (N) / 
+Can Store 1 Use(s)
+Soul Gain Prevention: 9.000 sec
+Cast Time: 0.50 sec
+Critical Strike Chance: 6.00%
+Requires Level 12
+g_description
+Sets a marker at a location. Lightning strikes random enemies around the marker repeatedly over the skill's duration, dealing damage in an area around the strike. Modifiers to the skill's duration will also affect the delay between these strikes. When the duration ends, a large bolt of lightning strikes the marker, dealing damage around it.
+g_quality
+Per 1% Quality:
+0.5% increased Area of Effect
+g_affix
+Deals (14-370) to (26-687) Lightning Damage
+Base duration is 6 seconds
+(10-29)% increased Effect of Shock
+Strikes an Enemy every 0.25 seconds
+Modifiers to Skill Effect Duration also apply to this Skill's Soul Gain Prevention
+Corrupted
+
+g_name
+Vaal Summon Skeletons
+g_tags
+Vaal, Spell, Minion, Duration
+g_info
+Souls Per Use: 50 (N) / 
+Can Store 1 Use(s)
+Soul Gain Prevention: 10.000 sec
+Cast Time: 0.80 sec
+Requires Level 10
+g_description
+Summons an army of skeletal warriors, archers and mages, led by a powerful general.
+g_quality
+Per 1% Quality:
+Minions deal 1% increased Damage
+g_affix
+Summons (14-21) Skeleton Warriors
+Summons (2-9) Skeleton Archers
+Summons 1 Skeleton General
+Can summon up to (17-36) Skeletons at a time
+Base duration is 20 seconds
+Summons (0-5) Skeleton Mages
+Corrupted
+
+g_name
+Vortex
+g_tags
+Spell, AoE, Cold, Duration
+g_info
+Mana Cost: (11-20)
+Can Store 1 Use(s)
+Cooldown Time: 1.80 sec
+Critical Strike Chance: 6.50%
+Requires Level 28
+g_description
+An icy blast explodes around the caster, dealing cold damage to enemies, and leaving behind a whirling vortex which deals cold damage over time and chills enemies caught in it. If the caster targets near their Frostbolt projectiles, it will explode from a number of those projectiles instead, destroying them.
+g_quality
+Per 1% Quality:
+0.5% increased Area of Effect
+g_affix
+Deals (38-524) to (57-787) Cold Damage
+Base duration is 3 seconds
+Deals (106.5-1456.9) Base Cold Damage per second
+Can explode from up to 5 Frostbolt Projectiles
+20% less Area of Effect when Cast on Frostbolt
+Modifiers to Spell Damage apply to this Skill's Damage Over Time effect
+(0-76)% increased Cooldown Recovery Speed
+
+g_name
+Wave of Conviction
+g_tags
+Fire, Lightning, Spell, AoE, Duration
+g_info
+Mana Cost: (9-23)
+Cast Time: 0.70 sec
+Critical Strike Chance: 6.00%
+Damage Effectiveness: 160%
+Requires Level 16
+g_description
+An expanding wave of energy surges forward, damaging enemies in a cone-shaped area over a duration. Each enemy hit is inflicted with Exposure matching the element of which they took the highest damage. Only one Wave of Conviction can be active at a time
+g_quality
+Per 1% Quality:
+1% increased Elemental Damage
+g_affix
+Deals (32-972) to (48-1459) Physical Damage
+25% of Physical Damage Converted to Fire Damage
+25% of Physical Damage Converted to Lightning Damage
+Base secondary duration is 4 seconds
+(0-38)% increased Skill Effect Duration
+
+g_name
+Winter Orb
+g_tags
+Cold, Spell, Channelling, AoE, Duration, Projectile
+g_info
+Mana Cost: (2-4)
+Cast Time: 0.25 sec
+Critical Strike Chance: 6.00%
+Damage Effectiveness: 50%
+Requires Level 28
+g_description
+Channel to conjure an orb above you, which pelts nearby enemies with projectiles that impact the ground and explode. Channelling for longer builds up stages on the skill. When you stop channelling, the stages decay over a duration.
+g_quality
+Per 1% Quality:
+0.5% increased Cast Speed
+g_affix
+Deals (25-232) to (31-289) Cold Damage
+Maximum 10 Stages
+Fires projectiles every 0.8 seconds
++0.4 seconds to Base Duration per Stage
+15% increased Projectile Frequency per Stage
+
+g_name
+Wither
+g_tags
+Spell, AoE, Duration, Chaos, Channelling
+g_info
+Mana Cost: (3-9)
+Cast Time: 0.28 sec
+Requires Level 10
+g_description
+Casts a debilitating debuff on enemies in an area, hindering their movement and also inflicts the Withered debuff, which increases the Chaos Damage they take and can stack up to 15 times.
+g_quality
+Per 1% Quality:
+1% increased Skill Effect Duration
+g_affix
+(30-36)% reduced Movement Speed
+6% increased Chaos Damage taken
+Base duration is 0.5 seconds
+Withered lasts 2 seconds
+(0-19)% increased Area of Effect
+
+g_name
+Wrath
+g_tags
+Aura, Spell, AoE, Lightning
+g_info
+Radius: 36
+Mana Reserved: 50%
+Can Store 1 Use(s)
+Cooldown Time: 1.20 sec
+Requires Level 24
+g_description
+Casts an aura that adds lightning damage to the attacks of you and your allies, and makes your spells deal more lightning damage.
+g_quality
+Per 1% Quality:
+1% increased Area of Effect
+g_affix
+You and nearby allies deal (2-16) to (37-248) additional Lightning Damage with Attacks
+You and nearby allies deal (15-21)% more Spell Lightning Damage
++(0-19) to radius
+
+g_name
+Zealotry
+g_tags
+Aura, Spell, AoE
+g_info
+Mana Reserved: 50%
+Can Store 1 Use(s)
+Cooldown Time: 1.20 sec
+Requires Level 24
+g_description
+Casts an aura that grants bonuses to damage and critical strike chance of spells to you and your allies, and gives a chance to create Consecrated Ground against stronger enemies.
+g_quality
+Per 1% Quality:
+1% increased Area of Effect
+g_affix
+You and nearby allies deal (10-15)% more Spell Damage
+You and nearby allies have (20-39)% increased Spell Critical Strike Chance
+You and nearby allies have a 10% chance to create Consecrated Ground on Hitting a Rare or Unique Enemy, lasting 8 seconds
++(0-19) to radius
+
+g_name
+Detonate Mines
+g_tags
+Spell
+g_info
+Can Store 1 Use(s)
+Cooldown Time: 0.20 sec
+Cast Time: 0.20 sec
+Requires Level 8
+g_description
+Detonates all the Remote Mines you have placed.
+g_quality
+Per 1% Quality:
+5% increased Cast Speed
+g_affix
+
+g_name
+Portal
+g_tags
+Spell
+g_info
+Cast Time: 2.50 sec
+Requires Level 10
+g_description
+Creates a portal to the current area's town.
+g_quality
+Per 1% Quality:
+3% increased Cast Speed
+g_affix
+
+g_name
+Vaal Breach
+g_tags
+Vaal, Spell
+g_info
+Souls Per Use: 100 (N) / 
+Can Store 1 Use(s)
+Soul Gain Prevention: 40.000 sec
+Cast Time: 2.50 sec
+Requires Level 10
+g_description
+Creates a breach, making you vulnerable to its powerful inhabitants.
+g_quality
+Per 1% Quality:
+3% increased Cast Speed
+g_affix
+Monsters from the Breach do not grant Experience or drop Items
+Corrupted

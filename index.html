@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <meta charset="utf-8">
+        <title>PoeQuery</title>
+        <meta name="viewport" content="width=device-width", initial-scale=1.0>
+        <meta name="description" content="This is a fan made website designed to search and filter in-game Unique items in the popular ARPG Path of Exile">
+        <link rel="stylesheet" href="master_style.css">
+        <link rel="stylesheet" type="text/css" href="slick/slick.css"/>
+        <link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
+    </head>
+<body>
+    <button id="scroll_top" title="scroll_up" href="" onclick="click_top()">Back To Top</button>
+    <header class="text_banner">
+        <nav>
+            <h1 class="title">
+                <a href="" class="title">PoeQuery</a>
+            </h1>
+            <label for="query"></label><input class="filter_bar" type="text" id="query"
+            placeholder="Search Items..." aria-label="Search for anything" oninput="search()">
+        </nav>
+    </header>
+    <main>
+        <h2 class="filter_these">
+            <ul class="unique_filters">
+                <li class="filters Uniques" onclick="return get_json('Uniques');"><a href="">All</a></li>
+                <li class="filters Weapons" onclick="return get_json('Weapons');"><a href="">Weapons</a></li>
+                <li class="filters AllArmours" onclick="return get_json('AllArmours');" ><a href="">Armours</a></li>
+                <li class="filters Flasks" onclick="return get_json('Flasks');"><a href="">Flasks</a></li>
+                <li class="filters Maps" onclick="return get_json('Maps');"><a href="">Maps</a></li>
+                <li class="filters2 Jewels" onclick="return get_json('Jewels');"><a href="">Jewels</a></li>
+            </ul>
+            <ul class="unique_filters2" id="click_filter"></ul>
+            <ul class="unique_filters3" id="click_filter2"></ul>
+            </div>
+        </h2>
+        <div class="queries">
+            <div class="item_result" id="react_root"></div>
+        </div>
+    </main>
+    <script type="text/javascript" src="Javascript/Uniques.js"></script>
+    <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.min.js"></script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.plugins.min.js"></script>
+    <script type="text/javascript" src="slick/slick.js"></script>
+    <script type="text/javascript" src="slick/slick2.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@12.0.0/dist/lazyload.min.js"></script>
+</body>
+
+</html>
